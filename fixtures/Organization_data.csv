@@ -1,0 +1,110 @@
+model,pk,name
+portal_backend.Organization,1,PUP Epistemic League of Interactive future Teachers of English (PUP-ELITE)
+portal_backend.Organization,2,Bachelor of Elementary and Secondary Teaching Society (BEST SOCIETY)
+portal_backend.Organization,3,"Science Instructors of Education, Nature, Technology, and Innovation Alliance (SCIENTIA)"
+portal_backend.Organization,4,Mathematics: Road To Excellence (MATH:RIIX)
+portal_backend.Organization,5,PUP Peer Facilitators Association
+portal_backend.Organization,6,PUP Hygears
+portal_backend.Organization,7,Political Science Society
+portal_backend.Organization,8,MOVE TO THE GROOVE
+portal_backend.Organization,9,Junior Political Economists’ Guild
+portal_backend.Organization,10,PUP Association of Students for Computer Intelligence Integration
+portal_backend.Organization,11,Future Business Teachers’ Organization
+portal_backend.Organization,12,FOR ADULTS ONLY DANCE CREW
+portal_backend.Organization,13,JUNIOR MARKETING EXECUTIVES
+portal_backend.Organization,14,American Concrete Institute Philippines – Polytechnic University of the Philippines Student Chapter  (ACIP-PUPSC)
+portal_backend.Organization,15,Electrical Engineering - Wired
+portal_backend.Organization,16,DZMC –Young Communicators’ Guild
+portal_backend.Organization,17,OMT-ICT Academic Organization
+portal_backend.Organization,18,Association of Concerned Transportation Students
+portal_backend.Organization,19,Polytechnic University of the Philippines – Association of DOST Scholars (PUP-ADS)
+portal_backend.Organization,20,Circle of Public Administration and Governance Students
+portal_backend.Organization,21,GUILD OF LIVELIHOOD AND TECHNOLOGY EDUCATION STUDENTS
+portal_backend.Organization,22,PUP BES Honors Society
+portal_backend.Organization,23,PUP HNS Honors Society
+portal_backend.Organization,24,PUP Tourism Management Society
+portal_backend.Organization,25,Hospitality Management Society
+portal_backend.Organization,26,Quadro Photography Club
+portal_backend.Organization,27,POLYTECHNIC UNIVERSITY OF THE PHILIPPINES’ Social Studies Guild
+portal_backend.Organization,28,Polytechnic University of the Philippines Manila Pre-Law Society
+portal_backend.Organization,29,PUP Sociology Society
+portal_backend.Organization,30,Junior Financial Executives
+portal_backend.Organization,31,Junior Cooperators Association
+portal_backend.Organization,32,PUP Physics Society
+portal_backend.Organization,33,PUP Senior High Organization
+portal_backend.Organization,34,Association of Concerned Computer Engineering Students for Service (ACCESS)
+portal_backend.Organization,35,PUP Economics Research Society
+portal_backend.Organization,36,BAND OF YOUNG AND OUTSTANDING BARTENDERS
+portal_backend.Organization,37,Master of Science in Information Technology Society
+portal_backend.Organization,38,Students’ Integrated League of Interior Design
+portal_backend.Organization,39,PUP BroadCircle
+portal_backend.Organization,40,Viva Voce COC
+portal_backend.Organization,41,PUP-SAMAHANG NAGTATAGUYOD NG IISANG DIWA’T ADHIKA
+portal_backend.Organization,42,PUP Communication Society
+portal_backend.Organization,43,Advertising and Public Relations Organization of Students
+portal_backend.Organization,44,MULAT Documentary Guild
+portal_backend.Organization,45,Christians on Demand at Law
+portal_backend.Organization,46,CRU
+portal_backend.Organization,47,Polytechnic University of the Philippines Junior Philippine Institute of Accountants Manila (PUP JPIA Manila)
+portal_backend.Organization,48,STUDENTS’ ACTIONS VITAL TO THE ENVIRONMENT AND MOTHER EARTH MOVEMENT
+portal_backend.Organization,49,PUP-Railway Engineering Students’ Society (PUP-RAILSS)
+portal_backend.Organization,50,Society of Information Technology Educators
+portal_backend.Organization,51,PUP AGGREGATES
+portal_backend.Organization,52,Philippine Society of Mechanical Engineers – Polytechnic University of the Philippines Student Unit
+portal_backend.Organization,53,Polytechnic University of The Philippines – The Programmers’ Guild
+portal_backend.Organization,54,Bible Readers Society International – Polytechnic University of the Philippines (PUP) Chapter
+portal_backend.Organization,55,Polytechnic University of the Philippines – College of Engineering Honors' Society
+portal_backend.Organization,56,Philippine Association of Food Technologists Inc. – Theta Chapter
+portal_backend.Organization,57,The PUP Artist Guild for Excellence
+portal_backend.Organization,58,PUP Sintang Pusa
+portal_backend.Organization,59,PUP Statistics Students’ Clique
+portal_backend.Organization,60,Master of Arts in Filipino Society
+portal_backend.Organization,61,Polytechnic University of the Philippines – CHEMICAL SOCIETY
+portal_backend.Organization,62,PUP Mathematics Club
+portal_backend.Organization,63,PUP Circle of Research Enthusiasts (PUP CORE)
+portal_backend.Organization,64,IIEE-Electrical Engineering Network
+portal_backend.Organization,65,Every Nation Campus Polytechnic University of the Philippines
+portal_backend.Organization,66,Ace Prime Dancers (APD)
+portal_backend.Organization,67,BAYANIHAN YOUTH for PEACE Inc.
+portal_backend.Organization,68,Gabriela Youth Polytechnic University of the Philippines
+portal_backend.Organization,69,PUP BiblioFlix
+portal_backend.Organization,70,Polytechnic University of the Philippines-Radio Engineering Circle Manila Section
+portal_backend.Organization,71,PUP Students’ Party for Equality and Advancement of Knowledge
+portal_backend.Organization,72,PUP SCHOOL OF DEBATERS
+portal_backend.Organization,73,Women’s Initiative for Social Development and Freedom (WISDOM)
+portal_backend.Organization,74,YOUTH ON THE ROCK
+portal_backend.Organization,75,Human Resource Students Society
+portal_backend.Organization,76,PUP SOCIETY OF BIOLOGY STUDENTS
+portal_backend.Organization,77,Rotaract Club of Polytechnic University of the Philippines
+portal_backend.Organization,78,Polytechnic University of the Philippines Junior Philippine Association of Secretaries and  Administrative Professionals
+portal_backend.Organization,79,Institute of Bachelors in Information Technology Studies
+portal_backend.Organization,80,Philippine Institute of Industrial Engineers- PUP Student Chapter
+portal_backend.Organization,81,Society of Engineering Technology Students
+portal_backend.Organization,82,Kalasag Christian Fellowship
+portal_backend.Organization,83,National Network of Agrarian Reform Advocates-Youth PUP (NNARA-Youth PUP)
+portal_backend.Organization,84,Peacemakers Movement
+portal_backend.Organization,85,PUP for Jesus Movement
+portal_backend.Organization,86,"Rod of God Ministry, Inc"
+portal_backend.Organization,87,Polytechnic University of the Philippines Federation of Junior Philippine Institute of Accountants  (PUPFJPIA)
+portal_backend.Organization,88,Pylon Esports
+portal_backend.Organization,89,Sandigan ng Mag-aaral para sa Sambayanan PUP
+portal_backend.Organization,90,PUP Samahan ng mga Mag-aaral ng Kasaysayan
+portal_backend.Organization,91,PUP-Bukluran sa Sikolohiyang Pilipino
+portal_backend.Organization,92,Philippine Association of Nutrition – Alpha Epsilon Chapter
+portal_backend.Organization,93,Library and Information Science Student Organization (LISSO)
+portal_backend.Organization,94,PUP TRISKELION
+portal_backend.Organization,95,Polytechnic University of the Philippines- College of Communication Ensemble
+portal_backend.Organization,96,Damdamin at Malay (DAMLAY) PUP Sta. Mesa
+portal_backend.Organization,97,Agham Youth - Polytechnic University of the Philippines (AY-PUP)
+portal_backend.Organization,98,PUP Tanghalang Molave
+portal_backend.Organization,99,PUP KASARIANLAN
+portal_backend.Organization,100,KRISTYANONG KABATAAN PARA SA BAYAN
+portal_backend.Organization,101,PUP Society of Pangasinan Students
+portal_backend.Organization,102,PUP Psychology Students Association
+portal_backend.Organization,103,Polytechnic University of the Philippines – Electronics Engineering Students’ Society (PUP-ECESS)
+portal_backend.Organization,104,Alyansa ng mga Panulat na Sumusuong
+portal_backend.Organization,105,Tulos Baybay
+portal_backend.Organization,106,UGNAYAN NG TALINO AT KAGALINGAN
+portal_backend.Organization,107,Guild of English Majors
+portal_backend.Organization,108,"Magic-5 Brotherhood Association, Inc. Polytechnic University of the Philippines Chapter"
+portal_backend.Organization,109,Entrepreneurial Students Society

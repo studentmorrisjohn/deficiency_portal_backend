@@ -1,0 +1,494 @@
+[
+    {
+        "model":  "school.Department",
+        "pk":  "1",
+        "fields": { "college":  "1",
+        "department_name":  "Bachelor of Science in Accountancy (BSA)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "2",
+        "fields": { "college":  "1",
+        "department_name":  "Bachelor of Science in Business Administration Major in Financial Management (BSBAFM)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "3",
+        "fields": { "college":  "1",
+        "department_name":  "Bachelor of Science in Management Accounting (BSMA)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "4",
+        "fields": { "college":  "2",
+        "department_name":  "Bachelor of Science in Architecture (BS-ARCH)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "5",
+        "fields": { "college":  "2",
+        "department_name":  "Bachelor of Science in Interior Design (BSID)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "6",
+        "fields": { "college":  "2",
+        "department_name":  "Bachelor of Science in Environmental Planning (BSEP)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "7",
+        "fields": { "college":  "3",
+        "department_name":  "Bachelor of Arts in English Language Studies (ABELS)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "8",
+        "fields": { "college":  "3",
+        "department_name":  "Bachelor of Arts in Filipinology (ABF)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "9",
+        "fields": { "college":  "3",
+        "department_name":  "Bachelor of Arts in Literary and Cultural Studies (ABLCS)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "10",
+        "fields": { "college":  "3",
+        "department_name":  "Bachelor of Arts in Philosophy (AB-PHILO)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "11",
+        "fields": { "college":  "3",
+        "department_name":  "Bachelor of Performing Arts major in Theater Arts C13(BPEA)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "12",
+        "fields": { "college":  "4",
+        "department_name":  "Doctor in Business Administration (DBA)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "13",
+        "fields": { "college":  "4",
+        "department_name":  "Master in Business Administration (MBA)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "14",
+        "fields": { "college":  "4",
+        "department_name":  "Bachelor of Science in Business Administration major in Human Resource Management (BSBAHRM)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "15",
+        "fields": { "college":  "4",
+        "department_name":  "Bachelor of Science in Business Administration major in Marketing Management (BSBA-MM)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "16",
+        "fields": { "college":  "4",
+        "department_name":  "Bachelor of Science in Entrepreneurship (BSENTREP)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "17",
+        "fields": { "college":  "4",
+        "department_name":  "Bachelor of Science in Office Administration (BSOA)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "18",
+        "fields": { "college":  "5",
+        "department_name":  "Bachelor in Advertising and Public Relations (BADPR)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "19",
+        "fields": { "college":  "5",
+        "department_name":  "Bachelor of Arts in Broadcasting (BA Broadcasting)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "20",
+        "fields": { "college":  "5",
+        "department_name":  "Bachelor of Arts in Communication Research (BACR)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "21",
+        "fields": { "college":  "5",
+        "department_name":  "Bachelor of Arts in Journalism (BAJ)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "22",
+        "fields": { "college":  "6",
+        "department_name":  "Bachelor of Science in Computer Science (BSCS)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "23",
+        "fields": { "college":  "6",
+        "department_name":  "Bachelor of Science in Information Technology (BSIT)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "24",
+        "fields": { "college":  "7",
+        "department_name":  "Doctor in Education Management (DEM)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "25",
+        "fields": { "college":  "7",
+        "department_name":  "Master in Education Management (MEM) with Specialization Educational Leadership"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "26",
+        "fields": { "college":  "7",
+        "department_name":  "Master in Education Management (MEM) with Specialization Instructional Leadership"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "27",
+        "fields": { "college":  "7",
+        "department_name":  "Master in Business Education (MBE)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "28",
+        "fields": { "college":  "7",
+        "department_name":  "Master in Library and Information Science (MLIS)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "29",
+        "fields": { "college":  "7",
+        "department_name":  "Master of Arts in English Language Teaching (MAELT)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "30",
+        "fields": { "college":  "7",
+        "department_name":  "Master of Arts in Education major in Mathematics Education (MAEd-ME)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "31",
+        "fields": { "college":  "7",
+        "department_name":  "Master in Physical Education and Sports (MPES)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "32",
+        "fields": { "college":  "7",
+        "department_name":  "Master of Arts in Education major in Teaching in the Challenged Areas (MAED-TCA)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "33",
+        "fields": { "college":  "7",
+        "department_name":  "Post-Baccalaureate Diploma in Education (PBDE)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "34",
+        "fields": { "college":  "7",
+        "department_name":  "Bachelor of Technology and Livelihood Education (BTLEd) major in Home Economics"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "35",
+        "fields": { "college":  "7",
+        "department_name":  "Bachelor of Technology and Livelihood Education (BTLEd) major in Industrial Arts"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "36",
+        "fields": { "college":  "7",
+        "department_name":  "Bachelor of Technology and Livelihood Education (BTLEd) major in Information and Communication Technology"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "37",
+        "fields": { "college":  "7",
+        "department_name":  "Bachelor of Library and Information Science (BLIS)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "38",
+        "fields": { "college":  "7",
+        "department_name":  "Bachelor of Secondary Education (BSEd) major in English"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "39",
+        "fields": { "college":  "7",
+        "department_name":  "Bachelor of Secondary Education (BSEd) major in Mathematics"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "40",
+        "fields": { "college":  "7",
+        "department_name":  "Bachelor of Secondary Education (BSEd) major in Science"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "41",
+        "fields": { "college":  "7",
+        "department_name":  "Bachelor of Secondary Education (BSEd) major in Filipino"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "42",
+        "fields": { "college":  "7",
+        "department_name":  "Bachelor of Secondary Education (BSEd) major in Social Studies"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "43",
+        "fields": { "college":  "7",
+        "department_name":  "Bachelor of Elementary Education (BEEd)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "44",
+        "fields": { "college":  "7",
+        "department_name":  "Bachelor of Early Childhood Education (BECEd)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "45",
+        "fields": { "college":  "8",
+        "department_name":  "Bachelor of Science in Civil Engineering (BSCE)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "46",
+        "fields": { "college":  "8",
+        "department_name":  "Bachelor of Science in Computer Engineering (BSCpE)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "47",
+        "fields": { "college":  "8",
+        "department_name":  "Bachelor of Science in Electrical Engineering (BSEE)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "48",
+        "fields": { "college":  "8",
+        "department_name":  "Bachelor of Science in Electronics Engineering (BSECE)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "49",
+        "fields": { "college":  "8",
+        "department_name":  "Bachelor of Science in Industrial Engineering (BSIE)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "50",
+        "fields": { "college":  "8",
+        "department_name":  "Bachelor of Science in Mechanical Engineering (BSME)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "51",
+        "fields": { "college":  "8",
+        "department_name":  "Bachelor of Science in Railway Engineering (BSRE)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "52",
+        "fields": { "college":  "9",
+        "department_name":  "Bachelor of Physical Education (BPE)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "53",
+        "fields": { "college":  "9",
+        "department_name":  "Bachelor of Science in Exercises and Sports (BSESS)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "54",
+        "fields": { "college":  "10",
+        "department_name":  "Juris Doctor (JD)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "55",
+        "fields": { "college":  "11",
+        "department_name":  "Doctor in Public Administration (DPA)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "56",
+        "fields": { "college":  "11",
+        "department_name":  "Master in Public Administration (MPA)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "57",
+        "fields": { "college":  "11",
+        "department_name":  "Bachelor of Arts in Political Science (BAPS)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "58",
+        "fields": { "college":  "11",
+        "department_name":  "Bachelor of Arts in Political Economy (BAPE)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "59",
+        "fields": { "college":  "11",
+        "department_name":  "Bachelor of Arts in International Studies (BAIS)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "60",
+        "fields": { "college":  "11",
+        "department_name":  "Bachelor of Public Administration (BPA)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "61",
+        "fields": { "college":  "12",
+        "department_name":  "Bachelor of Arts in History (BAH)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "62",
+        "fields": { "college":  "12",
+        "department_name":  "Bachelor of Arts in Sociology (BAS)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "63",
+        "fields": { "college":  "12",
+        "department_name":  "Bachelor of Science in Cooperatives (BSC)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "64",
+        "fields": { "college":  "12",
+        "department_name":  "Bachelor of Science in Economics (BSE)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "65",
+        "fields": { "college":  "12",
+        "department_name":  "Bachelor of Science in Psychology (BSPSY)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "66",
+        "fields": { "college":  "13",
+        "department_name":  "Bachelor of Science Food Technology (BSFT)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "67",
+        "fields": { "college":  "13",
+        "department_name":  "Bachelor of Science in Applied Mathematics (BSAPMATH)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "68",
+        "fields": { "college":  "13",
+        "department_name":  "Bachelor of Science in Biology (BSBIO)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "69",
+        "fields": { "college":  "13",
+        "department_name":  "Bachelor of Science in Chemistry (BSCHEM)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "70",
+        "fields": { "college":  "13",
+        "department_name":  "Bachelor of Science in Mathematics (BSMATH)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "71",
+        "fields": { "college":  "13",
+        "department_name":  "Bachelor of Science in Nutrition and Dietetics (BSND)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "72",
+        "fields": { "college":  "13",
+        "department_name":  "Bachelor of Science in Physics (BSPHY)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "73",
+        "fields": { "college":  "13",
+        "department_name":  "Bachelor of Science in Statistics (BSSTAT)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "74",
+        "fields": { "college":  "14",
+        "department_name":  "Bachelor of Science in Hospitality Management (BSHM)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "75",
+        "fields": { "college":  "14",
+        "department_name":  "Bachelor of Science in Tourism Management (BSTM)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "76",
+        "fields": { "college":  "14",
+        "department_name":  "Bachelor of Science in Transportation Management (BSTRM)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "77",
+        "fields": { "college":  "15",
+        "department_name":  "Diploma in Computer Engineering Technology (DCET)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "78",
+        "fields": { "college":  "15",
+        "department_name":  "Diploma in Electrical Engineering Technology (DEET)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "79",
+        "fields": { "college":  "15",
+        "department_name":  "Diploma in Electronics Engineering Technology (DECET)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "80",
+        "fields": { "college":  "15",
+        "department_name":  "Diploma in Information Communication Technology (DICT)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "81",
+        "fields": { "college":  "15",
+        "department_name":  "Diploma in Mechanical Engineering Technology (DMET)"
+    }},
+    {
+        "model":  "school.Department",
+        "pk":  "82",
+        "fields": { "college":  "15",
+        "department_name":  "Diploma in Office Management (DOMT)"
+    }}
+]

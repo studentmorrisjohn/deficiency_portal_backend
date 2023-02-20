@@ -1,0 +1,16 @@
+model,pk,college_name
+portal_backend.College,1,College of Accoutancy and Finance (CAF)
+portal_backend.College,2,"College of Architecture, Design and the Built Environment (CADBE)"
+portal_backend.College,3,College of Arts and Letters (CAL)
+portal_backend.College,4,College of Business Administration (CBA)
+portal_backend.College,5,College of Communication (COC)
+portal_backend.College,6,College of Computer and Information Sciences (CCIS)
+portal_backend.College,7,College of Education (COED)
+portal_backend.College,8,College of Engineering (CE)
+portal_backend.College,9,College of Human Kinetics (CHK)
+portal_backend.College,10,College of Law (CL)
+portal_backend.College,11,College of Political Science and Public Administration (CPSPA)
+portal_backend.College,12,College of Social Sciences and Development (CSSD)
+portal_backend.College,13,College of Science (CS)
+portal_backend.College,14,"College of Tourism, Hospitality and Transportation Management (CTHTM)"
+portal_backend.College,15,Institute of Technology

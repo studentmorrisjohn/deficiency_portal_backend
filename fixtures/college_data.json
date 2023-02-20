@@ -1,0 +1,107 @@
+[
+    {
+        "model": "school.College",
+        "pk": 1,
+        "fields":{
+            "college_name": "College of Accountancy and Finance (CAF)"
+        }
+    },
+    {
+        "model": "school.College",
+        "pk": 2,
+        "fields":{
+            "college_name": "College of Architecture, Design, and the Built Environment (CADBE)"
+        }
+    },
+    {
+        "model": "school.College",
+        "pk": 3,
+        "fields":{
+            "college_name": "College of Arts and Letters (CAL)"
+        }
+    },
+    {
+        "model": "school.College",
+        "pk": 4,
+        "fields":{
+            "college_name": "College of Business Administration (CBA)"
+        }
+    },
+    {
+        "model": "school.College",
+        "pk": 5,
+        "fields":{
+            "college_name": "College of Communication (COC)"
+        }
+    },
+    {
+        "model": "school.College",
+        "pk": 6,
+        "fields":{
+            "college_name": "College of Computer and Information Sciences (CCIS)"
+        }
+    },
+    {
+        "model": "school.College",
+        "pk": 7,
+        "fields":{
+            "college_name": "College of Education (COED)"
+        }
+    },
+    {
+        "model": "school.College",
+        "pk": 8,
+        "fields":{
+            "college_name": "College of Engineering (CE)"
+        }
+    },
+    {
+        "model": "school.College",
+        "pk": 9,
+        "fields":{
+            "college_name": "College of Human Kinetics (CHK)"
+        }
+    },
+    {
+        "model": "school.College",
+        "pk": 10,
+        "fields":{
+            "college_name": "College of Law (CL)"
+        }
+    },
+    {
+        "model": "school.College",
+        "pk": 11,
+        "fields":{
+            "college_name": "College of Political Science and Public Administration (CPSPA)"
+        }
+    },
+    {
+        "model": "school.College",
+        "pk": 12,
+        "fields":{
+            "college_name": "College of Social Sciences and Development (CSSD)"
+        }
+    },
+    {
+        "model": "school.College",
+        "pk": 13,
+        "fields":{
+            "college_name": "College of Sciences (CS)"
+        }
+    },
+    {
+        "model": "school.College",
+        "pk": 14,
+        "fields":{
+            "college_name": "College of Tourism, Hospitality and Transportation Management (CTHTM)"
+        }
+    },
+    {
+        "model": "school.College",
+        "pk": 15,
+        "fields":{
+            "college_name": "Institute of Technology"
+        }
+    }
+]

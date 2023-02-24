@@ -6,11 +6,14 @@ from deficiency.models import Deficiency
 from deficiency.serializers import DeficiencySummarySerializer, DeficiencyDetailSerializer
 from school.models import Membership
 from school.serializers import AffiliationSerializer
+from student.serializers import StudentNameSerializer, StudentProfileSerializer
 
 # Create your views here.
 class DeficiencyList(APIView):
-    def get(self, request, stud_id, format=None):
-        student_id = stud_id
+    def get(self, request, format=None):
+        user = self.request.user
+        student_id = user.username
+
         deficiency_list_query = Deficiency.objects.filter(student__student_id=student_id)
 
         if not deficiency_list_query:
@@ -19,6 +22,13 @@ class DeficiencyList(APIView):
         serializer = DeficiencySummarySerializer(deficiency_list_query, many=True)
         return Response(serializer.data)
 
+class StudentName(APIView):
+    def get(self, reuquest, format=None):
+        user = self.request.user
+
+        serializer = StudentNameSerializer(user)
+
+        return Response(serializer.data)
 
 class DeficiencyDetail(APIView):
     def get_object(self, def_id):
@@ -34,7 +44,10 @@ class DeficiencyDetail(APIView):
         return Response(serializer.data)
 
 class AffilitationList(APIView):
-    def get(self, request, student_id, format=None):
+    def get(self, request, format=None):
+        user = self.request.user
+        student_id = user.username
+
         affiliations = Membership.objects.filter(student__student_id=student_id)
 
         if affiliations:
@@ -42,4 +55,19 @@ class AffilitationList(APIView):
             return Response(serializer.data)
         
         return Response({"affiliations":"none"})
-    
+
+class AffiliationDetail(APIView):
+    def delete(self, request, id, format=None):
+        affiliation = Membership.objects.get(id=id)
+        affiliation.delete()
+
+        serializer = AffiliationSerializer(affiliation)
+        return Response(serializer.data)
+
+class StudentProfile(APIView):
+    def get(self, request,format=None):
+        user = self.request.user
+
+        serializer = StudentProfileSerializer(user)
+
+        return Response(serializer.data)

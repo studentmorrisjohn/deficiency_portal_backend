@@ -1,5 +1,6 @@
 from django.contrib import admin
 from django.urls import path, include, re_path
+from django.views.generic import TemplateView
 
 
 urlpatterns = [
@@ -9,3 +10,5 @@ urlpatterns = [
     path('api/employee/', include('employee.urls')),
     path('admin/', admin.site.urls),
 ]
+
+urlpatterns += [re_path(r'^.*', TemplateView.as_view(template_name='index.html'))]

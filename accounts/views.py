@@ -1,14 +1,29 @@
-from django.views.decorators.csrf import ensure_csrf_cookie, csrf_protect
-from django.utils.decorators import method_decorator
 from django.contrib import auth
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
+from rest_framework.permissions import AllowAny
 from accounts.serializers import LoginSerializer
 
 # Create your views here.
-@method_decorator(csrf_protect, name='dispatch')
+class CheckAuthenticatedView(APIView):
+    def get(self, request, format=None):
+        user = self.request.user
+
+        try:
+            isAuthenticated = user.is_authenticated
+
+            print(user)
+
+            if isAuthenticated:
+                return Response({ 'isAuthenticated': 'success' })
+            else:
+                return Response({ 'isAuthenticated': 'error' })
+        except:
+            return Response({ 'error': 'Something went wrong when checking authentication status' })
+
 class LoginView(APIView):
+    permission_classes =[AllowAny]
     def post(self, request, format=None):
         serializer = LoginSerializer(data=self.request.data,
             context={ 'request': self.request })
@@ -24,9 +39,3 @@ class LogoutView(APIView):
             return Response({ 'success': 'Logged Out' })
         except:
             return Response({ 'error': 'Something went wrong when logging out' })
-
-
-@method_decorator(ensure_csrf_cookie, name='dispatch')
-class GetCSRFToken(APIView):
-    def get(self, request, format=None):
-        return Response()

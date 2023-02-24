@@ -16,12 +16,16 @@ class User(AbstractUser):
     is_staff = models.BooleanField(default=False)
     
     middle_name = models.CharField(max_length=100, null=True, blank=True)
+    gender = models.CharField(max_length=55, null=True, blank=True)
+    birth_date = models.DateField(default=None, null=True, blank=True)
+    mobile_number = models.CharField(max_length=55, null=True, blank=True)
 
     def save(self, *args, **kwargs):
         if not self.pk:
             self.role = self.base_role
             self.is_staff = self.base_is_staff
             return super().save(*args, **kwargs)
+        return super().save(*args, **kwargs)
 
 class Student(User):
     base_role = User.Role.STUDENT

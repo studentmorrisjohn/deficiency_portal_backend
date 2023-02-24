@@ -2,7 +2,7 @@ from django.db import models
 from django.dispatch import receiver
 from django.db.models.signals import post_save
 
-from accounts.models import User, Student, Employee
+from accounts.models import User
 # Create your models here.
 
 class College(models.Model):
@@ -22,6 +22,7 @@ class StudentProfile(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
     student_id = models.CharField(max_length=100, primary_key=True)
     department = models.ForeignKey(Department, on_delete=models.CASCADE, default=None, null=True, blank=True)
+
     
     def __str__(self):
         return self.student_id
@@ -46,13 +47,3 @@ class Membership(models.Model):
 
     def __str__(self):
         return f"{self.student} is a member of {self.organization}"
-
-# @receiver(post_save, sender=Student)
-# def create_user_profile(sender, instance, created, **kwargs):
-#     if created and instance.role == "STUDENT":
-#         StudentProfile.objects.create(user=instance, student_id=instance.username)
-
-# @receiver(post_save, sender=Employee)
-# def create_user_profile(sender, instance, created, **kwargs):
-#     if created and instance.role == "EMPLOYEE":
-#         EmployeeProfile.objects.create(user=instance, employee_id=instance.username)

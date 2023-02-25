@@ -1,0 +1,11 @@
+[
+    {
+        "model":  "school.EmmployeeProfile",
+        "pk":  "1",
+        "fields": { 
+            "user":  "",
+            "employee_id": "",
+            "department": ""
+        }
+    }
+]

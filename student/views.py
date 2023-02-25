@@ -56,6 +56,15 @@ class AffilitationList(APIView):
         
         return Response({"affiliations":"none"})
 
+    def post(self, request, format=None):
+        student_id = request.user.username
+        organization_id = request.data["organization"]
+        position = request.data["role"]
+        affiliation = Membership.objects.create(organization_id=organization_id, student_id=student_id, role=position)
+
+        serializer = AffiliationSerializer(affiliation)
+        return Response(serializer.data)
+    
 class AffiliationDetail(APIView):
     def delete(self, request, id, format=None):
         affiliation = Membership.objects.get(id=id)

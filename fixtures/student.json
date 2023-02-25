@@ -1,0 +1,18 @@
+[
+    {
+        "model":  "accounts.Student",
+        "pk":  "1",
+        "fields": { 
+            "username":  "",
+            "password": "",
+            "department": "",
+            "first_name": "",
+            "last_name": "",
+            "middle_name": "",
+            "email": "",
+            "gender": "",
+            "birth_date": "",
+            "mobile_number": ""
+        }
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "model":  "school.StudentProfile",
+        "pk":  "1",
+        "fields": { 
+            "user":  "",
+            "student_id": "",
+            "department": ""
+        }
+    }
+]

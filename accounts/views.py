@@ -4,6 +4,7 @@ from rest_framework.response import Response
 from rest_framework import status
 from rest_framework.permissions import AllowAny
 from accounts.serializers import LoginSerializer
+from django.contrib.auth.hashers import check_password
 
 # Create your views here.
 class CheckAuthenticatedView(APIView):
@@ -16,7 +17,7 @@ class CheckAuthenticatedView(APIView):
             print(user)
 
             if isAuthenticated:
-                return Response({ 'isAuthenticated': 'success' })
+                return Response({ 'isAuthenticated': 'success', "role": user.role})
             else:
                 return Response({ 'isAuthenticated': 'error' })
         except:
@@ -39,3 +40,21 @@ class LogoutView(APIView):
             return Response({ 'success': 'Logged Out' })
         except:
             return Response({ 'error': 'Something went wrong when logging out' })
+
+class ChangePasword(APIView):
+    def post(self, request, format=None):
+        user = request.user
+        current_pass = request.user.password
+        current_pass_entered = request.data["old_pass"]
+        new_pass = request.data["new_pass"]
+        re_new_pass = request.data["re_new_pass"]
+        
+        if not check_password(current_pass_entered, current_pass):
+            return Response({"error": "You entered the wrong current password"})
+        
+        if new_pass != re_new_pass:
+            return Response({"error": "Passwords do not match"})
+        
+        user.set_password(new_pass)
+        user.save()
+        return Response({"success": "You changed your password successfully"})

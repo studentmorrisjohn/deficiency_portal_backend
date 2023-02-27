@@ -80,3 +80,4 @@ class StudentProfile(APIView):
         serializer = StudentProfileSerializer(user)
 
         return Response(serializer.data)
+    

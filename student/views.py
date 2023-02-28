@@ -6,7 +6,7 @@ from deficiency.models import Deficiency
 from deficiency.serializers import DeficiencySummarySerializer, DeficiencyDetailSerializer
 from school.models import Membership
 from school.serializers import AffiliationSerializer
-from student.serializers import StudentNameSerializer, StudentProfileSerializer
+from student.serializers import StudentProfileSerializer
 
 # Create your views here.
 class DeficiencyList(APIView):
@@ -20,14 +20,6 @@ class DeficiencyList(APIView):
             return Response({"warning": "the student does not have any deficiencies"})
 
         serializer = DeficiencySummarySerializer(deficiency_list_query, many=True)
-        return Response(serializer.data)
-
-class StudentName(APIView):
-    def get(self, reuquest, format=None):
-        user = self.request.user
-
-        serializer = StudentNameSerializer(user)
-
         return Response(serializer.data)
 
 class DeficiencyDetail(APIView):

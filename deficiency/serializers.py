@@ -52,3 +52,17 @@ class DeficiencyNameListSerializer(serializers.ModelSerializer):
     class Meta:
         model = Deficiency
         fields = ['name', 'category']
+
+class DeficiencyNameOptionSerializer(serializers.ModelSerializer):
+    value = serializers.SerializerMethodField('get_option_value')
+    label = serializers.SerializerMethodField('get_label')
+
+    def get_option_value(self, obj):
+        return obj.name
+
+    def get_label(self, obj):
+        return obj.name
+
+    class Meta:
+        model = Deficiency
+        fields = ['value', 'label']

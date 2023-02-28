@@ -4,7 +4,7 @@ from rest_framework.response import Response
 
 from school.models import EmployeeProfile, StudentProfile
 from deficiency.models import Deficiency, FinanceDeficiency
-from deficiency.serializers import DeficiencyDetailSerializer, DeficiencyNameListSerializer
+from deficiency.serializers import DeficiencyDetailSerializer, DeficiencyNameListSerializer, DeficiencyNameOptionSerializer
 from employee.serializers import StudentListSerializer
 from accounts.permissions import HasEmployeePermission
 
@@ -78,4 +78,17 @@ class StudentList(APIView):
                 return Response({"warning": "no amount given"})
 
         serializer = DeficiencyDetailSerializer(new_deficiency)
+        return Response(serializer.data)
+
+class DeficiencyNameOptions(APIView):
+    def get(self, request, format=None):
+        name = request.GET.get('name')
+        
+        if name:
+            deficiency_names = Deficiency.objects.filter(name__icontains=name).order_by('name')
+        else:
+            deficiency_names = Deficiency.objects.all().order_by('name')
+
+        serializer = DeficiencyNameListSerializer(deficiency_names, many=True)
+
         return Response(serializer.data)

@@ -3,10 +3,6 @@ from school.models import StudentProfile, Membership
 from school.serializers import AffiliationSerializer
 from accounts.models import User
 
-class StudentNameSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = User
-        fields = ['first_name', 'middle_name', 'last_name', 'username']
 
 class StudentSummarySerializer(serializers.ModelSerializer):
     name = serializers.SerializerMethodField('get_name')

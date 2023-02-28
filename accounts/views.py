@@ -5,6 +5,7 @@ from rest_framework import status
 from rest_framework.permissions import AllowAny
 from accounts.serializers import LoginSerializer
 from django.contrib.auth.hashers import check_password
+from accounts.serializers import UserNameSerializer
 
 # Create your views here.
 class CheckAuthenticatedView(APIView):
@@ -58,3 +59,12 @@ class ChangePasword(APIView):
         user.set_password(new_pass)
         user.save()
         return Response({"success": "You changed your password successfully"})
+
+
+class UserName(APIView):
+    def get(self, reuquest, format=None):
+        user = self.request.user
+
+        serializer = UserNameSerializer(user)
+
+        return Response(serializer.data)

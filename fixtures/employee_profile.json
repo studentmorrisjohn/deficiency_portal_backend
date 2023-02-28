@@ -1,37 +1,32 @@
 [
     {
         "model":  "school.EmployeeProfile",
-        "pk":  "1",
-        "fields": { "user":  "1",
-        "employee_id":  "employee001",
+        "pk":  "employee001",
+        "fields": "user":  "1",
         "department":  "46"
     }},
     {
         "model":  "school.EmployeeProfile",
-        "pk":  "2",
-        "fields": { "user":  "2",
-        "employee_id":  "employee002",
+        "pk":  "employee002",
+        "fields": "user":  "2",
         "department":  "1"
     }},
     {
         "model":  "school.EmployeeProfile",
-        "pk":  "3",
-        "fields": { "user":  "3",
-        "employee_id":  "employee003",
+        "pk":  "employee003",
+        "fields": "user":  "3",
         "department":  "50"
     }},
     {
         "model":  "school.EmployeeProfile",
-        "pk":  "4",
-        "fields": { "user":  "4",
-        "employee_id":  "employee004",
+        "pk":  "employee004",
+        "fields": "user":  "4",
         "department":  "27"
     }},
     {
         "model":  "school.EmployeeProfile",
-        "pk":  "5",
-        "fields": { "user":  "5",
-        "employee_id":  "employee005",
+        "pk":  "employee005",
+        "fields": "user":  "5",
         "department":  "31"
     }}
 ]

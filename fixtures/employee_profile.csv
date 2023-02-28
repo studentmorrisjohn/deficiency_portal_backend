@@ -1,0 +1,6 @@
+model,pk,user,employee_id,department
+school.EmmployeeProfile,1,1,employee001,46
+school.EmmployeeProfile,2,2,employee002,1
+school.EmmployeeProfile,3,3,employee003,50
+school.EmmployeeProfile,4,4,employee004,27
+school.EmmployeeProfile,5,5,employee005,31

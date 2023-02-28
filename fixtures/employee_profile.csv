@@ -1,6 +1,0 @@
-model,pk,user,employee_id,department
-school.EmployeeProfile,1,1,employee001,46
-school.EmployeeProfile,2,2,employee002,1
-school.EmployeeProfile,3,3,employee003,50
-school.EmployeeProfile,4,4,employee004,27
-school.EmployeeProfile,5,5,employee005,31

@@ -1,0 +1,37 @@
+[
+    {
+        "model":  "school.EmployeeProfile",
+        "pk":  "1",
+        "fields": { "user":  "1",
+        "employee_id":  "employee001",
+        "department":  "46"
+    }},
+    {
+        "model":  "school.EmployeeProfile",
+        "pk":  "2",
+        "fields": { "user":  "2",
+        "employee_id":  "employee002",
+        "department":  "1"
+    }},
+    {
+        "model":  "school.EmployeeProfile",
+        "pk":  "3",
+        "fields": { "user":  "3",
+        "employee_id":  "employee003",
+        "department":  "50"
+    }},
+    {
+        "model":  "school.EmployeeProfile",
+        "pk":  "4",
+        "fields": { "user":  "4",
+        "employee_id":  "employee004",
+        "department":  "27"
+    }},
+    {
+        "model":  "school.EmployeeProfile",
+        "pk":  "5",
+        "fields": { "user":  "5",
+        "employee_id":  "employee005",
+        "department":  "31"
+    }}
+]

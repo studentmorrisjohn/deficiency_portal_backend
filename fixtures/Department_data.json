@@ -1,0 +1,576 @@
+[
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSA",
+        "fields": { "department_abbreviation":  "BSA",
+        "college":  "CAF",
+        "department_name":  "Bachelor of Science in Accountancy (BSA)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSBAFM",
+        "fields": { "department_abbreviation":  "BSBAFM",
+        "college":  "CAF",
+        "department_name":  "Bachelor of Science in Business Administration Major in Financial Management (BSBAFM)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSMA",
+        "fields": { "department_abbreviation":  "BSMA",
+        "college":  "CAF",
+        "department_name":  "Bachelor of Science in Management Accounting (BSMA)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BS-ARCH",
+        "fields": { "department_abbreviation":  "BS-ARCH",
+        "college":  "CADBE",
+        "department_name":  "Bachelor of Science in Architecture (BS-ARCH)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSID",
+        "fields": { "department_abbreviation":  "BSID",
+        "college":  "CADBE",
+        "department_name":  "Bachelor of Science in Interior Design (BSID)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSEP",
+        "fields": { "department_abbreviation":  "BSEP",
+        "college":  "CADBE",
+        "department_name":  "Bachelor of Science in Environmental Planning (BSEP)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "ABELS",
+        "fields": { "department_abbreviation":  "ABELS",
+        "college":  "CAL",
+        "department_name":  "Bachelor of Arts in English Language Studies (ABELS)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "ABF",
+        "fields": { "department_abbreviation":  "ABF",
+        "college":  "CAL",
+        "department_name":  "Bachelor of Arts in Filipinology (ABF)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "ABLCS",
+        "fields": { "department_abbreviation":  "ABLCS",
+        "college":  "CAL",
+        "department_name":  "Bachelor of Arts in Literary and Cultural Studies (ABLCS)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "AB-PHILO",
+        "fields": { "department_abbreviation":  "AB-PHILO",
+        "college":  "CAL",
+        "department_name":  "Bachelor of Arts in Philosophy (AB-PHILO)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BPEA",
+        "fields": { "department_abbreviation":  "BPEA",
+        "college":  "CAL",
+        "department_name":  "Bachelor of Performing Arts major in Theater Arts (BPEA)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "DBA",
+        "fields": { "department_abbreviation":  "DBA",
+        "college":  "CBA",
+        "department_name":  "Doctor in Business Administration (DBA)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "MBA",
+        "fields": { "department_abbreviation":  "MBA",
+        "college":  "CBA",
+        "department_name":  "Master in Business Administration (MBA)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSBAHRM",
+        "fields": { "department_abbreviation":  "BSBAHRM",
+        "college":  "CBA",
+        "department_name":  "Bachelor of Science in Business Administration major in Human Resource Management (BSBAHRM)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSBA-MM",
+        "fields": { "department_abbreviation":  "BSBA-MM",
+        "college":  "CBA",
+        "department_name":  "Bachelor of Science in Business Administration major in Marketing Management (BSBA-MM)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSENTREP",
+        "fields": { "department_abbreviation":  "BSENTREP",
+        "college":  "CBA",
+        "department_name":  "Bachelor of Science in Entrepreneurship (BSENTREP)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSOA",
+        "fields": { "department_abbreviation":  "BSOA",
+        "college":  "CBA",
+        "department_name":  "Bachelor of Science in Office Administration (BSOA)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BADPR",
+        "fields": { "department_abbreviation":  "BADPR",
+        "college":  "COC",
+        "department_name":  "Bachelor in Advertising and Public Relations (BADPR)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BA Broadcasting",
+        "fields": { "department_abbreviation":  "BA Broadcasting",
+        "college":  "COC",
+        "department_name":  "Bachelor of Arts in Broadcasting (BA Broadcasting)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BACR",
+        "fields": { "department_abbreviation":  "BACR",
+        "college":  "COC",
+        "department_name":  "Bachelor of Arts in Communication Research (BACR)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BAJ",
+        "fields": { "department_abbreviation":  "BAJ",
+        "college":  "COC",
+        "department_name":  "Bachelor of Arts in Journalism (BAJ)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSCS",
+        "fields": { "department_abbreviation":  "BSCS",
+        "college":  "CCIS",
+        "department_name":  "Bachelor of Science in Computer Science (BSCS)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSIT",
+        "fields": { "department_abbreviation":  "BSIT",
+        "college":  "CCIS",
+        "department_name":  "Bachelor of Science in Information Technology (BSIT)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "DEM",
+        "fields": { "department_abbreviation":  "DEM",
+        "college":  "COED",
+        "department_name":  "Doctor in Education Management (DEM)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "MEM-EL",
+        "fields": { "department_abbreviation":  "MEM-EL",
+        "college":  "COED",
+        "department_name":  "Master in Education Management (MEM) with Specialization Educational Leadership"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "MEM-IL",
+        "fields": { "department_abbreviation":  "MEM-IL",
+        "college":  "COED",
+        "department_name":  "Master in Education Management (MEM) with Specialization Instructional Leadership"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "MBE",
+        "fields": { "department_abbreviation":  "MBE",
+        "college":  "COED",
+        "department_name":  "Master in Business Education (MBE)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "MLIS",
+        "fields": { "department_abbreviation":  "MLIS",
+        "college":  "COED",
+        "department_name":  "Master in Library and Information Science (MLIS)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "MAELT",
+        "fields": { "department_abbreviation":  "MAELT",
+        "college":  "COED",
+        "department_name":  "Master of Arts in English Language Teaching (MAELT)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "MAEd-ME",
+        "fields": { "department_abbreviation":  "MAEd-ME",
+        "college":  "COED",
+        "department_name":  "Master of Arts in Education major in Mathematics Education (MAEd-ME)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "MPES",
+        "fields": { "department_abbreviation":  "MPES",
+        "college":  "COED",
+        "department_name":  "Master in Physical Education and Sports (MPES)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "MAED-TCA",
+        "fields": { "department_abbreviation":  "MAED-TCA",
+        "college":  "COED",
+        "department_name":  "Master of Arts in Education major in Teaching in the Challenged Areas (MAED-TCA)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "PBDE",
+        "fields": { "department_abbreviation":  "PBDE",
+        "college":  "COED",
+        "department_name":  "Post-Baccalaureate Diploma in Education (PBDE)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BTLEd-HE",
+        "fields": { "department_abbreviation":  "BTLEd-HE",
+        "college":  "COED",
+        "department_name":  "Bachelor of Technology and Livelihood Education (BTLEd) major in Home Economics"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BTLEd-IA",
+        "fields": { "department_abbreviation":  "BTLEd-IA",
+        "college":  "COED",
+        "department_name":  "Bachelor of Technology and Livelihood Education (BTLEd) major in Industrial Arts"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BTLEd-ICT",
+        "fields": { "department_abbreviation":  "BTLEd-ICT",
+        "college":  "COED",
+        "department_name":  "Bachelor of Technology and Livelihood Education (BTLEd) major in Information and Communication Technology"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BLIS",
+        "fields": { "department_abbreviation":  "BLIS",
+        "college":  "COED",
+        "department_name":  "Bachelor of Library and Information Science (BLIS)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSEd-ENG",
+        "fields": { "department_abbreviation":  "BSEd-ENG",
+        "college":  "COED",
+        "department_name":  "Bachelor of Secondary Education (BSEd) major in English"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSEd-MATH",
+        "fields": { "department_abbreviation":  "BSEd-MATH",
+        "college":  "COED",
+        "department_name":  "Bachelor of Secondary Education (BSEd) major in Mathematics"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSEd-SCI",
+        "fields": { "department_abbreviation":  "BSEd-SCI",
+        "college":  "COED",
+        "department_name":  "Bachelor of Secondary Education (BSEd) major in Science"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSEd-FIL",
+        "fields": { "department_abbreviation":  "BSEd-FIL",
+        "college":  "COED",
+        "department_name":  "Bachelor of Secondary Education (BSEd) major in Filipino"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSEd-SS",
+        "fields": { "department_abbreviation":  "BSEd-SS",
+        "college":  "COED",
+        "department_name":  "Bachelor of Secondary Education (BSEd) major in Social Studies"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BEEd",
+        "fields": { "department_abbreviation":  "BEEd",
+        "college":  "COED",
+        "department_name":  "Bachelor of Elementary Education (BEEd)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BECEd",
+        "fields": { "department_abbreviation":  "BECEd",
+        "college":  "COED",
+        "department_name":  "Bachelor of Early Childhood Education (BECEd)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSCE",
+        "fields": { "department_abbreviation":  "BSCE",
+        "college":  "CE",
+        "department_name":  "Bachelor of Science in Civil Engineering (BSCE)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSCpE",
+        "fields": { "department_abbreviation":  "BSCpE",
+        "college":  "CE",
+        "department_name":  "Bachelor of Science in Computer Engineering (BSCpE)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSEE",
+        "fields": { "department_abbreviation":  "BSEE",
+        "college":  "CE",
+        "department_name":  "Bachelor of Science in Electrical Engineering (BSEE)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSECE",
+        "fields": { "department_abbreviation":  "BSECE",
+        "college":  "CE",
+        "department_name":  "Bachelor of Science in Electronics Engineering (BSECE)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSIE",
+        "fields": { "department_abbreviation":  "BSIE",
+        "college":  "CE",
+        "department_name":  "Bachelor of Science in Industrial Engineering (BSIE)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSME",
+        "fields": { "department_abbreviation":  "BSME",
+        "college":  "CE",
+        "department_name":  "Bachelor of Science in Mechanical Engineering (BSME)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSRE",
+        "fields": { "department_abbreviation":  "BSRE",
+        "college":  "CE",
+        "department_name":  "Bachelor of Science in Railway Engineering (BSRE)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BPE",
+        "fields": { "department_abbreviation":  "BPE",
+        "college":  "CHK",
+        "department_name":  "Bachelor of Physical Education (BPE)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSESS",
+        "fields": { "department_abbreviation":  "BSESS",
+        "college":  "CHK",
+        "department_name":  "Bachelor of Science in Exercises and Sports (BSESS)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "JD",
+        "fields": { "department_abbreviation":  "JD",
+        "college":  "CL",
+        "department_name":  "Juris Doctor (JD)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "DPA",
+        "fields": { "department_abbreviation":  "DPA",
+        "college":  "CPSPA",
+        "department_name":  "Doctor in Public Administration (DPA)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "MPA",
+        "fields": { "department_abbreviation":  "MPA",
+        "college":  "CPSPA",
+        "department_name":  "Master in Public Administration (MPA)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BAPS",
+        "fields": { "department_abbreviation":  "BAPS",
+        "college":  "CPSPA",
+        "department_name":  "Bachelor of Arts in Political Science (BAPS)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BAPE",
+        "fields": { "department_abbreviation":  "BAPE",
+        "college":  "CPSPA",
+        "department_name":  "Bachelor of Arts in Political Economy (BAPE)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BAIS",
+        "fields": { "department_abbreviation":  "BAIS",
+        "college":  "CPSPA",
+        "department_name":  "Bachelor of Arts in International Studies (BAIS)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BPA",
+        "fields": { "department_abbreviation":  "BPA",
+        "college":  "CPSPA",
+        "department_name":  "Bachelor of Public Administration (BPA)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BAH",
+        "fields": { "department_abbreviation":  "BAH",
+        "college":  "CSSD",
+        "department_name":  "Bachelor of Arts in History (BAH)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BAS",
+        "fields": { "department_abbreviation":  "BAS",
+        "college":  "CSSD",
+        "department_name":  "Bachelor of Arts in Sociology (BAS)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSC",
+        "fields": { "department_abbreviation":  "BSC",
+        "college":  "CSSD",
+        "department_name":  "Bachelor of Science in Cooperatives (BSC)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSE",
+        "fields": { "department_abbreviation":  "BSE",
+        "college":  "CSSD",
+        "department_name":  "Bachelor of Science in Economics (BSE)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSPSY",
+        "fields": { "department_abbreviation":  "BSPSY",
+        "college":  "CSSD",
+        "department_name":  "Bachelor of Science in Psychology (BSPSY)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSFT",
+        "fields": { "department_abbreviation":  "BSFT",
+        "college":  "CS",
+        "department_name":  "Bachelor of Science Food Technology (BSFT)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSAPMATH",
+        "fields": { "department_abbreviation":  "BSAPMATH",
+        "college":  "CS",
+        "department_name":  "Bachelor of Science in Applied Mathematics (BSAPMATH)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSBIO",
+        "fields": { "department_abbreviation":  "BSBIO",
+        "college":  "CS",
+        "department_name":  "Bachelor of Science in Biology (BSBIO)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSCHEM",
+        "fields": { "department_abbreviation":  "BSCHEM",
+        "college":  "CS",
+        "department_name":  "Bachelor of Science in Chemistry (BSCHEM)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSMATH",
+        "fields": { "department_abbreviation":  "BSMATH",
+        "college":  "CS",
+        "department_name":  "Bachelor of Science in Mathematics (BSMATH)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSND",
+        "fields": { "department_abbreviation":  "BSND",
+        "college":  "CS",
+        "department_name":  "Bachelor of Science in Nutrition and Dietetics (BSND)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSPHY",
+        "fields": { "department_abbreviation":  "BSPHY",
+        "college":  "CS",
+        "department_name":  "Bachelor of Science in Physics (BSPHY)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSSTAT",
+        "fields": { "department_abbreviation":  "BSSTAT",
+        "college":  "CS",
+        "department_name":  "Bachelor of Science in Statistics (BSSTAT)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSHM",
+        "fields": { "department_abbreviation":  "BSHM",
+        "college":  "CTHTM",
+        "department_name":  "Bachelor of Science in Hospitality Management (BSHM)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSTM",
+        "fields": { "department_abbreviation":  "BSTM",
+        "college":  "CTHTM",
+        "department_name":  "Bachelor of Science in Tourism Management (BSTM)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "BSTRM",
+        "fields": { "department_abbreviation":  "BSTRM",
+        "college":  "CTHTM",
+        "department_name":  "Bachelor of Science in Transportation Management (BSTRM)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "DCET",
+        "fields": { "department_abbreviation":  "DCET",
+        "college":  "ITECH",
+        "department_name":  "Diploma in Computer Engineering Technology (DCET)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "DEET",
+        "fields": { "department_abbreviation":  "DEET",
+        "college":  "ITECH",
+        "department_name":  "Diploma in Electrical Engineering Technology (DEET)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "DECET",
+        "fields": { "department_abbreviation":  "DECET",
+        "college":  "ITECH",
+        "department_name":  "Diploma in Electronics Engineering Technology (DECET)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "DICT",
+        "fields": { "department_abbreviation":  "DICT",
+        "college":  "ITECH",
+        "department_name":  "Diploma in Information Communication Technology (DICT)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "DMET",
+        "fields": { "department_abbreviation":  "DMET",
+        "college":  "ITECH",
+        "department_name":  "Diploma in Mechanical Engineering Technology (DMET)"
+    }},
+    {
+        "models":  "portal_backend.Department",
+        "pk":  "DOMT",
+        "fields": { "department_abbreviation":  "DOMT",
+        "college":  "ITECH",
+        "department_name":  "Diploma in Office Management (DOMT)"
+    }}
+]

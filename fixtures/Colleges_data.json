@@ -1,0 +1,92 @@
+[
+    {
+        "model":  "portal_backend.College",
+        "pk":  "CAF",
+        "fields": { "college_abbreviation":  "CAF",
+        "college_name":  "College of Accountancy and Finance (CAF)"
+    }},
+    {
+        "model":  "portal_backend.College",
+        "pk":  "CADBE",
+        "fields": { "college_abbreviation":  "CADBE",
+        "college_name":  "College of Architecture, Design and the Built Environment (CADBE)"
+    }},
+    {
+        "model":  "portal_backend.College",
+        "pk":  "CAL",
+        "fields": { "college_abbreviation":  "CAL",
+        "college_name":  "College of Arts and Letters (CAL)"
+    }},
+    {
+        "model":  "portal_backend.College",
+        "pk":  "CBA",
+        "fields": { "college_abbreviation":  "CBA",
+        "college_name":  "College of Business Administration (CBA)"
+    }},
+    {
+        "model":  "portal_backend.College",
+        "pk":  "COC",
+        "fields": { "college_abbreviation":  "COC",
+        "college_name":  "College of Communication (COC)"
+    }},
+    {
+        "model":  "portal_backend.College",
+        "pk":  "CCIS",
+        "fields": { "college_abbreviation":  "CCIS",
+        "college_name":  "College of Computer and Information Sciences (CCIS)"
+    }},
+    {
+        "model":  "portal_backend.College",
+        "pk":  "COED",
+        "fields": { "college_abbreviation":  "COED",
+        "college_name":  "College of Education (COED)"
+    }},
+    {
+        "model":  "portal_backend.College",
+        "pk":  "CE",
+        "fields": { "college_abbreviation":  "CE",
+        "college_name":  "College of Engineering (CE)"
+    }},
+    {
+        "model":  "portal_backend.College",
+        "pk":  "CHK",
+        "fields": { "college_abbreviation":  "CHK",
+        "college_name":  "College of Human Kinetics (CHK)"
+    }},
+    {
+        "model":  "portal_backend.College",
+        "pk":  "CL",
+        "fields": { "college_abbreviation":  "CL",
+        "college_name":  "College of Law (CL)"
+    }},
+    {
+        "model":  "portal_backend.College",
+        "pk":  "CPSPA",
+        "fields": { "college_abbreviation":  "CPSPA",
+        "college_name":  "College of Political Science and Public Administration (CPSPA)"
+    }},
+    {
+        "model":  "portal_backend.College",
+        "pk":  "CSSD",
+        "fields": { "college_abbreviation":  "CSSD",
+        "college_name":  "College of Social Sciences and Development (CSSD)"
+    }},
+    {
+        "model":  "portal_backend.College",
+        "pk":  "CS",
+        "fields": { "college_abbreviation":  "CS",
+        "college_name":  "College of Science (CS)"
+    }},
+    {
+        "model":  "portal_backend.College",
+        "pk":  "CTHTM",
+        "fields": { "college_abbreviation":  "CTHTM",
+        "college_name":  "College of Tourism, Hospitality and Transportation Management (CTHTM)"
+    }},
+    {
+        "model":  "portal_backend.College",
+        "pk":  "ITECH",
+        "fields": { "college_abbreviation":  "ITECH",
+        "college_name":  "Institute of Technology"
+    }}
+]

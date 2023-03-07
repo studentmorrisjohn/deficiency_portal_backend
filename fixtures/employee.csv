@@ -1,6 +1,0 @@
-model,pk,username,password,first_name,last_name,middle_name,email,gender,birth_date,mobile_number
-accounts.Employee,1,employee001,bcrypt_sha256$$2b$12$RhBJXm.BSgw42Xgz6GNK1OxeXHlyawYDDH5XtdfzBX1spddtiVlWu,Ernesto,Dela Cruz,Fernando,efdelacruz@gmail.com,M,1995-07-13,639283755615
-accounts.Employee,2,employee002,bcrypt_sha256$$2b$12$UZxuZxKPGHSzsh2S7BjWFOuIZzJskfSpfo2zU.DGZogubgwzFDktq,Mary Grace,Bautista,Miamor,mgmbautista@gmail.com,F,1997-02-14,639387566315
-accounts.Employee,3,employee003,bcrypt_sha256$$2b$12$cVQu7aj9sgDdlrM1fL90tOnEufeMtf8EhxeZb0RhZxJz9LtOF3QzW,Jose,Madrigal,Manalo,jmmadrigal@gmail.com,M,1992-10-15,639276970069
-accounts.Employee,4,employee004,bcrypt_sha256$$2b$12$kGu/iqmp.oE0RhL3DjMN3.J93E90AJ0qYiVCN9XdfXXEtcwfZRLIK,Pepito,Manaloto,Bayaw,pbmanaloto@gmail.com,M,1996-05-20,639478395885
-accounts.Employee,5,employee005,bcrypt_sha256$$2b$12$HZbwBrCpy8AtxUzz1mNrweIGDPRzsN0Cz7hzQiJXMWcYi1/Tb/Yd6,Josephine,Mandirigma,Pala,jpmandirigma@gmail.com,F,1995-11-17,639218599691

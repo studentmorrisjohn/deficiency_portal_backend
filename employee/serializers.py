@@ -11,4 +11,5 @@ class StudentListSerializer(DeficiencySummarySerializer):
 
     class Meta:
         model = Deficiency
-        fields = ['student', 'status', 'balance']
+        fields = ['id', 'student', 'status', 'balance']
+

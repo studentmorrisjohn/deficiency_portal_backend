@@ -5,8 +5,7 @@ from django.http import Http404
 from deficiency.models import Deficiency
 from deficiency.serializers import DeficiencySummarySerializer, DeficiencyDetailSerializer
 from school.models import Membership
-from school.serializers import AffiliationSerializer
-from student.serializers import StudentProfileSerializer
+from school.serializers import AffiliationSerializer, ProfileSerializer
 
 # Create your views here.
 class DeficiencyList(APIView):
@@ -14,7 +13,7 @@ class DeficiencyList(APIView):
         user = self.request.user
         student_id = user.username
 
-        deficiency_list_query = Deficiency.objects.filter(student__student_id=student_id)
+        deficiency_list_query = Deficiency.objects.filter(student__student_id=student_id).order_by("is_complete", "date_added")
 
         if not deficiency_list_query:
             return Response({"warning": "the student does not have any deficiencies"})
@@ -68,8 +67,21 @@ class AffiliationDetail(APIView):
 class StudentProfile(APIView):
     def get(self, request,format=None):
         user = self.request.user
+        print(user.role)
 
-        serializer = StudentProfileSerializer(user)
+        serializer = ProfileSerializer(user)
 
         return Response(serializer.data)
+    
+    def put(self, request, format=None):
+        user = request.user
+        new_number = request.data["mobile_number"]
+        new_email = request.data["email"]
+
+        user.mobile_number = new_number
+        user.email = new_email
+
+        user.save()
+
+        return Response({"success": "Profile was successfully updated"})
     

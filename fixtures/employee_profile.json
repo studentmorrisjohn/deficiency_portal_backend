@@ -2,31 +2,27 @@
     {
         "model":  "school.EmployeeProfile",
         "pk":  "employee001",
-        "fields": "user":  "1",
-        "department":  "46"
-    }},
+        "fields": {"user":  "101"
+        }
+    },
     {
         "model":  "school.EmployeeProfile",
         "pk":  "employee002",
-        "fields": "user":  "2",
-        "department":  "1"
-    }},
+        "fields":{ "user":  "102"}
+    },
     {
         "model":  "school.EmployeeProfile",
         "pk":  "employee003",
-        "fields": "user":  "3",
-        "department":  "50"
-    }},
+        "fields": {"user":  "103"}
+    },
     {
         "model":  "school.EmployeeProfile",
         "pk":  "employee004",
-        "fields": "user":  "4",
-        "department":  "27"
-    }},
+        "fields": {"user":  "104"}
+    },
     {
         "model":  "school.EmployeeProfile",
         "pk":  "employee005",
-        "fields": "user":  "5",
-        "department":  "31"
-    }}
+        "fields": {"user":  "105"}
+    }
 ]

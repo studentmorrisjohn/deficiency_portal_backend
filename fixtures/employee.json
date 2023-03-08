@@ -1,7 +1,7 @@
 [
     {
         "model":  "accounts.Employee",
-        "pk":  "1",
+        "pk":  "101",
         "fields": { "username":  "employee001",
         "password":  "bcrypt_sha256$$2b$12$RhBJXm.BSgw42Xgz6GNK1OxeXHlyawYDDH5XtdfzBX1spddtiVlWu",
         "first_name":  "Ernesto",
@@ -14,7 +14,7 @@
     }},
     {
         "model":  "accounts.Employee",
-        "pk":  "2",
+        "pk":  "102",
         "fields": { "username":  "employee002",
         "password":  "bcrypt_sha256$$2b$12$UZxuZxKPGHSzsh2S7BjWFOuIZzJskfSpfo2zU.DGZogubgwzFDktq",
         "first_name":  "Mary Grace",
@@ -27,7 +27,7 @@
     }},
     {
         "model":  "accounts.Employee",
-        "pk":  "3",
+        "pk":  "103",
         "fields": { "username":  "employee003",
         "password":  "bcrypt_sha256$$2b$12$cVQu7aj9sgDdlrM1fL90tOnEufeMtf8EhxeZb0RhZxJz9LtOF3QzW",
         "first_name":  "Jose",
@@ -40,7 +40,7 @@
     }},
     {
         "model":  "accounts.Employee",
-        "pk":  "4",
+        "pk":  "104",
         "fields": { "username":  "employee004",
         "password":  "bcrypt_sha256$$2b$12$kGu/iqmp.oE0RhL3DjMN3.J93E90AJ0qYiVCN9XdfXXEtcwfZRLIK",
         "first_name":  "Pepito",
@@ -53,7 +53,7 @@
     }},
     {
         "model":  "accounts.Employee",
-        "pk":  "5",
+        "pk":  "105",
         "fields": { "username":  "employee005",
         "password":  "bcrypt_sha256$$2b$12$HZbwBrCpy8AtxUzz1mNrweIGDPRzsN0Cz7hzQiJXMWcYi1/Tb/Yd6",
         "first_name":  "Josephine",

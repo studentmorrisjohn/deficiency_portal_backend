@@ -1,0 +1,142 @@
+[
+    {
+        "model":  "school.StudentProfile",
+        "pk":  "2019-05806-MN-0",
+        "fields": { "user":  "1",
+        "student_id":  "2019-05806-MN-0",
+        "department":  "BSCpE"
+    }},
+    {
+        "model":  "school.StudentProfile",
+        "pk":  "2019-04897-MN-0",
+        "fields": { "user":  "2",
+        "student_id":  "2019-04897-MN-0",
+        "department":  "BSCpE"
+    }},
+    {
+        "model":  "school.StudentProfile",
+        "pk":  "2019-05639-MN-0",
+        "fields": { "user":  "3",
+        "student_id":  "2019-05639-MN-0",
+        "department":  "BSCpE"
+    }},
+    {
+        "model":  "school.StudentProfile",
+        "pk":  "2019-04179-MN-0",
+        "fields": { "user":  "4",
+        "student_id":  "2019-04179-MN-0",
+        "department":  "BSCpE"
+    }},
+    {
+        "model":  "school.StudentProfile",
+        "pk":  "2019-03419-MN-0",
+        "fields": { "user":  "5",
+        "student_id":  "2019-03419-MN-0",
+        "department":  "BPA"
+    }},
+    {
+        "model":  "school.StudentProfile",
+        "pk":  "2019-02074-MN-0",
+        "fields": { "user":  "6",
+        "student_id":  "2019-02074-MN-0",
+        "department":  "BADPR"
+    }},
+    {
+        "model":  "school.StudentProfile",
+        "pk":  "2019-02941-MN-0",
+        "fields": { "user":  "7",
+        "student_id":  "2019-02941-MN-0",
+        "department":  "BSAPMATH"
+    }},
+    {
+        "model":  "school.StudentProfile",
+        "pk":  "2019-01181-MN-0",
+        "fields": { "user":  "8",
+        "student_id":  "2019-01181-MN-0",
+        "department":  "BPEA"
+    }},
+    {
+        "model":  "school.StudentProfile",
+        "pk":  "2019-07793-MN-0",
+        "fields": { "user":  "9",
+        "student_id":  "2019-07793-MN-0",
+        "department":  "BSBIO"
+    }},
+    {
+        "model":  "school.StudentProfile",
+        "pk":  "2019-03605-MN-0",
+        "fields": { "user":  "10",
+        "student_id":  "2019-03605-MN-0",
+        "department":  "DOMT"
+    }},
+    {
+        "model":  "school.StudentProfile",
+        "pk":  "2019-09613-MN-0",
+        "fields": { "user":  "11",
+        "student_id":  "2019-09613-MN-0",
+        "department":  "BTLEd-IA"
+    }},
+    {
+        "model":  "school.StudentProfile",
+        "pk":  "2019-02566-MN-0",
+        "fields": { "user":  "12",
+        "student_id":  "2019-02566-MN-0",
+        "department":  "DEET"
+    }},
+    {
+        "model":  "school.StudentProfile",
+        "pk":  "2019-01524-MN-0",
+        "fields": { "user":  "13",
+        "student_id":  "2019-01524-MN-0",
+        "department":  "BSBAFM"
+    }},
+    {
+        "model":  "school.StudentProfile",
+        "pk":  "2019-03315-MN-0",
+        "fields": { "user":  "14",
+        "student_id":  "2019-03315-MN-0",
+        "department":  "BSE"
+    }},
+    {
+        "model":  "school.StudentProfile",
+        "pk":  "2019-06107-MN-0",
+        "fields": { "user":  "15",
+        "student_id":  "2019-06107-MN-0",
+        "department":  "BAS"
+    }},
+    {
+        "model":  "school.StudentProfile",
+        "pk":  "2019-06302-MN-0",
+        "fields": { "user":  "16",
+        "student_id":  "2019-06302-MN-0",
+        "department":  "DPA"
+    }},
+    {
+        "model":  "school.StudentProfile",
+        "pk":  "2019-08137-MN-0",
+        "fields": { "user":  "17",
+        "student_id":  "2019-08137-MN-0",
+        "department":  "DPA"
+    }},
+    {
+        "model":  "school.StudentProfile",
+        "pk":  "2019-09778-MN-0",
+        "fields": { "user":  "18",
+        "student_id":  "2019-09778-MN-0",
+        "department":  "ABELS"
+    }},
+    {
+        "model":  "school.StudentProfile",
+        "pk":  "2019-01137-MN-0",
+        "fields": { "user":  "19",
+        "student_id":  "2019-01137-MN-0",
+        "department":  "DBA"
+    }},
+    {
+        "model":  "school.StudentProfile",
+        "pk":  "2019-07725-MN-0",
+        "fields": { "user":  "20",
+        "student_id":  "2019-07725-MN-0",
+        "department":  "BAS"
+    }}
+]

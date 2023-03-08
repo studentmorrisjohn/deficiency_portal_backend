@@ -1,0 +1,72 @@
+[
+    {
+        "model":  "accounts.Employee",
+        "pk":  "101",
+        "fields": { "username":  "employee001",
+        "password":  "bcrypt_sha256$$2b$12$RhBJXm.BSgw42Xgz6GNK1OxeXHlyawYDDH5XtdfzBX1spddtiVlWu",
+        "first_name":  "Ernesto",
+        "last_name":  "Dela Cruz",
+        "middle_name":  "Fernando",
+        "email":  "efdelacruz@gmail.com",
+        "gender":  "M",
+        "birth_date":  "1995-07-13",
+        "mobile_number":  "(63928) 375-5615",
+        "role":  "EMPLOYEE"
+    }},
+    {
+        "model":  "accounts.Employee",
+        "pk":  "102",
+        "fields": { "username":  "employee002",
+        "password":  "bcrypt_sha256$$2b$12$UZxuZxKPGHSzsh2S7BjWFOuIZzJskfSpfo2zU.DGZogubgwzFDktq",
+        "first_name":  "Mary Grace",
+        "last_name":  "Bautista",
+        "middle_name":  "Miamor",
+        "email":  "mgmbautista@gmail.com",
+        "gender":  "F",
+        "birth_date":  "1997-02-14",
+        "mobile_number":  "(63938) 756-6315",
+        "role":  "EMPLOYEE"
+    }},
+    {
+        "model":  "accounts.Employee",
+        "pk":  "103",
+        "fields": { "username":  "employee003",
+        "password":  "bcrypt_sha256$$2b$12$cVQu7aj9sgDdlrM1fL90tOnEufeMtf8EhxeZb0RhZxJz9LtOF3QzW",
+        "first_name":  "Jose",
+        "last_name":  "Madrigal",
+        "middle_name":  "Manalo",
+        "email":  "jmmadrigal@gmail.com",
+        "gender":  "M",
+        "birth_date":  "1992-10-15",
+        "mobile_number":  "(63927) 697-0069",
+        "role":  "EMPLOYEE"
+    }},
+    {
+        "model":  "accounts.Employee",
+        "pk":  "104",
+        "fields": { "username":  "employee004",
+        "password":  "bcrypt_sha256$$2b$12$kGu/iqmp.oE0RhL3DjMN3.J93E90AJ0qYiVCN9XdfXXEtcwfZRLIK",
+        "first_name":  "Pepito",
+        "last_name":  "Manaloto",
+        "middle_name":  "Bayaw",
+        "email":  "pbmanaloto@gmail.com",
+        "gender":  "M",
+        "birth_date":  "1996-05-20",
+        "mobile_number":  "(63947) 839-5885",
+        "role":  "EMPLOYEE"
+    }},
+    {
+        "model":  "accounts.Employee",
+        "pk":  "105",
+        "fields": { "username":  "employee005",
+        "password":  "bcrypt_sha256$$2b$12$HZbwBrCpy8AtxUzz1mNrweIGDPRzsN0Cz7hzQiJXMWcYi1/Tb/Yd6",
+        "first_name":  "Josephine",
+        "last_name":  "Mandirigma",
+        "middle_name":  "Pala",
+        "email":  "jpmandirigma@gmail.com",
+        "gender":  "F",
+        "birth_date":  "1995-11-17",
+        "mobile_number":  "(63921) 859-9691",
+        "role":  "EMPLOYEE"
+    }}
+]

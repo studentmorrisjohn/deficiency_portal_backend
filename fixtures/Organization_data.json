@@ -1,546 +1,546 @@
 [
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "1",
         "fields": { "name":  "PUP Epistemic League of Interactive future Teachers of English (PUP-ELITE)"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "2",
         "fields": { "name":  "Bachelor of Elementary and Secondary Teaching Society (BEST SOCIETY)"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "3",
         "fields": { "name":  "Science Instructors of Education, Nature, Technology, and Innovation Alliance (SCIENTIA)"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "4",
         "fields": { "name":  "Mathematics: Road To Excellence (MATH:RIIX)"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "5",
         "fields": { "name":  "PUP Peer Facilitators Association"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "6",
         "fields": { "name":  "PUP Hygears"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "7",
         "fields": { "name":  "Political Science Society"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "8",
         "fields": { "name":  "MOVE TO THE GROOVE"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "9",
         "fields": { "name":  "Junior Political Economists' Guild"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "10",
         "fields": { "name":  "PUP Association of Students for Computer Intelligence Integration"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "11",
         "fields": { "name":  "Future Business Teachers' Organization"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "12",
         "fields": { "name":  "FOR ADULTS ONLY DANCE CREW"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "13",
         "fields": { "name":  "JUNIOR MARKETING EXECUTIVES"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "14",
         "fields": { "name":  "American Concrete Institute Philippines - Polytechnic University of the Philippines Student Chapter- (ACIP-PUPSC)"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "15",
         "fields": { "name":  "Electrical Engineering - Wired"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "16",
         "fields": { "name":  "DZMC -Young Communicators' Guild"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "17",
         "fields": { "name":  "OMT-ICT Academic Organization"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "18",
         "fields": { "name":  "Association of Concerned Transportation Students"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "19",
         "fields": { "name":  "Polytechnic University of the Philippines - Association of DOST Scholars (PUP-ADS)"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "20",
         "fields": { "name":  "Circle of Public Administration and Governance Students"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "21",
         "fields": { "name":  "GUILD OF LIVELIHOOD AND TECHNOLOGY EDUCATION STUDENTS"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "22",
         "fields": { "name":  "PUP BES Honors Society"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "23",
         "fields": { "name":  "PUP HNS Honors Society"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "24",
         "fields": { "name":  "PUP Tourism Management Society"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "25",
         "fields": { "name":  "Hospitality Management Society"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "26",
         "fields": { "name":  "Quadro Photography Club"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "27",
-        "fields": { "name":  "POLYTECHNIC UNIVERSITY OF THE PHILIPPINES' Social Studies Guild"
+        "fields": { "name":  "POLYTECHNIC UNIVERSITY OF THE PHILIPPINEs' Social Studies Guild"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "28",
         "fields": { "name":  "Polytechnic University of the Philippines Manila Pre-Law Society"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "29",
         "fields": { "name":  "PUP Sociology Society"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "30",
         "fields": { "name":  "Junior Financial Executives"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "31",
         "fields": { "name":  "Junior Cooperators Association"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "32",
         "fields": { "name":  "PUP Physics Society"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "33",
         "fields": { "name":  "PUP Senior High Organization"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "34",
         "fields": { "name":  "Association of Concerned Computer Engineering Students for Service (ACCESS)"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "35",
         "fields": { "name":  "PUP Economics Research Society"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "36",
         "fields": { "name":  "BAND OF YOUNG AND OUTSTANDING BARTENDERS"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "37",
         "fields": { "name":  "Master of Science in Information Technology Society"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "38",
         "fields": { "name":  "Students' Integrated League of Interior Design"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "39",
         "fields": { "name":  "PUP BroadCircle"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "40",
         "fields": { "name":  "Viva Voce COC"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "41",
-        "fields": { "name":  "PUP-SAMAHANG NAGTATAGUYOD NG IISANG DIWA'T ADHIKA"
+        "fields": { "name":  "PUP-SAMAHANG NAGTATAGUYOD NG IISANG DIWA-T ADHIKA"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "42",
         "fields": { "name":  "PUP Communication Society"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "43",
         "fields": { "name":  "Advertising and Public Relations Organization of Students"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "44",
         "fields": { "name":  "MULAT Documentary Guild"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "45",
         "fields": { "name":  "Christians on Demand at Law"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "46",
         "fields": { "name":  "CRU"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "47",
         "fields": { "name":  "Polytechnic University of the Philippines Junior Philippine Institute of Accountants Manila (PUP JPIA Manila)"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "48",
-        "fields": { "name":  "STUDENTS' ACTIONS VITAL TO THE ENVIRONMENT AND MOTHER EARTH MOVEMENT"
+        "fields": { "name":  "STUDENTs' ACTIONS VITAL TO THE ENVIRONMENT AND MOTHER EARTH MOVEMENT"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "49",
         "fields": { "name":  "PUP-Railway Engineering Students' Society (PUP-RAILSS)"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "50",
         "fields": { "name":  "Society of Information Technology Educators"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "51",
         "fields": { "name":  "PUP AGGREGATES"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "52",
         "fields": { "name":  "Philippine Society of Mechanical Engineers - Polytechnic University of the Philippines Student Unit"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "53",
         "fields": { "name":  "Polytechnic University of The Philippines - The Programmers' Guild"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "54",
         "fields": { "name":  "Bible Readers Society International - Polytechnic University of the Philippines (PUP) Chapter"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "55",
         "fields": { "name":  "Polytechnic University of the Philippines - College of Engineering Honors\u0027 Society"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "56",
         "fields": { "name":  "Philippine Association of Food Technologists Inc. - Theta Chapter"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "57",
         "fields": { "name":  "The PUP Artist Guild for Excellence"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "58",
         "fields": { "name":  "PUP Sintang Pusa"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "59",
         "fields": { "name":  "PUP Statistics Students' Clique"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "60",
         "fields": { "name":  "Master of Arts in Filipino Society"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "61",
         "fields": { "name":  "Polytechnic University of the Philippines - CHEMICAL SOCIETY"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "62",
         "fields": { "name":  "PUP Mathematics Club"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "63",
         "fields": { "name":  "PUP Circle of Research Enthusiasts (PUP CORE)"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "64",
         "fields": { "name":  "IIEE-Electrical Engineering Network"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "65",
         "fields": { "name":  "Every Nation Campus Polytechnic University of the Philippines"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "66",
         "fields": { "name":  "Ace Prime Dancers (APD)"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "67",
         "fields": { "name":  "BAYANIHAN YOUTH for PEACE Inc."
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "68",
         "fields": { "name":  "Gabriela Youth Polytechnic University of the Philippines"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "69",
         "fields": { "name":  "PUP BiblioFlix"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "70",
         "fields": { "name":  "Polytechnic University of the Philippines-Radio Engineering Circle Manila Section"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "71",
         "fields": { "name":  "PUP Students' Party for Equality and Advancement of Knowledge"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "72",
         "fields": { "name":  "PUP SCHOOL OF DEBATERS"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "73",
         "fields": { "name":  "Women-s Initiative for Social Development and Freedom (WISDOM)"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "74",
         "fields": { "name":  "YOUTH ON THE ROCK"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "75",
         "fields": { "name":  "Human Resource Students Society"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "76",
         "fields": { "name":  "PUP SOCIETY OF BIOLOGY STUDENTS"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "77",
         "fields": { "name":  "Rotaract Club of Polytechnic University of the Philippines"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "78",
         "fields": { "name":  "Polytechnic University of the Philippines Junior Philippine Association of Secretaries and- Administrative Professionals"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "79",
         "fields": { "name":  "Institute of Bachelors in Information Technology Studies"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "80",
         "fields": { "name":  "Philippine Institute of Industrial Engineers- PUP Student Chapter"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "81",
         "fields": { "name":  "Society of Engineering Technology Students"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "82",
         "fields": { "name":  "Kalasag Christian Fellowship"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "83",
         "fields": { "name":  "National Network of Agrarian Reform Advocates-Youth PUP (NNARA-Youth PUP)"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "84",
         "fields": { "name":  "Peacemakers Movement"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "85",
         "fields": { "name":  "PUP for Jesus Movement"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "86",
         "fields": { "name":  "Rod of God Ministry, Inc"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "87",
         "fields": { "name":  "Polytechnic University of the Philippines Federation of Junior Philippine Institute of Accountants' (PUPFJPIA)"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "88",
         "fields": { "name":  "Pylon Esports"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "89",
         "fields": { "name":  "Sandigan ng Mag-aaral para sa Sambayanan PUP"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "90",
         "fields": { "name":  "PUP Samahan ng mga Mag-aaral ng Kasaysayan"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "91",
         "fields": { "name":  "PUP-Bukluran sa Sikolohiyang Pilipino"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "92",
         "fields": { "name":  "Philippine Association of Nutrition - Alpha Epsilon Chapter"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "93",
         "fields": { "name":  "Library and Information Science Student Organization (LISSO)"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "94",
         "fields": { "name":  "PUP TRISKELION"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "95",
         "fields": { "name":  "Polytechnic University of the Philippines- College of Communication Ensemble"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "96",
         "fields": { "name":  "Damdamin at Malay (DAMLAY) PUP Sta. Mesa"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "97",
         "fields": { "name":  "Agham Youth - Polytechnic University of the Philippines (AY-PUP)"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "98",
         "fields": { "name":  "PUP Tanghalang Molave"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "99",
         "fields": { "name":  "PUP KASARIANLAN"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "100",
         "fields": { "name":  "KRISTYANONG KABATAAN PARA SA BAYAN"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "101",
         "fields": { "name":  "PUP Society of Pangasinan Students"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "102",
         "fields": { "name":  "PUP Psychology Students Association"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "103",
         "fields": { "name":  "Polytechnic University of the Philippines - Electronics Engineering Students' Society (PUP-ECESS)"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "104",
         "fields": { "name":  "Alyansa ng mga Panulat na Sumusuong"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "105",
         "fields": { "name":  "Tulos Baybay"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "106",
         "fields": { "name":  "UGNAYAN NG TALINO AT KAGALINGAN"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "107",
         "fields": { "name":  "Guild of English Majors"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "108",
         "fields": { "name":  "Magic-5 Brotherhood Association, Inc. Polytechnic University of the Philippines Chapter"
     }},
     {
-        "model":  "school.Organization",
+        "model":  "portal_backend.Organization",
         "pk":  "109",
         "fields": { "name":  "Entrepreneurial Students Society"
     }}

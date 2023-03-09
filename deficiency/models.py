@@ -17,6 +17,8 @@ class Deficiency(models.Model):
         return f"{self.student} has a deficiency in {self.name}"
 
     def save(self, *args, **kwargs):
+        super().save(*args, **kwargs)
+
         prefix = "O"
 
         if self.category == "Finance":
@@ -26,7 +28,9 @@ class Deficiency(models.Model):
 
         self.deficiency_id = prefix + str(self.pk).zfill(7)
 
-        super(Deficiency, self).save(*args, **kwargs)
+        super().save(*args, **kwargs)
+
+        
 
 class FinanceDeficiency(models.Model):
     deficiency = models.OneToOneField(Deficiency, on_delete=models.CASCADE)

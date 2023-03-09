@@ -20,7 +20,7 @@ class DeficiencySummarySerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Deficiency
-        fields = ['id', 'category', 'name', 'status', 'balance']
+        fields = ['id', 'category', 'name', 'status', 'balance', 'deficiency_id']
 
 class DeficiencyDetailSerializer(DeficiencySummarySerializer):
     student_summary = serializers.SerializerMethodField('get_student')
@@ -35,12 +35,12 @@ class DeficiencyDetailSerializer(DeficiencySummarySerializer):
 
     def get_processed_by(self, obj):
         if obj.processed_by:
-            return obj.processed_by.user.first_name
+            return f"{obj.processed_by.user.first_name} {obj.processed_by.user.last_name}"
         return "------"
 
     class Meta:
         model = Deficiency
-        fields = ['id', 'category', 'name', 'status', 'balance', 'student_summary', 'added_by', 'processed_by', 'date_added', 'date_fulfilled']
+        fields = ['id', 'category', 'name', 'status', 'balance', 'student_summary', 'added_by', 'processed_by', 'date_added', 'date_fulfilled', 'deficiency_id']
 
 class NewDeficiencySerializer(serializers.ModelSerializer):
     class Meta:

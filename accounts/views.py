@@ -5,6 +5,7 @@ from rest_framework import status
 from rest_framework.permissions import AllowAny
 from accounts.serializers import LoginSerializer
 from django.contrib.auth.hashers import check_password
+from django.contrib.auth import update_session_auth_hash
 from accounts.serializers import UserNameSerializer
 
 # Create your views here.
@@ -58,6 +59,7 @@ class ChangePasword(APIView):
         
         user.set_password(new_pass)
         user.save()
+        update_session_auth_hash(request, request.user)
         return Response({"success": "You changed your password successfully"})
 
 

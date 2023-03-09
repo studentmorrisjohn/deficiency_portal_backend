@@ -20,6 +20,7 @@ class User(AbstractUser):
     birth_date = models.DateField(default=None, null=True, blank=True)
     mobile_number = models.CharField(max_length=55, null=True, blank=True)
 
+
     def save(self, *args, **kwargs):
         if not self.pk:
             self.role = self.base_role

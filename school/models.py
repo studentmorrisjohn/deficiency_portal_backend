@@ -6,12 +6,14 @@ from accounts.models import User
 # Create your models here.
 
 class College(models.Model):
+    college_abbreviation = models.CharField(max_length=10, primary_key=True)
     college_name = models.CharField(max_length=100)
 
     def __str__(self):
         return self.college_name
 
 class Department(models.Model):
+    department_abbreviation = models.CharField(max_length=50, primary_key=True)
     college = models.ForeignKey(College, on_delete=models.CASCADE)
     department_name = models.CharField(max_length=100)
 
@@ -23,7 +25,6 @@ class StudentProfile(models.Model):
     student_id = models.CharField(max_length=100, primary_key=True)
     department = models.ForeignKey(Department, on_delete=models.CASCADE, default=None, null=True, blank=True)
 
-    
     def __str__(self):
         return self.student_id
 

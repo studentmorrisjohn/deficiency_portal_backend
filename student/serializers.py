@@ -7,6 +7,7 @@ class StudentSummarySerializer(serializers.ModelSerializer):
     name = serializers.SerializerMethodField('get_name')
     affiliations = serializers.SerializerMethodField('get_affiliations')
     mobile_number = serializers.SerializerMethodField('get_number')
+    email = serializers.SerializerMethodField('get_email')
     
     def get_name(self, obj):
         return f"{obj.user.last_name}, {obj.user.first_name} {obj.user.middle_name}"
@@ -17,7 +18,10 @@ class StudentSummarySerializer(serializers.ModelSerializer):
     
     def get_number(self, obj):
         return obj.user.mobile_number
+    
+    def get_email(self, obj):
+        return obj.user.email
 
     class Meta:
         model = StudentProfile
-        fields = ['student_id', 'name', 'affiliations', 'mobile_number']
+        fields = ['student_id', 'name', 'affiliations', 'mobile_number', 'email']

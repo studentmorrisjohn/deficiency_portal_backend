@@ -57,8 +57,7 @@ class DeficiencyDetail(APIView):
         
         deficiency.delete()
 
-        serializer = DeficiencyDetailSerializer(deficiency)
-        return Response(serializer.data)
+        return Response({"success": "The Deficiency was successfully deleted"})
 
 class DeficiencyNameList(APIView):
     # permission_classes = [HasEmployeePermission]

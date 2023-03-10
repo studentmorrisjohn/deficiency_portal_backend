@@ -52,7 +52,7 @@ class ChangePasword(APIView):
         re_new_pass = request.data["re_new_pass"]
         
         if not check_password(current_pass_entered, current_pass):
-            return Response({"error": "You entered the wrong current password"})
+            return Response({"error": "You entered an incorrect current password"})
         
         if new_pass != re_new_pass:
             return Response({"error": "Passwords do not match"})

@@ -1,16 +1,19 @@
 from rest_framework.views import APIView
 from django.http import Http404
 from rest_framework.response import Response
+from django.http import HttpResponse
 
 from school.models import EmployeeProfile, StudentProfile
 from deficiency.models import Deficiency, FinanceDeficiency
 from deficiency.serializers import DeficiencyDetailSerializer, DeficiencyNameListSerializer, DeficiencyNameOptionSerializer
-from employee.serializers import StudentListSerializer
+from employee.serializers import StudentListSerializer, ReportSerializer
 from accounts.permissions import HasEmployeePermission
 from student.serializers import StudentSummarySerializer
 from school.serializers import ProfileSerializer
 
 import datetime
+from openpyxl import Workbook
+from tempfile import NamedTemporaryFile
 
 # Create your views here.
 class DeficiencyDetail(APIView):
@@ -195,3 +198,27 @@ class EmployeeProfileView(APIView):
         user.save()
 
         return Response({"success": "Profile was successfully updated"})
+    
+class GenerateReportView(APIView):
+    def get(self, request, deficiency_name, format=None):
+        wb = Workbook()
+        ws = wb.active
+
+        deficiencies = Deficiency.objects.filter(name=deficiency_name).order_by("is_complete")
+        serializer = ReportSerializer(deficiencies, many=True)
+
+        # Append Headers to excel file
+        ws.append([*serializer.data[0].keys()])
+
+        # Append Data to excel file
+        [ws.append([*x.values()]) for x in serializer.data]
+
+        # Return excel file 
+        with NamedTemporaryFile() as tmp:
+            wb.save(tmp)
+            tmp.seek(0)
+            stream = tmp.read()
+
+        response = HttpResponse(content=stream, content_type='application/ms-excel', )
+        response['Content-Disposition'] = f'attachment; filename={deficiency_name} Report.xlsx'
+        return response

@@ -27,6 +27,10 @@ class User(AbstractUser):
             self.is_staff = self.base_is_staff
             return super().save(*args, **kwargs)
         return super().save(*args, **kwargs)
+    
+    @property
+    def name(self):
+        return f"{self.last_name}, {self.first_name} {self.middle_name}"
 
 class Student(User):
     base_role = User.Role.STUDENT

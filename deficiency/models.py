@@ -30,7 +30,6 @@ class Deficiency(models.Model):
 
         super().save(*args, **kwargs)
 
-        
 
 class FinanceDeficiency(models.Model):
     deficiency = models.OneToOneField(Deficiency, on_delete=models.CASCADE)

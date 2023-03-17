@@ -6,7 +6,7 @@ from django.http import HttpResponse
 from school.models import EmployeeProfile, StudentProfile
 from deficiency.models import Deficiency, FinanceDeficiency
 from deficiency.serializers import DeficiencyDetailSerializer, DeficiencyNameListSerializer, DeficiencyNameOptionSerializer
-from employee.serializers import StudentListSerializer, ReportSerializer
+from employee.serializers import StudentListSerializer, ReportSerializer, GeneralSummarySerializer, GeneralSummary, PerDeficiencySummarySerializer, PerDeficiencySummary
 from accounts.permissions import HasEmployeePermission
 from student.serializers import StudentSummarySerializer
 from school.serializers import ProfileSerializer
@@ -222,3 +222,17 @@ class GenerateReportView(APIView):
         response = HttpResponse(content=stream, content_type='application/ms-excel', )
         response['Content-Disposition'] = f'attachment; filename={deficiency_name} Report.xlsx'
         return response
+
+class GeneralSummaryView(APIView):
+    def get(self, request, format=None):
+        summary = GeneralSummary()
+        serializer = GeneralSummarySerializer(summary)
+
+        return Response(serializer.data)
+
+class PerDeficiencySummaryView(APIView):
+    def get(self, request, deficiency_name, format=None):
+        summary = PerDeficiencySummary(deficiency_name)
+        serializer = PerDeficiencySummarySerializer(summary)
+
+        return Response(serializer.data)

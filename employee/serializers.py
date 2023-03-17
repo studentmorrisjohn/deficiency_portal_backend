@@ -2,26 +2,27 @@ from rest_framework import serializers
 from deficiency.serializers import DeficiencySummarySerializer
 from student.serializers import StudentSummarySerializer
 from deficiency.models import Deficiency
-from school.models import Membership
+from school.models import Membership, StudentProfile
 from school.serializers import AffiliationSerializer
 
-class Summary():
+# To get the Total No. of Students, Total No. of Deficiencies, 
+# Total No. of Completed Deficiencies, and Total No. of Pending Deficiencies
+class GeneralSummary():
+    def __init__(self):
+        self.student_count = StudentProfile.objects.all().count()
+        self.deficiency_count = Deficiency.objects.all().count()
+        self.complete_count = Deficiency.objects.all().filter(is_complete=True).count()
+        self.pending_count = Deficiency.objects.all().filter(is_complete=False).count()
+
+# To get the Total No. Per Deficiency, Total No. of Completed Status Per Deficiency,
+# and Total No. of Pending Status Per Deficiency
+class PerDeficiencySummary():
     def __init__(self, deficiency_name):
         self.deficiency_name = deficiency_name
 
-    def query(self):
         self.deficiency_count = Deficiency.objects.filter(name=self.deficiency_name).count()
         self.complete_count = Deficiency.objects.filter(name=self.deficiency_name).filter(is_complete=True).count()
         self.pending_count = Deficiency.objects.filter(name=self.deficiency_name).filter(is_complete=False).count()
-
-    def to_representation(self):
-        output = {}
-
-        output['total_count'] = self.deficiency_count
-        output['complete_count'] = self.complete_count
-        output['pending_count'] = self.pending_count
-
-
 
 class StudentListSerializer(DeficiencySummarySerializer):
     student = serializers.SerializerMethodField('get_student')
@@ -66,4 +67,25 @@ class ReportSerializer(serializers.BaseSerializer):
         else:
             output['Documents to be Submitted'] = instance.name
         
+        return output
+
+class GeneralSummarySerializer(serializers.BaseSerializer):
+    def to_representation(self, instance):
+        output = {}
+
+        output['total_student'] = instance.student_count
+        output['total_deficiency'] = instance.deficiency_count
+        output['complete_count'] = instance.complete_count
+        output['pending_count'] = instance.pending_count
+    
+        return output
+
+class PerDeficiencySummarySerializer(serializers.BaseSerializer):
+    def to_representation(self, instance):
+        output = {}
+    
+        output['total_count'] = instance.deficiency_count
+        output['complete_count'] = instance.complete_count
+        output['pending_count'] = instance.pending_count
+    
         return output

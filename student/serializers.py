@@ -24,4 +24,4 @@ class StudentSummarySerializer(serializers.ModelSerializer):
 
     class Meta:
         model = StudentProfile
-        fields = ['student_id', 'name', 'affiliations', 'mobile_number', 'email']
+        fields = ['student_id', 'name', 'affiliations', 'mobile_number', 'email', 'department']

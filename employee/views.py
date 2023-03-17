@@ -13,7 +13,10 @@ from school.serializers import ProfileSerializer
 
 import datetime
 from openpyxl import Workbook
+from openpyxl import load_workbook
 from tempfile import NamedTemporaryFile
+from deficiency_portal_backend.settings import BASE_DIR
+import os
 
 # Create your views here.
 class DeficiencyDetail(APIView):
@@ -201,14 +204,15 @@ class EmployeeProfileView(APIView):
     
 class GenerateReportView(APIView):
     def get(self, request, deficiency_name, format=None):
-        wb = Workbook()
+        file_path = os.path.join(BASE_DIR, "format.xlsx")
+        wb = load_workbook(file_path)
         ws = wb.active
 
         deficiencies = Deficiency.objects.filter(name=deficiency_name).order_by("is_complete")
         serializer = ReportSerializer(deficiencies, many=True)
 
-        # Append Headers to excel file
-        ws.append([*serializer.data[0].keys()])
+        if "Balance To Be Settled" in [*serializer.data[0].keys()]:
+            ws["O2"] = "Balance To Be Settled"
 
         # Append Data to excel file
         [ws.append([*x.values()]) for x in serializer.data]
@@ -222,3 +226,7 @@ class GenerateReportView(APIView):
         response = HttpResponse(content=stream, content_type='application/ms-excel', )
         response['Content-Disposition'] = f'attachment; filename={deficiency_name} Report.xlsx'
         return response
+    
+class GeneralSummaryView(APIView):
+    def get(self, request, format=None):
+        print("tangina naman")

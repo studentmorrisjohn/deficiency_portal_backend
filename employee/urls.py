@@ -8,4 +8,6 @@ urlpatterns = [
     path('all-students/<str:name>', views.AllStudents.as_view()),
     path('profile', views.EmployeeProfileView.as_view()),
     path('report/<str:deficiency_name>', views.GenerateReportView.as_view()),
+    path('summary', views.GeneralSummaryView.as_view()),
+    path('deficiency-summary/<str:deficiency_name>', views.PerDeficiencySummaryView.as_view()),
 ]

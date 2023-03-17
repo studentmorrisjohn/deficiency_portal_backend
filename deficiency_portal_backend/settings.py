@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-@3404qsu(2&h#q3_ufsn0c7zgd08hnl+mj9ns&3wdt9kj6pdft
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '192.168.1.7']
+ALLOWED_HOSTS = ['localhost', '192.168.1.7', '127.0.0.1']
 
 
 # Application definition
@@ -81,13 +81,23 @@ WSGI_APPLICATION = 'deficiency_portal_backend.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
 
+# DATABASES = {  
+#     'default': {  
+#         'ENGINE': 'django.db.backends.mysql',  
+#         'NAME': 'student_deficiency_portal',  
+#         'USER': 'root',  
+#         'PASSWORD': '',  
+#         'HOST': '127.0.0.1',  
+#         'PORT': 3306,
+#     }  
+# }
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators
@@ -146,7 +156,6 @@ REST_FRAMEWORK = {
 CORS_ORIGIN_ALLOW_ALL = True
 
 AUTH_USER_MODEL = "accounts.User"
-
 
 PASSWORD_HASHERS = [
     'django.contrib.auth.hashers.BCryptSHA256PasswordHasher',

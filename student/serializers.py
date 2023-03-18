@@ -8,6 +8,7 @@ class StudentSummarySerializer(serializers.ModelSerializer):
     affiliations = serializers.SerializerMethodField('get_affiliations')
     mobile_number = serializers.SerializerMethodField('get_number')
     email = serializers.SerializerMethodField('get_email')
+    department = serializers.SerializerMethodField('get_department')
     
     def get_name(self, obj):
         return f"{obj.user.last_name}, {obj.user.first_name} {obj.user.middle_name}"
@@ -21,6 +22,9 @@ class StudentSummarySerializer(serializers.ModelSerializer):
     
     def get_email(self, obj):
         return obj.user.email
+    
+    def get_department(self, obj):
+        return obj.department.department_name
 
     class Meta:
         model = StudentProfile

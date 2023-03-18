@@ -10,7 +10,10 @@ def is_in_group(user, group_name):
 
 class HasEmployeePermission(permissions.BasePermission):
     def has_permission(self, request, view):
-        return is_in_group(request.user, "Employee")
+        try:
+            return request.user.role == "EMPLOYEE" or request.user.role == "ADMIN"
+        except AttributeError:
+            return False
 
 class HasOwnerPermission(permissions.BasePermission):
     def has_permissions(self, request, view):

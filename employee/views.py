@@ -2,14 +2,16 @@ from rest_framework.views import APIView
 from django.http import Http404
 from rest_framework.response import Response
 from django.http import HttpResponse
+from rest_framework.permissions import IsAuthenticated
 
-from school.models import EmployeeProfile, StudentProfile
+from school.models import EmployeeProfile, StudentProfile, College
 from deficiency.models import Deficiency, FinanceDeficiency
-from deficiency.serializers import DeficiencyDetailSerializer, DeficiencyNameListSerializer, DeficiencyNameOptionSerializer
-from employee.serializers import StudentListSerializer, ReportSerializer, GeneralSummarySerializer, GeneralSummary, PerDeficiencySummarySerializer, PerDeficiencySummary
+from deficiency.serializers import DeficiencyDetailSerializer, DeficiencyNameListSerializer
+from employee.serializers import StudentListSerializer, ReportSerializer, GeneralSummarySerializer, GeneralSummary, PerDeficiencySummarySerializer, PerDeficiencySummary, DashboardDeficiencyNameTableSerializer, BarChartSerializer, BarChartData
 from accounts.permissions import HasEmployeePermission
 from student.serializers import StudentSummarySerializer
 from school.serializers import ProfileSerializer
+from django.db.models import Count
 
 import datetime
 from openpyxl import Workbook
@@ -20,6 +22,8 @@ import os
 
 # Create your views here.
 class DeficiencyDetail(APIView):
+    permission_classes = [IsAuthenticated & HasEmployeePermission]
+
     def get_object(self, def_id):
         try:
             return Deficiency.objects.get(id=def_id)
@@ -66,7 +70,8 @@ class DeficiencyDetail(APIView):
         return Response({"success": "The Deficiency was successfully deleted"})
 
 class DeficiencyNameList(APIView):
-    # permission_classes = [HasEmployeePermission]
+    permission_classes = [IsAuthenticated & HasEmployeePermission]
+
     def get(self, request, format=None):
         name = request.GET.get('name')
         
@@ -79,7 +84,7 @@ class DeficiencyNameList(APIView):
         return Response(serializer.data)
 
 class StudentList(APIView):
-    # permission_classes = [HasEmployeePermission]
+    permission_classes = [IsAuthenticated & HasEmployeePermission]
     def get(self, request, name, format=None):
         student_name = request.GET.get('student-name')
         student_id = request.GET.get('student-id')
@@ -137,6 +142,7 @@ class StudentList(APIView):
         return Response(serializer.data)
 
 class DeficiencyNameOptions(APIView):
+    permission_classes = [IsAuthenticated & HasEmployeePermission]
     def get(self, request, format=None):
         name = request.GET.get('name')
         
@@ -150,6 +156,7 @@ class DeficiencyNameOptions(APIView):
         return Response(serializer.data)
     
 class AllStudents(APIView):
+    permission_classes = [IsAuthenticated & HasEmployeePermission]
     def get(self, request, name, format=None):
         student_name = request.GET.get('student-name')
         student_id = request.GET.get('student-id')
@@ -183,6 +190,8 @@ class AllStudents(APIView):
         return Response(serializer.data)
     
 class EmployeeProfileView(APIView):
+    permission_classes = [IsAuthenticated & HasEmployeePermission]
+
     def get(self, request,format=None):
         user = self.request.user
 
@@ -203,6 +212,7 @@ class EmployeeProfileView(APIView):
         return Response({"success": "Profile was successfully updated"})
     
 class GenerateReportView(APIView):
+    permission_classes = [IsAuthenticated & HasEmployeePermission]
     def get(self, request, deficiency_name, format=None):
         file_path = os.path.join(BASE_DIR, "format.xlsx")
         wb = load_workbook(file_path)
@@ -228,6 +238,7 @@ class GenerateReportView(APIView):
         return response
 
 class GeneralSummaryView(APIView):
+    permission_classes = [IsAuthenticated & HasEmployeePermission]
     def get(self, request, format=None):
         summary = GeneralSummary()
         serializer = GeneralSummarySerializer(summary)
@@ -235,8 +246,45 @@ class GeneralSummaryView(APIView):
         return Response(serializer.data)
 
 class PerDeficiencySummaryView(APIView):
+    permission_classes = [IsAuthenticated & HasEmployeePermission]
     def get(self, request, deficiency_name, format=None):
         summary = PerDeficiencySummary(deficiency_name)
         serializer = PerDeficiencySummarySerializer(summary)
 
+        return Response(serializer.data)
+
+
+class DashboardDeficiencyNameTable(APIView):
+    permission_classes = [IsAuthenticated & HasEmployeePermission]
+    def get(self, request, format=None):
+        name = request.GET.get('name')
+
+        try:
+            if name:
+                deficiency_name_list = Deficiency.objects.values("name", "category").distinct().filter(name__icontains=name)
+            else:
+                deficiency_name_list = Deficiency.objects.values("name", "category").distinct()
+
+        except Exception as e:
+            return Response({"warning" : e})
+
+        serializer = DashboardDeficiencyNameTableSerializer(deficiency_name_list, many=True)
+        return Response(serializer.data)
+    
+class BarChartSummary(APIView):
+    permission_classes = [IsAuthenticated & HasEmployeePermission]
+    def get(self, request, format=None):
+        name = request.GET.get('name')
+
+        try:
+            if name:
+                top_5_colleges = College.objects.annotate(def_count=Count("department__studentprofile__student_with_deficiency")).filter(department__studentprofile__student_with_deficiency__name=name).order_by("-def_count")[:5]
+            else:
+                top_5_colleges = College.objects.annotate(def_count=Count("department__studentprofile__student_with_deficiency")).order_by("-def_count")[:5]
+            
+        except Exception as e:
+            return Response({"warning" : e})
+        
+        serializer = BarChartSerializer([BarChartData(x.college_abbreviation, name) for x in top_5_colleges], many=True)
+        
         return Response(serializer.data)

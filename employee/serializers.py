@@ -10,7 +10,7 @@ from school.serializers import AffiliationSerializer
 class GeneralSummary():
     def __init__(self):
         self.student_count = StudentProfile.objects.all().count()
-        self.deficiency_count = Deficiency.objects.all().count()
+        self.deficiency_count = Deficiency.objects.values("name").distinct().count()
         self.complete_count = Deficiency.objects.all().filter(is_complete=True).count()
         self.pending_count = Deficiency.objects.all().filter(is_complete=False).count()
 
@@ -88,4 +88,38 @@ class PerDeficiencySummarySerializer(serializers.BaseSerializer):
         output['complete_count'] = instance.complete_count
         output['pending_count'] = instance.pending_count
     
+        return output
+    
+class DashboardDeficiencyNameTableSerializer(serializers.BaseSerializer):
+    def to_representation(self, instance):
+        output = {}
+
+        output['name'] = instance['name']
+        output['category'] = instance['category']
+        output['student_count'] = Deficiency.objects.filter(name=instance['name']).count()
+
+        return output
+    
+class BarChartData():
+    def __init__(self, college_abbreviation, deficiency_name=None):
+        self.name = college_abbreviation
+        self.pending = Deficiency.objects.filter(student__department__college__college_abbreviation=college_abbreviation).filter(is_complete=False)
+        self.complete = Deficiency.objects.filter(student__department__college__college_abbreviation=college_abbreviation).filter(is_complete=True)
+
+
+        if deficiency_name:
+            self.pending_count = self.pending.filter(name=deficiency_name).count()
+            self.complete_count = self.complete.filter(name=deficiency_name).count()
+        else:
+            self.pending_count = self.pending.count()
+            self.complete_count = self.complete.count()
+          
+class BarChartSerializer(serializers.BaseSerializer):
+    def to_representation(self, instance):
+        output = {}
+
+        output['name'] = instance.name
+        output['pending'] = instance.pending_count
+        output['completed'] = instance.complete_count
+
         return output

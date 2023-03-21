@@ -10,6 +10,7 @@ from accounts.serializers import UserNameSerializer
 
 # Create your views here.
 class CheckAuthenticatedView(APIView):
+    permission_classes =[AllowAny]
     def get(self, request, format=None):
         user = self.request.user
 

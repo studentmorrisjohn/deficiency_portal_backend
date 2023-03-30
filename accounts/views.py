@@ -7,6 +7,12 @@ from accounts.serializers import LoginSerializer
 from django.contrib.auth.hashers import check_password
 from django.contrib.auth import update_session_auth_hash
 from accounts.serializers import UserNameSerializer
+from accounts.models import Student
+from school.models import StudentProfile
+
+import csv
+import string
+import random
 
 # Create your views here.
 class CheckAuthenticatedView(APIView):
@@ -71,3 +77,38 @@ class UserName(APIView):
         serializer = UserNameSerializer(user)
 
         return Response(serializer.data)
+    
+class InsertUsers(APIView):
+    def post(self, request, format=None):
+        file = request.FILES['file']
+        data = self.process_file(file)
+
+        self.to_mail = []
+        
+        self.insert_data(data)
+
+        return Response({"succes":"users are added"})
+    
+    def process_file(self, file):
+        reader = csv.DictReader(file.read().decode('latin-1').splitlines())
+
+        data = [row for row in reader]
+
+        return data
+    
+    def insert_data(self, data):
+        example_student = data[0]
+        department = example_student.pop('department')
+        password = self.generate_password()
+        student = Student.objects.create_user(**example_student, password=password)
+        student_profile = StudentProfile(user=student, student_id=student.username, department_id=department)
+        student_profile.save()
+
+        print(student)
+        print(department)
+        print(password)
+
+    def generate_password(self):
+        alphabet = string.ascii_letters + string.digits + string.punctuation
+        password = ''.join(random.choice(alphabet) for i in range(8))
+        return password

@@ -1,0 +1,1001 @@
+username,first_name,last_name,middle_name,email,gender,birth_date,mobile_number,department
+2021-5541-MN-0,Tieasha,Mama ,Tomás ,ttmama@iskolarngbayan.pup.edu.ph,F,2003-02-23,(0926) 3243196,BECEd
+2021-4481-MN-0,Tramayne,Montes ,David ,tdmontes@iskolarngbayan.pup.edu.ph,M,2002-10-16,(0905) 6886074,BSMA
+2021-0636-MN-0,Juana,Sagun ,Atienza ,jasagun@iskolarngbayan.pup.edu.ph,F,2002-10-01,(0926) 3267629,BEEd
+2021-8005-MN-0,Fahad,Reyes ,Borja ,fbreyes@iskolarngbayan.pup.edu.ph,M,2002-01-18,(0937) 1215486,BSCS
+2021-2587-MN-0,Trapper,David ,Prado ,tpdavid@iskolarngbayan.pup.edu.ph,F,2003-01-10,(0976) 3936283,PBDE
+2021-9392-MN-0,Percival,Tomás ,Laurente ,pltomás@iskolarngbayan.pup.edu.ph,M,2003-04-14,(0945) 5508520,BLIS
+2021-4522-MN-0,Zulay,Viray ,Ong ,zoviray@iskolarngbayan.pup.edu.ph,F,2003-11-29,(0999) 3889775,BPA
+2021-6352-MN-0,Murray,Aguinaldo ,Gallego ,mgaguinaldo@iskolarngbayan.pup.edu.ph,F,2003-06-02,(0915) 2882116,DMET
+2021-7170-MN-0,Shelena,Torres ,Gamboa ,sgtorres@iskolarngbayan.pup.edu.ph,F,2002-10-25,(0979) 2988090,BSA
+2021-7725-MN-0,Napolean,delos Reyes,Rivas ,nrdelos reyes@iskolarngbayan.pup.edu.ph,F,2002-08-19,(0917) 5012201,DEET
+2021-3868-MN-0,Boone,Mejía ,Dalisay ,bdmejía@iskolarngbayan.pup.edu.ph,F,2002-06-29,(0937) 9944038,BSEP
+2021-7452-MN-0,Derika,Villafuerte ,Bacus ,dbvillafuerte@iskolarngbayan.pup.edu.ph,M,2004-05-21,(0953) 9600354,BSEd-SS
+2021-0151-MN-0,Lorraina,Villanueva ,Madriaga ,lmvillanueva@iskolarngbayan.pup.edu.ph,F,2004-09-23,(0926) 6696583,BSSTAT
+2021-4129-MN-0,Talesha,Evangelista ,Zabala ,tzevangelista@iskolarngbayan.pup.edu.ph,F,2004-11-23,(0975) 3338164,MLIS
+2021-2872-MN-0,Humza,Zapanta ,Chua ,hczapanta@iskolarngbayan.pup.edu.ph,M,2004-07-30,(0917) 1078201,BEEd
+2021-6618-MN-0,Lesa,Lucas ,Cortez ,lclucas@iskolarngbayan.pup.edu.ph,F,2004-04-29,(0964) 2271641,BSFT
+2021-3625-MN-0,Kerissa,Salazar ,Ramírez ,krsalazar@iskolarngbayan.pup.edu.ph,M,2002-05-20,(0936) 9131103,ABLCS
+2021-5284-MN-0,Demitrus,Serrano ,Solomón ,dsserrano@iskolarngbayan.pup.edu.ph,F,2004-03-09,(0937) 3452445,MEM-IL
+2021-5491-MN-0,Joline,Calderón ,Coronel ,jccalderón@iskolarngbayan.pup.edu.ph,M,2002-11-29,(0977) 4167486,BECEd
+2021-7012-MN-0,Cornel,Mohammad ,Tejada ,ctmohammad@iskolarngbayan.pup.edu.ph,F,2003-03-21,(0937) 5757601,MBA
+2021-7512-MN-0,Solomon,Torres ,Mateo ,smtorres@iskolarngbayan.pup.edu.ph,F,2004-09-24,(0976) 9869967,BSENTREP
+2021-9593-MN-0,Rain,Quiambao ,Agustín ,raquiambao@iskolarngbayan.pup.edu.ph,M,2004-09-13,(0997) 8316049,BECEd
+2021-3166-MN-0,Adolph,Andrada ,Labrador ,alandrada@iskolarngbayan.pup.edu.ph,F,2002-12-07,(0954) 5800754,BAPS
+2021-9674-MN-0,Veda,Valenzuela ,David ,vdvalenzuela@iskolarngbayan.pup.edu.ph,F,2002-12-15,(0965) 3348837,BSBIO
+2021-0577-MN-0,Damond,de la Cruz ,Conde ,dcde la cruz@iskolarngbayan.pup.edu.ph,F,2003-05-04,(0977) 3744413,BSSTAT
+2021-1460-MN-0,Ceilia,Paraiso ,Pangilinan ,cpparaiso@iskolarngbayan.pup.edu.ph,M,2003-03-14,(0976) 1312345,BTLEd-HE
+2021-7486-MN-0,Arpan,Ballesteros ,Ferrer ,afballesteros@iskolarngbayan.pup.edu.ph,F,2004-02-25,(0975) 5493212,BSTRM
+2021-6159-MN-0,Anastasha,Hilario ,Roa ,arhilario@iskolarngbayan.pup.edu.ph,F,2002-04-12,(0926) 1236354,BAIS
+2021-8945-MN-0,Johney,Ignacio ,Mahinay ,jmignacio@iskolarngbayan.pup.edu.ph,F,2004-04-08,(0999) 4700176,BAIS
+2021-5273-MN-0,Saman,Santa Ana ,Rosal ,srsanta ana@iskolarngbayan.pup.edu.ph,F,2004-01-30,(0975) 9292583,MEM-IL
+2021-7332-MN-0,Mimi,Alonzo ,Gallego ,mgalonzo@iskolarngbayan.pup.edu.ph,F,2002-02-10,(0906) 4665073,BA Broadcasting
+2021-3333-MN-0,Shaday,Marcelo ,Rodrigo ,srmarcelo@iskolarngbayan.pup.edu.ph,M,2003-07-25,(0963) 1537696,ABELS
+2021-7248-MN-0,Garnett,Belarmino ,Concepción ,gcbelarmino@iskolarngbayan.pup.edu.ph,F,2002-09-08,(0997) 7738413,MLIS
+2021-9355-MN-0,Amandia,Ortega ,Martínez ,amortega@iskolarngbayan.pup.edu.ph,M,2004-03-21,(0953) 6146298,BAS
+2021-5493-MN-0,Cameo,Billones ,Padilla ,cpbillones@iskolarngbayan.pup.edu.ph,M,2004-02-28,(0936) 1982170,BSEd-ENG
+2021-4978-MN-0,Geovanny,dela Cerna ,Solis ,gsdela cerna@iskolarngbayan.pup.edu.ph,F,2003-11-28,(0975) 4355006,BAPE
+2021-2381-MN-0,Amberlynn,Marquez ,Tenorio ,atmarquez@iskolarngbayan.pup.edu.ph,M,2004-11-28,(0905) 3526531,DOMT
+2021-4888-MN-0,Aser,Landicho ,Rivas ,arlandicho@iskolarngbayan.pup.edu.ph,M,2004-10-18,(0953) 9424564,AB-PHILO
+2021-5479-MN-0,Nekita,Sy ,dela Cruz ,ndsy@iskolarngbayan.pup.edu.ph,M,2004-06-19,(0926) 8006238,BSPHY
+2021-8466-MN-0,Hayes,Feliciano ,Umali ,hufeliciano@iskolarngbayan.pup.edu.ph,M,2004-12-14,(0915) 3268005,BSBAFM
+2021-3745-MN-0,Kayse,Legaspi ,Rodrigo ,krlegaspi@iskolarngbayan.pup.edu.ph,M,2003-09-20,(0906) 6856971,MEM-EL
+2021-5533-MN-0,Abril,Esteban ,Morales ,amesteban@iskolarngbayan.pup.edu.ph,M,2003-10-31,(0973) 4861604,BPE
+2021-1557-MN-0,Shuan,José ,Mateo ,smjosé@iskolarngbayan.pup.edu.ph,M,2002-12-07,(0978) 7287007,BSOA
+2021-0006-MN-0,Venesha,Gabriel ,Francisco ,vfgabriel@iskolarngbayan.pup.edu.ph,F,2004-12-06,(0997) 3473042,BACR
+2021-1785-MN-0,Vue,Sultan ,Dionisio ,vdsultan@iskolarngbayan.pup.edu.ph,M,2003-04-23,(0954) 1935733,DECET
+2021-0044-MN-0,Aj,Ariola ,Conde ,acariola@iskolarngbayan.pup.edu.ph,F,2003-07-19,(0997) 3187471,BA Broadcasting
+2021-7784-MN-0,Alainna,Ronquillo ,Geronimo ,agronquillo@iskolarngbayan.pup.edu.ph,F,2002-10-17,(0926) 2410341,DBA
+2021-5260-MN-0,Tashanda,Uy ,Bernabe ,tbuy@iskolarngbayan.pup.edu.ph,F,2003-12-01,(0935) 2664827,BSE
+2021-6028-MN-0,Lorell,Guevarra ,Hipolito ,lhguevarra@iskolarngbayan.pup.edu.ph,M,2003-09-23,(0997) 1567052,BSIE
+2021-7441-MN-0,Akeisha,Catalán ,Nepomuceno ,ancatalán@iskolarngbayan.pup.edu.ph,F,2002-04-01,(0964) 9828885,BPA
+2021-6581-MN-0,Gladis,de Castro ,Cano ,gcde castro@iskolarngbayan.pup.edu.ph,M,2003-02-01,(0915) 2002655,BAPE
+2021-2471-MN-0,Min,Ábalos ,Santiago ,msábalos@iskolarngbayan.pup.edu.ph,F,2002-07-05,(0965) 3763179,BSTM
+2021-3667-MN-0,Tanda,Dimaano ,Salazar ,tsdimaano@iskolarngbayan.pup.edu.ph,F,2003-11-29,(0973) 4525660,BSEE
+2021-5744-MN-0,Earl,Salcedo ,Osorio ,eosalcedo@iskolarngbayan.pup.edu.ph,M,2004-09-13,(0926) 3831554,BTLEd-ICT
+2021-9082-MN-0,Elektra,Murillo ,Bernal ,ebmurillo@iskolarngbayan.pup.edu.ph,F,2003-11-11,(0965) 6681396,BSE
+2021-4586-MN-0,Christiane,Magno ,Rosario ,crmagno@iskolarngbayan.pup.edu.ph,M,2003-03-02,(0975) 8176542,BSE
+2021-1922-MN-0,Tekia,Moreno ,Bautista ,tbmoreno@iskolarngbayan.pup.edu.ph,M,2002-01-03,(0975) 1927999,BSPHY
+2021-8986-MN-0,Tashay,Gómez ,Rubio ,trgómez@iskolarngbayan.pup.edu.ph,F,2003-12-20,(0965) 7560761,BSCE
+2021-1888-MN-0,Chelesa,de Castro ,Evangelista ,cede castro@iskolarngbayan.pup.edu.ph,F,2002-05-29,(0955) 2649766,BSFT
+2021-3495-MN-0,Fiona,Arroyo ,Eugenio ,fearroyo@iskolarngbayan.pup.edu.ph,F,2003-09-02,(0935) 8425321,DPA
+2021-2366-MN-0,Jacon,Viray ,Regalado ,jrviray@iskolarngbayan.pup.edu.ph,F,2003-09-08,(0936) 7619099,BAIS
+2021-8811-MN-0,Tamesha,de Luna ,Bóndoc ,tbde luna@iskolarngbayan.pup.edu.ph,M,2003-08-06,(0926) 2870535,BAPE
+2021-1661-MN-0,Twanisha,del Mundo ,Villar ,tvdel mundo@iskolarngbayan.pup.edu.ph,M,2003-07-05,(0974) 8631271,BSCS
+2021-8267-MN-0,Nadeem,Salvador ,Santiago ,nssalvador@iskolarngbayan.pup.edu.ph,F,2002-12-15,(0953) 7725581,BA Broadcasting
+2021-5038-MN-0,Sheron,Cano ,Guinto ,sgcano@iskolarngbayan.pup.edu.ph,F,2004-07-19,(0963) 7195591,BSENTREP
+2021-7861-MN-0,Careen,Vega ,Alejo ,cavega@iskolarngbayan.pup.edu.ph,F,2002-03-15,(0927) 9495933,BSEE
+2021-0084-MN-0,Gaylen,Gallego ,Nepomuceno ,gngallego@iskolarngbayan.pup.edu.ph,M,2004-02-14,(0963) 3912832,BLIS
+2021-1677-MN-0,Abbey,Bóndoc ,Abas ,aabóndoc@iskolarngbayan.pup.edu.ph,F,2002-03-05,(0975) 1469022,BSFT
+2021-2188-MN-0,Loran,Aragón ,Dionisio ,ldaragón@iskolarngbayan.pup.edu.ph,F,2003-01-18,(0965) 9706682,ABELS
+2021-5272-MN-0,Domingue,Tecson ,Villareal ,dvtecson@iskolarngbayan.pup.edu.ph,M,2004-03-19,(0975) 3761675,BTLEd-IA
+2021-4750-MN-0,Shaquana,de Castro ,Ferrer ,sfde castro@iskolarngbayan.pup.edu.ph,M,2002-06-23,(0978) 7377754,BSIT
+2021-6389-MN-0,Raelene,Bernardino ,de Chávez ,rdbernardino@iskolarngbayan.pup.edu.ph,F,2004-06-15,(0916) 6944469,BSMATH
+2021-3010-MN-0,Konstantinos,Buenaventura ,Uy ,kubuenaventura@iskolarngbayan.pup.edu.ph,F,2004-07-16,(0979) 1992475,DOMT
+2021-3958-MN-0,Laquette,Patricio ,Espíritu ,lepatricio@iskolarngbayan.pup.edu.ph,F,2003-06-12,(0936) 9675026,BSAPMATH
+2021-0803-MN-0,Tramaine,Basa ,Asis ,tabasa@iskolarngbayan.pup.edu.ph,M,2004-09-11,(0997) 8683775,BSOA
+2021-5177-MN-0,Brockton,Florendo ,Andal ,baflorendo@iskolarngbayan.pup.edu.ph,F,2002-07-25,(0963) 1676399,BSENTREP
+2021-9871-MN-0,Moya,Blanco ,Macaraeg ,mmblanco@iskolarngbayan.pup.edu.ph,F,2003-01-13,(0937) 4430476,BSE
+2021-4066-MN-0,Roshaunda,delos Reyes,Abdul ,radelos reyes@iskolarngbayan.pup.edu.ph,M,2003-06-14,(0974) 8043617,BSECE
+2021-5330-MN-0,Thomasine,Liwanag ,de los Reyes ,tdliwanag@iskolarngbayan.pup.edu.ph,F,2003-01-08,(0936) 1114982,BSME
+2021-6760-MN-0,Yobani,Suárez ,Cariño ,ycsuárez@iskolarngbayan.pup.edu.ph,M,2003-12-20,(0999) 9679449,BSPSY
+2021-4942-MN-0,Kenny,Samonte ,Carpio ,kcsamonte@iskolarngbayan.pup.edu.ph,M,2002-06-06,(0916) 3478932,DICT
+2021-6293-MN-0,Ahlam,Pangan ,Lozada ,alpangan@iskolarngbayan.pup.edu.ph,F,2003-12-15,(0927) 2866364,BAPS
+2021-5031-MN-0,Briget,del Mundo ,Alba ,badel mundo@iskolarngbayan.pup.edu.ph,F,2003-02-08,(0927) 6054854,BSTM
+2021-7670-MN-0,Lacye,Zabala ,de Chávez ,ldzabala@iskolarngbayan.pup.edu.ph,M,2003-03-23,(0906) 9180725,BAIS
+2021-7008-MN-0,Othello,Tolentino ,Sabado ,ostolentino@iskolarngbayan.pup.edu.ph,M,2002-09-02,(0905) 3769789,BAPS
+2021-5029-MN-0,Joyelle,Baguio ,Oliveros ,jobaguio@iskolarngbayan.pup.edu.ph,F,2002-08-01,(0926) 6367882,BTLEd-IA
+2021-7608-MN-0,Kahlil,Arcilla ,Pelayo ,kparcilla@iskolarngbayan.pup.edu.ph,M,2002-08-08,(0973) 7460141,BECEd
+2021-4210-MN-0,Lashea,Evangelista ,Galicia ,lgevangelista@iskolarngbayan.pup.edu.ph,F,2002-02-01,(0926) 3415634,MAELT
+2021-3065-MN-0,Fernanda,Guerrero ,Rosario ,frguerrero@iskolarngbayan.pup.edu.ph,F,2002-01-06,(0945) 5669090,BSCpE
+2021-7495-MN-0,Davia,de Luna ,Salinas ,dsde luna@iskolarngbayan.pup.edu.ph,M,2004-07-08,(0974) 1667381,BAH
+2021-6568-MN-0,Susi,Gonzales ,Panganiban ,spgonzales@iskolarngbayan.pup.edu.ph,M,2004-07-03,(0954) 5432833,BECEd
+2021-4122-MN-0,Labaron,Añonuevo ,Oliveros ,loañonuevo@iskolarngbayan.pup.edu.ph,M,2002-03-18,(0945) 4493806,BSPHY
+2021-2570-MN-0,Stevens,Ferrer ,Cristóbal ,scferrer@iskolarngbayan.pup.edu.ph,M,2002-11-03,(0954) 4007563,BSTM
+2021-9750-MN-0,Eliberto,Marcelino ,Fontanilla ,efmarcelino@iskolarngbayan.pup.edu.ph,F,2003-08-24,(0935) 6037663,PBDE
+2021-6241-MN-0,Allisa,Centeno ,Fontanilla ,afcenteno@iskolarngbayan.pup.edu.ph,F,2002-06-02,(0997) 5954176,BSCE
+2021-7257-MN-0,Nerissa,Porras ,Ortega ,noporras@iskolarngbayan.pup.edu.ph,M,2003-05-02,(0906) 6921172,BSMATH
+2021-2031-MN-0,Will,Andrés ,Lara ,wlandrés@iskolarngbayan.pup.edu.ph,F,2002-01-10,(0997) 8787458,DPA
+2021-0261-MN-0,Tika,Bueno ,Carillo ,tcbueno@iskolarngbayan.pup.edu.ph,M,2003-12-03,(0945) 4115210,BPEA
+2021-0321-MN-0,Dagny,Esteban ,de Villa ,ddesteban@iskolarngbayan.pup.edu.ph,M,2004-05-20,(0935) 5519434,BAS
+2021-1049-MN-0,Janet,Delfín ,Mallari ,jmdelfín@iskolarngbayan.pup.edu.ph,M,2004-07-30,(0964) 1021002,BECEd
+2021-0373-MN-0,Kenzi,Bernardo ,Sultan ,ksbernardo@iskolarngbayan.pup.edu.ph,F,2002-11-29,(0973) 5455210,DCET
+2021-9516-MN-0,Kien,Lozano ,Dalisay ,kdlozano@iskolarngbayan.pup.edu.ph,F,2002-01-06,(0905) 5410181,BTLEd-ICT
+2021-4238-MN-0,Silvia,Gamboa ,Alejo ,sagamboa@iskolarngbayan.pup.edu.ph,M,2004-12-24,(0937) 1225145,BSAPMATH
+2021-1983-MN-0,Shua,Sultan ,Bermúdez ,sbsultan@iskolarngbayan.pup.edu.ph,F,2002-05-27,(0999) 9478111,BSTRM
+2021-0720-MN-0,Kalesha,Beltrán ,Austria ,kabeltrán@iskolarngbayan.pup.edu.ph,F,2002-02-23,(0945) 4750483,BSCE
+2021-8137-MN-0,Avraham,Molina ,Mendez ,ammolina@iskolarngbayan.pup.edu.ph,F,2003-10-14,(0973) 7515538,BSTRM
+2021-4602-MN-0,Amol,Capistrano ,Lázaro ,alcapistrano@iskolarngbayan.pup.edu.ph,F,2004-11-05,(0916) 1863009,DBA
+2021-9485-MN-0,Loreal,Saysón ,Espina ,lesaysón@iskolarngbayan.pup.edu.ph,F,2004-07-28,(0935) 7492111,PBDE
+2021-7202-MN-0,Letticia,Alarcón ,Manzano ,lmalarcón@iskolarngbayan.pup.edu.ph,M,2004-07-22,(0976) 3147817,BSEP
+2021-3128-MN-0,Doyle,Romano ,Ocampo ,doromano@iskolarngbayan.pup.edu.ph,F,2002-12-10,(0915) 5122764,BECEd
+2021-1004-MN-0,Celisa,Laurente ,Acuña ,calaurente@iskolarngbayan.pup.edu.ph,F,2003-11-20,(0999) 5759726,DEM
+2021-8933-MN-0,Marieke,Chua ,Guerrero ,mgchua@iskolarngbayan.pup.edu.ph,F,2003-02-25,(0978) 4365235,MAEd-ME
+2021-7642-MN-0,Sharda,Cano ,Rodrigo ,srcano@iskolarngbayan.pup.edu.ph,M,2002-05-23,(0977) 4210913,DEM
+2021-9867-MN-0,Dottie,Sánchez ,de León ,ddsánchez@iskolarngbayan.pup.edu.ph,M,2002-01-23,(0997) 5216374,MEM-EL
+2021-1325-MN-0,Alireza,Mina ,Álvarez ,aámina@iskolarngbayan.pup.edu.ph,F,2002-01-17,(0926) 4604895,BSEd-SS
+2021-1439-MN-0,Stephania,Bacani ,Andal ,sabacani@iskolarngbayan.pup.edu.ph,M,2004-10-18,(0977) 5927067,ABLCS
+2021-8227-MN-0,Shakela,Arceo ,Florendo ,sfarceo@iskolarngbayan.pup.edu.ph,M,2002-11-07,(0905) 6205481,BSAPMATH
+2021-0721-MN-0,Moises,Cunanan ,Ledesma ,mlcunanan@iskolarngbayan.pup.edu.ph,F,2004-04-29,(0974) 6240360,BSCpE
+2021-0499-MN-0,Shanyn,Canlas ,Hernández ,shcanlas@iskolarngbayan.pup.edu.ph,F,2002-01-08,(0905) 4535465,MAELT
+2021-5209-MN-0,Sindi,Rosales ,Basa ,sbrosales@iskolarngbayan.pup.edu.ph,F,2004-08-14,(0917) 7894477,BTLEd-IA
+2021-2225-MN-0,Jossie,Capistrano ,dela Peña ,jdcapistrano@iskolarngbayan.pup.edu.ph,F,2002-10-06,(0954) 5806741,DEET
+2021-3824-MN-0,Tomasa,Salvador ,Miranda ,tmsalvador@iskolarngbayan.pup.edu.ph,F,2002-01-11,(0979) 4286303,BSESS
+2021-6046-MN-0,Corrissa,Villena ,Córdova ,ccvillena@iskolarngbayan.pup.edu.ph,M,2004-07-05,(0954) 8899346,DECET
+2021-8896-MN-0,Tranquilino,Viloria ,Osorio ,toviloria@iskolarngbayan.pup.edu.ph,M,2002-01-17,(0905) 7752474,JD
+2021-3581-MN-0,Loreena,Romero ,Mama ,lmromero@iskolarngbayan.pup.edu.ph,M,2002-05-18,(0979) 1434755,BSEd-ENG
+2021-3479-MN-0,Shone,Nolasco ,Enríquez ,senolasco@iskolarngbayan.pup.edu.ph,M,2003-03-28,(0953) 2092687,BSMATH
+2021-8724-MN-0,Laken,Añonuevo ,Saysón ,lsañonuevo@iskolarngbayan.pup.edu.ph,F,2004-01-20,(0974) 1304180,DEM
+2021-7458-MN-0,Arik,Barrios ,Ismael ,aibarrios@iskolarngbayan.pup.edu.ph,M,2003-04-17,(0973) 6454354,MEM-IL
+2021-8981-MN-0,Mirissa,Tolentino ,Mallari ,mmtolentino@iskolarngbayan.pup.edu.ph,F,2003-07-05,(0926) 3612997,DEM
+2021-2890-MN-0,Jill,Arevalo ,Navarro ,jnarevalo@iskolarngbayan.pup.edu.ph,F,2003-12-24,(0978) 6968113,BSFT
+2021-5133-MN-0,Dinh,Gabriel ,Pasión ,dpgabriel@iskolarngbayan.pup.edu.ph,F,2003-10-31,(0927) 7052357,BSEd-ENG
+2021-9952-MN-0,Kemper,Jiménez ,de Villa ,kdjiménez@iskolarngbayan.pup.edu.ph,F,2002-12-06,(0917) 2309844,BEEd
+2021-2565-MN-0,Markcus,San Juan ,San Pedro ,mssan juan@iskolarngbayan.pup.edu.ph,M,2004-12-11,(0979) 6929831,BTLEd-IA
+2021-7272-MN-0,Athenia,Labrador ,Amante ,aalabrador@iskolarngbayan.pup.edu.ph,M,2003-06-15,(0915) 3457118,MBA
+2021-6957-MN-0,Karleigh,Paz ,Alegre ,kapaz@iskolarngbayan.pup.edu.ph,F,2003-01-26,(0954) 3151320,BSCHEM
+2021-5963-MN-0,Josecarlos,Rivera ,Sunga ,jsrivera@iskolarngbayan.pup.edu.ph,M,2002-03-24,(0905) 7278809,MPA
+2021-3385-MN-0,Tamla,Lara ,Pilapil ,tplara@iskolarngbayan.pup.edu.ph,M,2002-06-16,(0916) 8472290,BSCpE
+2021-4572-MN-0,Alonzo,Roldán ,Mercado ,amroldán@iskolarngbayan.pup.edu.ph,F,2002-10-24,(0979) 7408342,MAEd-ME
+2021-6369-MN-0,Aiyana,Manalang ,Mangubat ,ammanalang@iskolarngbayan.pup.edu.ph,F,2004-11-28,(0935) 7841779,ABELS
+2021-4120-MN-0,Latrese,Guevarra ,Estrada ,leguevarra@iskolarngbayan.pup.edu.ph,M,2003-07-03,(0954) 1603049,BSEd-MATH
+2021-7811-MN-0,Chett,Austria ,Marcos ,cmaustria@iskolarngbayan.pup.edu.ph,M,2004-09-05,(0926) 6137259,MAED-TCA
+2021-6855-MN-0,Parks,Navarro ,Villegas ,pvnavarro@iskolarngbayan.pup.edu.ph,F,2002-09-13,(0975) 1056543,BSESS
+2021-3431-MN-0,Atlas,Bello ,Figueroa ,afbello@iskolarngbayan.pup.edu.ph,F,2003-01-02,(0999) 6266848,BSEE
+2021-0752-MN-0,Demeatrice,Bautista ,Bravo ,dbbautista@iskolarngbayan.pup.edu.ph,M,2004-11-12,(0999) 3588279,BSHM
+2021-0825-MN-0,Chaim,Policarpio ,Mahinay ,cmpolicarpio@iskolarngbayan.pup.edu.ph,M,2003-03-10,(0978) 5892240,BAH
+2021-9893-MN-0,Sanika,Borja ,Mata ,smborja@iskolarngbayan.pup.edu.ph,M,2002-04-28,(0975) 4538376,DPA
+2021-7146-MN-0,Zelma,Cabrera ,Samonte ,zscabrera@iskolarngbayan.pup.edu.ph,M,2003-06-27,(0977) 4471241,DMET
+2021-3499-MN-0,Rosenda,Laurente ,Asis ,ralaurente@iskolarngbayan.pup.edu.ph,F,2002-01-18,(0999) 1445439,BSTM
+2021-3543-MN-0,Majid,Moreno ,Baltazar ,mbmoreno@iskolarngbayan.pup.edu.ph,F,2004-03-09,(0973) 7448071,BTLEd-IA
+2021-3930-MN-0,Yoni,de Jesús ,Peña ,ypde jesús@iskolarngbayan.pup.edu.ph,M,2003-02-23,(0963) 4770373,BECEd
+2021-8473-MN-0,Quince,Valdez ,Sison ,qsvaldez@iskolarngbayan.pup.edu.ph,M,2003-08-29,(0997) 4213378,BS-ARCH
+2021-2012-MN-0,Laneesha,Buenaventura ,Pimentel ,lpbuenaventura@iskolarngbayan.pup.edu.ph,M,2003-10-07,(0999) 9182849,BACR
+2021-1452-MN-0,Olivier,Belarmino ,Omar ,oobelarmino@iskolarngbayan.pup.edu.ph,M,2002-06-28,(0926) 7381919,BAPS
+2021-5829-MN-0,Fannie,Viloria ,Oliva ,foviloria@iskolarngbayan.pup.edu.ph,M,2003-03-09,(0927) 7845670,MBA
+2021-2957-MN-0,Briana,Montes ,Villafuerte ,bvmontes@iskolarngbayan.pup.edu.ph,M,2002-12-24,(0905) 2687508,DOMT
+2021-1714-MN-0,Sabrenia,Calma ,Patricio ,spcalma@iskolarngbayan.pup.edu.ph,M,2002-11-01,(0965) 9803959,DCET
+2021-6756-MN-0,Angalena,Padilla ,Custodio ,acpadilla@iskolarngbayan.pup.edu.ph,F,2003-09-26,(0965) 6838608,ABLCS
+2021-2437-MN-0,Kasandra,Clemente ,Mendiola ,kmclemente@iskolarngbayan.pup.edu.ph,F,2002-10-28,(0953) 3971909,BSEd-FIL
+2021-7869-MN-0,Janiesha,Ramírez ,Mina ,jmramírez@iskolarngbayan.pup.edu.ph,F,2004-07-30,(0917) 5055917,BSMA
+2021-2876-MN-0,Latish,Galang ,Aquino,lagalang@iskolarngbayan.pup.edu.ph,M,2002-03-14,(0974) 5259823,AB-PHILO
+2021-6308-MN-0,Chanice,Ortega ,Baguio ,cbortega@iskolarngbayan.pup.edu.ph,M,2002-12-20,(0978) 1089027,AB-PHILO
+2021-5660-MN-0,Alejandra,de la Cruz ,Patricio ,apde la cruz@iskolarngbayan.pup.edu.ph,F,2004-01-16,(0978) 9606091,BSC
+2021-6452-MN-0,Bradly,Paz ,Fontanilla ,bfpaz@iskolarngbayan.pup.edu.ph,F,2002-01-05,(0915) 6532058,PBDE
+2021-3746-MN-0,Tywon,Briones ,Omar ,tobriones@iskolarngbayan.pup.edu.ph,M,2002-02-20,(0974) 4377320,BSPSY
+2021-1437-MN-0,Cesario,Macaraeg ,Marquez ,cmmacaraeg@iskolarngbayan.pup.edu.ph,F,2002-12-14,(0937) 4644541,BSOA
+2021-9993-MN-0,Thad,Sy ,Valenzuela ,tvsy@iskolarngbayan.pup.edu.ph,M,2004-11-28,(0927) 2869751,JD
+2021-2938-MN-0,Yulia,del Mundo ,Flores ,yfdel mundo@iskolarngbayan.pup.edu.ph,M,2002-05-10,(0964) 8451959,BACR
+2021-1345-MN-0,Willette,Gatchalián ,Neri ,wngatchalián@iskolarngbayan.pup.edu.ph,M,2004-09-07,(0997) 6375944,BSEP
+2021-0800-MN-0,Francia,Vergara ,Alba ,favergara@iskolarngbayan.pup.edu.ph,F,2004-02-14,(0937) 8849252,DBA
+2021-5147-MN-0,Adel,Arellano ,de Mesa ,adarellano@iskolarngbayan.pup.edu.ph,M,2004-05-18,(0977) 7059460,BSAPMATH
+2021-7354-MN-0,Marielena,Salas ,Galicia ,mgsalas@iskolarngbayan.pup.edu.ph,M,2002-03-24,(0935) 8695528,MBA
+2021-5398-MN-0,Bryheem,delos Reyes,Macaraeg ,bmdelos reyes@iskolarngbayan.pup.edu.ph,F,2002-09-27,(0964) 5141725,BAPS
+2021-2450-MN-0,Sanjuanita,Morales ,Montes ,smmorales@iskolarngbayan.pup.edu.ph,F,2004-10-12,(0935) 6777714,BAH
+2021-6180-MN-0,Dagan,Fajardo ,Lara ,dlfajardo@iskolarngbayan.pup.edu.ph,M,2002-05-06,(0915) 3424971,DPA
+2021-7494-MN-0,Latori,Valdez ,Paglinawan ,lpvaldez@iskolarngbayan.pup.edu.ph,F,2004-04-28,(0978) 4855383,BSMA
+2021-1632-MN-0,Dashaun,Rosal ,Ibrahim ,dirosal@iskolarngbayan.pup.edu.ph,M,2004-08-06,(0963) 1636989,BSAPMATH
+2021-0015-MN-0,Cristofer,Andal ,Frias ,cfandal@iskolarngbayan.pup.edu.ph,M,2003-10-16,(0937) 1000364,BSE
+2021-7132-MN-0,Gilberto,Cariño ,Tomás ,gtcariño@iskolarngbayan.pup.edu.ph,M,2003-01-26,(0978) 9431605,BSMA
+2021-9812-MN-0,Diontae,Paraiso ,Moreno ,dmparaiso@iskolarngbayan.pup.edu.ph,F,2003-03-30,(0937) 7431924,BAH
+2021-7186-MN-0,Rosie,Magpantay ,Herrera ,rhmagpantay@iskolarngbayan.pup.edu.ph,M,2002-04-20,(0915) 7909802,BSECE
+2021-2119-MN-0,Simmie,Benito ,Padilla ,spbenito@iskolarngbayan.pup.edu.ph,M,2002-12-02,(0926) 7982476,BEEd
+2021-5545-MN-0,Viliami,Espino ,Aragón ,vaespino@iskolarngbayan.pup.edu.ph,F,2002-08-18,(0964) 3244106,ABLCS
+2021-3981-MN-0,Shata,Esteban ,Ilagan ,siesteban@iskolarngbayan.pup.edu.ph,M,2004-01-11,(0974) 5072456,BSEE
+2021-6018-MN-0,Shenay,Córpuz ,Ábalos ,sácórpuz@iskolarngbayan.pup.edu.ph,F,2003-02-27,(0963) 3653730,BSESS
+2021-8350-MN-0,Edgar,Guillermo ,Prado ,epguillermo@iskolarngbayan.pup.edu.ph,M,2004-03-25,(0915) 6530247,BAH
+2021-5852-MN-0,Ranisha,Villarín ,Ortega ,rovillarín@iskolarngbayan.pup.edu.ph,F,2004-11-18,(0964) 3844635,DEM
+2021-7126-MN-0,Shamarra,Paredes ,Donato ,sdparedes@iskolarngbayan.pup.edu.ph,F,2004-10-05,(0976) 4136906,BSID
+2021-8098-MN-0,Damien,Villaruel ,dela Vega ,ddvillaruel@iskolarngbayan.pup.edu.ph,M,2003-07-04,(0954) 3834876,BSIT
+2021-1685-MN-0,Kelechi,Pineda ,Pancho ,kppineda@iskolarngbayan.pup.edu.ph,M,2002-12-10,(0973) 7147767,BSID
+2021-6680-MN-0,Hillari,Robles ,Parás ,hprobles@iskolarngbayan.pup.edu.ph,F,2002-06-11,(0997) 3624276,BTLEd-HE
+2021-3036-MN-0,Susy,Manalang ,Marquez ,smmanalang@iskolarngbayan.pup.edu.ph,M,2002-05-30,(0975) 4247822,BSTRM
+2021-2757-MN-0,Kaila,Asis ,Villaflor ,kvasis@iskolarngbayan.pup.edu.ph,F,2004-01-08,(0905) 7492967,BSEd-SS
+2021-3373-MN-0,Mistie,Barrios ,Chua ,mcbarrios@iskolarngbayan.pup.edu.ph,M,2004-08-09,(0954) 6546816,MLIS
+2021-6137-MN-0,Antiono,Tolentino ,Barrientos ,abtolentino@iskolarngbayan.pup.edu.ph,M,2002-10-29,(0977) 3210286,BSEd-ENG
+2021-1688-MN-0,Herminia,Basco ,Alfonso ,habasco@iskolarngbayan.pup.edu.ph,F,2003-12-18,(0978) 7617336,BSESS
+2021-9920-MN-0,Carlee,Esguerra ,Salas ,csesguerra@iskolarngbayan.pup.edu.ph,F,2002-05-06,(0906) 7579364,BSCHEM
+2021-8185-MN-0,Gordon,Pilapil ,Espíritu ,gepilapil@iskolarngbayan.pup.edu.ph,M,2002-07-22,(0953) 2428997,DEET
+2021-3375-MN-0,Talal,Narciso ,Chua ,tcnarciso@iskolarngbayan.pup.edu.ph,M,2004-01-02,(0964) 9776869,BAPS
+2021-3554-MN-0,Stavros,Torres ,Mejía ,smtorres@iskolarngbayan.pup.edu.ph,F,2002-04-06,(0905) 8621515,BSPSY
+2021-5245-MN-0,Vannak,Pascual ,Zapanta ,vzpascual@iskolarngbayan.pup.edu.ph,F,2004-07-15,(0906) 2918054,BSIE
+2021-7610-MN-0,Letonya,Tobias ,Recto ,lrtobias@iskolarngbayan.pup.edu.ph,M,2004-10-09,(0973) 1094547,BAPE
+2021-2827-MN-0,Thi,Natividad ,Mallari ,tmnatividad@iskolarngbayan.pup.edu.ph,M,2004-02-24,(0906) 4885574,MPES
+2021-6585-MN-0,Ardell,Yap ,Padua ,apyap@iskolarngbayan.pup.edu.ph,F,2003-04-12,(0963) 7621826,BSIT
+2021-0616-MN-0,Celeste,Angeles ,Rico ,crangeles@iskolarngbayan.pup.edu.ph,M,2003-11-14,(0927) 8812512,BSMATH
+2021-3284-MN-0,Kamilah,Castor ,Manlangit ,kmcastor@iskolarngbayan.pup.edu.ph,F,2003-11-08,(0955) 1060893,BEEd
+2021-2850-MN-0,Ramero,Asis ,Marcos ,rmasis@iskolarngbayan.pup.edu.ph,F,2003-10-31,(0964) 3043192,BS-ARCH
+2021-8875-MN-0,Antjuan,Alejo ,de Mesa ,adalejo@iskolarngbayan.pup.edu.ph,M,2004-06-16,(0974) 2674809,BSBAHRM
+2021-2930-MN-0,Shanna,Sabado ,Tan ,stsabado@iskolarngbayan.pup.edu.ph,F,2004-07-17,(0937) 2555705,BSHM
+2021-7449-MN-0,Garrette,Quiñones ,Ariola ,gaquiñones@iskolarngbayan.pup.edu.ph,M,2004-04-08,(0997) 4043342,BTLEd-ICT
+2021-8373-MN-0,Stina,Velasco ,Vásquez ,svvelasco@iskolarngbayan.pup.edu.ph,M,2003-09-30,(0917) 6594655,BSEd-SCI
+2021-3286-MN-0,Roshell,Toledo ,Frias ,rftoledo@iskolarngbayan.pup.edu.ph,M,2004-09-24,(0978) 4608589,MEM-EL
+2021-6166-MN-0,Angelo,Legaspi ,Cristóbal ,aclegaspi@iskolarngbayan.pup.edu.ph,M,2002-05-08,(0965) 1950125,BSID
+2021-6364-MN-0,Deja,Zamora ,Mercado ,dmzamora@iskolarngbayan.pup.edu.ph,M,2002-01-19,(0954) 4849953,DCET
+2021-6411-MN-0,Jamiee,Uy ,Acuña ,jauy@iskolarngbayan.pup.edu.ph,M,2003-12-14,(0979) 9816324,MLIS
+2021-3532-MN-0,Marielena,Alfaro ,Bacus ,mbalfaro@iskolarngbayan.pup.edu.ph,F,2002-03-05,(0915) 8765275,MBA
+2021-0930-MN-0,Lynae,Pangilinan ,Miguel ,lmpangilinan@iskolarngbayan.pup.edu.ph,M,2003-09-11,(0906) 1556948,BSCHEM
+2021-4708-MN-0,Ranee,Go ,Rico ,rrgo@iskolarngbayan.pup.edu.ph,M,2004-12-11,(0976) 3725986,BSTRM
+2021-6903-MN-0,Phoua,Silva ,Viernes ,pvsilva@iskolarngbayan.pup.edu.ph,F,2004-08-25,(0964) 4646363,BSND
+2021-2615-MN-0,Deldrick,Abad ,Moreno ,dmabad@iskolarngbayan.pup.edu.ph,M,2003-12-04,(0975) 1324351,BPA
+2021-1012-MN-0,Lachandra,Dulay ,de Jesús ,lddulay@iskolarngbayan.pup.edu.ph,F,2003-10-07,(0916) 1408117,BSAPMATH
+2021-9040-MN-0,Brittiny,Marquez ,Saysón ,bsmarquez@iskolarngbayan.pup.edu.ph,F,2003-09-28,(0977) 4277156,BTLEd-IA
+2021-2558-MN-0,Jeralyn,Sagun ,Villena ,jvsagun@iskolarngbayan.pup.edu.ph,F,2003-10-31,(0977) 2665079,BSAPMATH
+2021-7920-MN-0,Penelope,Cabrera ,Mendoza ,pmcabrera@iskolarngbayan.pup.edu.ph,M,2002-05-19,(0917) 2645246,BSEd-SCI
+2021-4309-MN-0,Terrel,Pascua ,Co ,tcpascua@iskolarngbayan.pup.edu.ph,M,2002-05-11,(0976) 7046802,BSESS
+2021-8462-MN-0,Glenna,Rivas ,de Jesús ,gdrivas@iskolarngbayan.pup.edu.ph,M,2004-11-28,(0953) 5375550,BSEd-MATH
+2021-7226-MN-0,Presley,Aguilar ,Macaraeg ,pmaguilar@iskolarngbayan.pup.edu.ph,F,2003-04-05,(0975) 7239534,BSME
+2021-9643-MN-0,Nikolai,Centeno ,Cariaga ,nccenteno@iskolarngbayan.pup.edu.ph,F,2004-05-21,(0977) 8159784,BTLEd-HE
+2021-5309-MN-0,Hisham,Alarcón ,Malinao ,hmalarcón@iskolarngbayan.pup.edu.ph,F,2002-12-03,(0927) 3696671,BSENTREP
+2021-2466-MN-0,Joelene,Torres ,Ventura ,jvtorres@iskolarngbayan.pup.edu.ph,F,2002-11-06,(0999) 8984010,DBA
+2021-5151-MN-0,Jesselee,Buenaventura ,Omar ,jobuenaventura@iskolarngbayan.pup.edu.ph,F,2002-02-22,(0915) 1802774,DICT
+2021-6614-MN-0,Tyese,Hipolito ,Valenzuela ,tvhipolito@iskolarngbayan.pup.edu.ph,M,2004-03-31,(0973) 2098742,DPA
+2021-7192-MN-0,Lisabeth,Bernabe ,Serrano ,lsbernabe@iskolarngbayan.pup.edu.ph,M,2003-11-10,(0999) 3841087,DECET
+2021-1412-MN-0,Kari,Pablo ,de los Santos ,kdpablo@iskolarngbayan.pup.edu.ph,M,2003-01-27,(0998) 3097882,ABELS
+2021-3398-MN-0,Elsy,Rojas ,Abella ,earojas@iskolarngbayan.pup.edu.ph,F,2003-11-05,(0916) 9083990,BPA
+2021-0086-MN-0,Kimberlly,Abella ,Pelayo ,kpabella@iskolarngbayan.pup.edu.ph,M,2003-08-12,(0977) 9130127,PBDE
+2021-6879-MN-0,Deshanna,García ,Manabat ,dmgarcía@iskolarngbayan.pup.edu.ph,M,2004-02-06,(0978) 3777133,AB-PHILO
+2021-7624-MN-0,Kristene,Bartolomé ,Martín ,kmbartolomé@iskolarngbayan.pup.edu.ph,M,2004-07-11,(0954) 6874205,ABF
+2021-5313-MN-0,Jt,de Jesús ,Rubio ,jrde jesús@iskolarngbayan.pup.edu.ph,M,2003-07-12,(0937) 8157428,BAH
+2021-8415-MN-0,Shavonda,Belén ,Encarnación ,sebelén@iskolarngbayan.pup.edu.ph,M,2002-10-11,(0965) 2707343,BTLEd-ICT
+2021-5415-MN-0,Kelliann,Javier ,Salvador ,ksjavier@iskolarngbayan.pup.edu.ph,F,2002-04-17,(0945) 4433536,BSEd-ENG
+2021-1388-MN-0,Melandie,Burgos ,Soria ,msburgos@iskolarngbayan.pup.edu.ph,M,2003-05-14,(0937) 6732966,BTLEd-IA
+2021-8947-MN-0,Demetra,Montemayor ,Cariaga ,dcmontemayor@iskolarngbayan.pup.edu.ph,F,2003-07-12,(0964) 9138951,BSEd-FIL
+2021-1341-MN-0,Jorje,Calderón ,Solis ,jscalderón@iskolarngbayan.pup.edu.ph,F,2003-04-29,(0936) 6041901,BSCpE
+2021-5314-MN-0,Juanmanuel,Toledo ,Centeno ,jctoledo@iskolarngbayan.pup.edu.ph,M,2002-04-02,(0997) 1366063,MPES
+2021-5350-MN-0,Teela,Barrientos ,Roa ,trbarrientos@iskolarngbayan.pup.edu.ph,M,2004-01-08,(0926) 6798720,BAS
+2021-5228-MN-0,Preston,Andrés ,Salazar ,psandrés@iskolarngbayan.pup.edu.ph,M,2003-05-21,(0917) 5850195,DPA
+2021-8688-MN-0,Shateria,Enríquez ,Delima ,sdenríquez@iskolarngbayan.pup.edu.ph,M,2002-01-10,(0997) 1050928,BSSTAT
+2021-5451-MN-0,Ameshia,Villamor ,Pacheco ,apvillamor@iskolarngbayan.pup.edu.ph,M,2003-11-14,(0936) 4670407,BSTRM
+2021-6956-MN-0,Katlin,Concepción ,Vásquez ,kvconcepción@iskolarngbayan.pup.edu.ph,M,2003-07-26,(0945) 2357964,BSIE
+2021-0425-MN-0,Perlita,Díaz ,delos Reyes,pddíaz@iskolarngbayan.pup.edu.ph,F,2004-05-30,(0997) 2083444,BA Broadcasting
+2021-3597-MN-0,Akram,Pepito ,Macaraeg ,ampepito@iskolarngbayan.pup.edu.ph,M,2004-06-11,(0978) 7969960,BTLEd-HE
+2021-7374-MN-0,Therese,Custodio ,Roque ,trcustodio@iskolarngbayan.pup.edu.ph,M,2003-02-05,(0979) 2198235,BAPS
+2021-4010-MN-0,Letia,Serrano ,Figueroa ,lfserrano@iskolarngbayan.pup.edu.ph,M,2002-11-20,(0955) 4199139,BPEA
+2021-6562-MN-0,Kortnee,Encarnación ,Quijano ,kqencarnación@iskolarngbayan.pup.edu.ph,F,2004-06-26,(0977) 2944197,DPA
+2021-9002-MN-0,Jami,Sagun ,Cunanan ,jcsagun@iskolarngbayan.pup.edu.ph,F,2002-09-10,(0906) 7098840,BSEd-SS
+2021-2802-MN-0,Lucian,Suárez ,Buenaventura ,lbsuárez@iskolarngbayan.pup.edu.ph,M,2003-12-31,(0999) 3329298,BSEd-SCI
+2021-6941-MN-0,Hamilton,San Pedro ,López ,hlsan pedro@iskolarngbayan.pup.edu.ph,M,2003-11-01,(0973) 6241059,BSIT
+2021-9644-MN-0,Keshonda,Bartolomé ,Montes ,kmbartolomé@iskolarngbayan.pup.edu.ph,M,2004-12-17,(0979) 2320705,BAPS
+2021-0240-MN-0,Barbara,Raymundo ,Dimaano ,bdraymundo@iskolarngbayan.pup.edu.ph,M,2003-12-22,(0964) 9134145,BSCHEM
+2021-5380-MN-0,Baldemar,Lao ,Porras ,bplao@iskolarngbayan.pup.edu.ph,F,2003-04-08,(0917) 9369427,MAELT
+2021-1826-MN-0,Cherylanne,Chan ,Campos ,ccchan@iskolarngbayan.pup.edu.ph,M,2003-10-09,(0954) 5686772,BSMATH
+2021-9946-MN-0,Elchonon,Mata ,Quiambao ,eqmata@iskolarngbayan.pup.edu.ph,M,2002-01-28,(0955) 3966650,BSCE
+2021-2811-MN-0,Quinn,Montes ,Canlas ,qcmontes@iskolarngbayan.pup.edu.ph,M,2004-01-23,(0927) 5409603,BSSTAT
+2021-6955-MN-0,Jeny,Vicente ,Gregorio ,jgvicente@iskolarngbayan.pup.edu.ph,F,2004-01-19,(0973) 8808229,DCET
+2021-7013-MN-0,Valene,Andrade ,Pancho ,vpandrade@iskolarngbayan.pup.edu.ph,M,2004-04-07,(0974) 9876029,BSSTAT
+2021-7348-MN-0,Tabatha,Cruz ,Sánchez ,tscruz@iskolarngbayan.pup.edu.ph,F,2004-09-27,(0999) 3637457,MEM-EL
+2021-4415-MN-0,Ryan,Guzmán ,Peralta ,rpguzmán@iskolarngbayan.pup.edu.ph,F,2003-03-07,(0974) 9244024,BAS
+2021-2220-MN-0,Devri,Miguel ,Sy ,dsmiguel@iskolarngbayan.pup.edu.ph,M,2002-11-07,(0975) 6512968,DECET
+2021-3875-MN-0,Ronna,Abdullah ,Mallari ,rmabdullah@iskolarngbayan.pup.edu.ph,F,2002-11-16,(0926) 1596602,BSEP
+2021-3369-MN-0,Gillian,Cruz ,Galicia ,ggcruz@iskolarngbayan.pup.edu.ph,F,2003-09-04,(0999) 4950092,BSEP
+2021-3293-MN-0,Kateria,Bermúdez ,Gamboa ,kgbermúdez@iskolarngbayan.pup.edu.ph,F,2004-12-31,(0917) 5708982,MAED-TCA
+2021-3444-MN-0,Konstance,Centeno ,Marasigan ,kmcenteno@iskolarngbayan.pup.edu.ph,M,2002-03-22,(0955) 3927335,DEET
+2021-7634-MN-0,Rolland,Guerrero ,Omar ,roguerrero@iskolarngbayan.pup.edu.ph,M,2003-05-24,(0998) 9430080,BPEA
+2021-2522-MN-0,Lemario,Conde ,Ocampo ,loconde@iskolarngbayan.pup.edu.ph,M,2002-12-25,(0954) 1346585,MPES
+2021-3078-MN-0,Jamilyn,Miguel ,Mahilum ,jmmiguel@iskolarngbayan.pup.edu.ph,F,2004-08-14,(0977) 2197410,BSIE
+2021-3153-MN-0,Stephania,Romano ,Alvarado ,saromano@iskolarngbayan.pup.edu.ph,M,2004-01-12,(0916) 7717515,BS-ARCH
+2021-2582-MN-0,Shaylah,Castro,Pancho ,spcastro@iskolarngbayan.pup.edu.ph,F,2004-07-02,(0916) 3460472,BSTRM
+2021-7115-MN-0,Sheridan,Pasión ,Barrios ,sbpasión@iskolarngbayan.pup.edu.ph,M,2004-05-25,(0977) 1995189,BSEd-FIL
+2021-0711-MN-0,Alissa,Natividad ,Quiñones ,aqnatividad@iskolarngbayan.pup.edu.ph,F,2004-02-18,(0935) 6181726,MEM-IL
+2021-9049-MN-0,Demorris,Cunanan ,Ibáñez ,dicunanan@iskolarngbayan.pup.edu.ph,F,2004-06-08,(0945) 6617447,DCET
+2021-1213-MN-0,Shuntel,Recto ,Gallardo ,sgrecto@iskolarngbayan.pup.edu.ph,F,2004-05-15,(0974) 9642785,BTLEd-HE
+2021-2698-MN-0,Vashon,Ocampo ,Palma ,vpocampo@iskolarngbayan.pup.edu.ph,F,2004-06-14,(0926) 9522456,BSPHY
+2021-8898-MN-0,Jay,Castañeda ,Díaz ,jdcastañeda@iskolarngbayan.pup.edu.ph,F,2002-03-31,(0945) 4301390,MAED-TCA
+2021-3843-MN-0,Deontray,Magallanes ,Quiambao ,dqmagallanes@iskolarngbayan.pup.edu.ph,M,2004-10-29,(0955) 8824837,DEM
+2021-7089-MN-0,Chandel,Ong ,Andrada ,caong@iskolarngbayan.pup.edu.ph,F,2004-04-11,(0927) 5258418,DOMT
+2021-6150-MN-0,Ricci,Guillermo ,Manalo ,rmguillermo@iskolarngbayan.pup.edu.ph,F,2003-12-19,(0978) 7372828,BAS
+2021-1746-MN-0,Rosalia,José ,Castro,rcjosé@iskolarngbayan.pup.edu.ph,F,2002-12-29,(0905) 6964582,BLIS
+2021-9307-MN-0,Michaelle,Salonga ,Quijano ,mqsalonga@iskolarngbayan.pup.edu.ph,M,2004-02-04,(0974) 8770282,BSMA
+2021-0243-MN-0,Reba,Delfín ,Angeles ,radelfín@iskolarngbayan.pup.edu.ph,M,2003-09-07,(0917) 8773250,BECEd
+2021-8110-MN-0,Winfred,Burgos ,Esteban ,weburgos@iskolarngbayan.pup.edu.ph,F,2004-01-26,(0997) 2291125,BSCHEM
+2021-6541-MN-0,Jamille,Miguel ,Magno ,jmmiguel@iskolarngbayan.pup.edu.ph,M,2003-12-14,(0917) 7621581,ABF
+2021-1814-MN-0,Kailen,Clemente ,Baltazar ,kbclemente@iskolarngbayan.pup.edu.ph,M,2003-08-03,(0935) 3908026,BSMA
+2021-2530-MN-0,Stephone,Cordero ,Calma ,sccordero@iskolarngbayan.pup.edu.ph,F,2003-05-27,(0964) 6995841,MAEd-ME
+2021-3641-MN-0,Samanta,Esguerra ,Villar ,svesguerra@iskolarngbayan.pup.edu.ph,M,2004-12-05,(0964) 9099488,BAJ
+2021-6092-MN-0,Brandie,del Rosario ,dela Torre ,bddel rosario@iskolarngbayan.pup.edu.ph,M,2004-07-04,(0999) 2499529,BEEd
+2021-8258-MN-0,Corene,Guevarra ,Crisóstomo ,ccguevarra@iskolarngbayan.pup.edu.ph,M,2003-09-01,(0954) 4413875,MPA
+2021-1701-MN-0,Jakki,Pangan ,Bravo ,jbpangan@iskolarngbayan.pup.edu.ph,F,2002-11-16,(0975) 5372362,AB-PHILO
+2021-5377-MN-0,Teriann,Alegre ,Apostol ,taalegre@iskolarngbayan.pup.edu.ph,M,2003-10-30,(0979) 2946849,BSFT
+2021-6128-MN-0,Froylan,David ,Dimaano ,fddavid@iskolarngbayan.pup.edu.ph,M,2002-01-31,(0926) 6024925,BAS
+2021-7076-MN-0,Eldon,Alarcón ,Alarcón ,eaalarcón@iskolarngbayan.pup.edu.ph,M,2004-12-17,(0978) 7437524,MAELT
+2021-4868-MN-0,Jemma,Salcedo ,Sagun ,jssalcedo@iskolarngbayan.pup.edu.ph,F,2003-01-12,(0906) 9396384,MAEd-ME
+2021-1788-MN-0,Elsy,Añonuevo ,Hipolito ,ehañonuevo@iskolarngbayan.pup.edu.ph,M,2002-09-02,(0917) 5687255,BS-ARCH
+2021-7599-MN-0,Bernardino,Andrés ,Tolentino ,btandrés@iskolarngbayan.pup.edu.ph,F,2003-10-09,(0935) 5889413,BSEP
+2021-9010-MN-0,Carianne,Carillo ,Águila ,cácarillo@iskolarngbayan.pup.edu.ph,M,2004-02-08,(0945) 6141632,BSBAFM
+2021-1160-MN-0,Freda,Mójica ,Alfaro ,famójica@iskolarngbayan.pup.edu.ph,M,2003-06-25,(0978) 1299521,BADPR
+2021-6305-MN-0,Lao,Herrera ,Lara ,llherrera@iskolarngbayan.pup.edu.ph,M,2002-08-03,(0906) 4468166,BSA
+2021-4147-MN-0,Shakia,Vega ,Villa ,svvega@iskolarngbayan.pup.edu.ph,M,2002-01-19,(0936) 2587247,BSRE
+2021-0059-MN-0,Devron,Ariola ,San Juan ,dsariola@iskolarngbayan.pup.edu.ph,M,2003-01-03,(0999) 2484385,BSIE
+2021-3787-MN-0,Paulmichael,Roa ,Hilario ,phroa@iskolarngbayan.pup.edu.ph,M,2004-12-17,(0976) 1063647,BSE
+2021-2941-MN-0,Gaven,Pepito ,Villaruel ,gvpepito@iskolarngbayan.pup.edu.ph,M,2003-07-22,(0954) 8155425,BAJ
+2021-6837-MN-0,Cesario,Salvador ,Delfín ,cdsalvador@iskolarngbayan.pup.edu.ph,F,2002-03-29,(0964) 8778502,BPE
+2021-6894-MN-0,Dewey,Malabanan ,Musa ,dmmalabanan@iskolarngbayan.pup.edu.ph,M,2003-06-07,(0926) 9390946,MBA
+2021-4643-MN-0,Debi,Quinto ,Dulay ,ddquinto@iskolarngbayan.pup.edu.ph,M,2004-11-02,(0965) 6554756,BAPE
+2021-1724-MN-0,Jonika,Mendoza ,Barrios ,jbmendoza@iskolarngbayan.pup.edu.ph,M,2003-04-28,(0979) 6413816,DBA
+2021-3638-MN-0,Jeriah,delos Santos ,Silvestre ,jsdelos santos@iskolarngbayan.pup.edu.ph,M,2002-10-22,(0926) 6689566,BSESS
+2021-8146-MN-0,Raynor,Solomón ,Julián ,rjsolomón@iskolarngbayan.pup.edu.ph,F,2003-03-25,(0937) 7239249,BAJ
+2021-7231-MN-0,Neng,Mendez ,Viernes ,nvmendez@iskolarngbayan.pup.edu.ph,F,2004-12-27,(0937) 8329686,MBA
+2021-4203-MN-0,Marcia,Gallego ,Andal ,magallego@iskolarngbayan.pup.edu.ph,F,2002-02-12,(0976) 1537657,BLIS
+2021-8237-MN-0,Ndrew,Ibrahim ,Bernardino ,nbibrahim@iskolarngbayan.pup.edu.ph,M,2002-05-19,(0905) 6228608,DMET
+2021-0568-MN-0,Bianca,Sultan ,Macaraeg ,bmsultan@iskolarngbayan.pup.edu.ph,F,2003-09-08,(0953) 7018399,MAEd-ME
+2021-4256-MN-0,Ramina,Domingo ,Peralta ,rpdomingo@iskolarngbayan.pup.edu.ph,M,2004-12-26,(0978) 8714052,MLIS
+2021-5586-MN-0,Carlson,Vega ,Ignacio ,civega@iskolarngbayan.pup.edu.ph,M,2002-05-11,(0999) 4803683,MAEd-ME
+2021-9201-MN-0,Karin,Sandoval ,Villarín ,kvsandoval@iskolarngbayan.pup.edu.ph,F,2002-05-28,(0963) 5797521,BAIS
+2021-7371-MN-0,Jonas,Cortés ,Fuentes ,jfcortés@iskolarngbayan.pup.edu.ph,F,2002-07-26,(0965) 8469913,BTLEd-IA
+2021-0847-MN-0,Shruti,Malinao ,Verano ,svmalinao@iskolarngbayan.pup.edu.ph,F,2003-11-28,(0978) 2654679,MPES
+2021-8975-MN-0,Trenika,Omar ,Rodríguez ,tromar@iskolarngbayan.pup.edu.ph,F,2002-09-30,(0975) 6852207,BSESS
+2021-2317-MN-0,Vinita,Mangubat ,Pancho ,vpmangubat@iskolarngbayan.pup.edu.ph,M,2003-12-19,(0954) 9090629,BAJ
+2021-1699-MN-0,Romaine,Cano ,Canoy ,rccano@iskolarngbayan.pup.edu.ph,F,2003-07-20,(0927) 6668751,BSMATH
+2021-4232-MN-0,Dawnelle,Sánchez ,Salazar ,dssánchez@iskolarngbayan.pup.edu.ph,M,2002-05-18,(0998) 5350889,MAEd-ME
+2021-9482-MN-0,Colbi,Lim ,Paz ,cplim@iskolarngbayan.pup.edu.ph,M,2004-01-29,(0906) 8670535,BSA
+2021-8511-MN-0,Sahra,Pepito ,Meneses ,smpepito@iskolarngbayan.pup.edu.ph,F,2004-01-13,(0905) 2578152,DBA
+2021-5011-MN-0,Brisa,Bacani ,Cristóbal ,bcbacani@iskolarngbayan.pup.edu.ph,M,2004-07-08,(0935) 4821463,BECEd
+2021-5675-MN-0,Shalyce,Alejo ,Apostol ,saalejo@iskolarngbayan.pup.edu.ph,M,2004-10-14,(0917) 8451777,BAH
+2021-4918-MN-0,Wayman,Dimaano ,Gamboa ,wgdimaano@iskolarngbayan.pup.edu.ph,F,2003-02-02,(0936) 5577590,BPE
+2021-4169-MN-0,Shar,Atienza ,Ancheta ,saatienza@iskolarngbayan.pup.edu.ph,M,2003-10-13,(0974) 2625096,BSPHY
+2021-0038-MN-0,Hawley,Lee ,Palma ,hplee@iskolarngbayan.pup.edu.ph,F,2002-01-24,(0999) 6579402,MPA
+2021-2521-MN-0,Kymber,Mójica ,Bóndoc ,kbmójica@iskolarngbayan.pup.edu.ph,M,2003-06-04,(0978) 8098853,BSA
+2021-9911-MN-0,Ebonique,Acuña ,Chan ,ecacuña@iskolarngbayan.pup.edu.ph,F,2002-03-12,(0916) 4016591,MLIS
+2021-7335-MN-0,Tascha,Robles ,Andaya ,tarobles@iskolarngbayan.pup.edu.ph,M,2004-04-12,(0973) 1846416,BS-ARCH
+2021-6244-MN-0,Chadric,Villarín ,Espino ,cevillarín@iskolarngbayan.pup.edu.ph,F,2004-03-20,(0927) 6779090,BSPSY
+2021-9859-MN-0,Aparna,Mendiola ,Malinao ,ammendiola@iskolarngbayan.pup.edu.ph,F,2003-02-11,(0997) 5336078,MEM-IL
+2021-5909-MN-0,Kandise,Hipolito ,San Pedro ,kshipolito@iskolarngbayan.pup.edu.ph,M,2003-01-18,(0979) 5007729,BSCS
+2021-4124-MN-0,Carlie,Sultan ,Castañeda ,ccsultan@iskolarngbayan.pup.edu.ph,M,2003-09-15,(0998) 7999366,MBA
+2021-8510-MN-0,Bobby,Junio ,Franco ,bfjunio@iskolarngbayan.pup.edu.ph,M,2003-05-10,(0965) 2702695,BSND
+2021-3989-MN-0,Chico,Zabala ,Alegre ,cazabala@iskolarngbayan.pup.edu.ph,M,2002-01-23,(0906) 4124659,MAELT
+2021-1317-MN-0,Jennipher,Burgos ,Amante ,jaburgos@iskolarngbayan.pup.edu.ph,M,2003-08-16,(0927) 7591189,DPA
+2021-0601-MN-0,Cristinia,Marcelino ,Antonio ,camarcelino@iskolarngbayan.pup.edu.ph,F,2004-04-19,(0998) 2788812,BSEd-FIL
+2021-2447-MN-0,Laterria,Delgado ,Andal ,ladelgado@iskolarngbayan.pup.edu.ph,F,2002-09-09,(0976) 9463820,BSEd-SCI
+2021-1975-MN-0,Valerie,Lucas ,Alegre ,valucas@iskolarngbayan.pup.edu.ph,M,2003-07-30,(0973) 4310794,BAPE
+2021-3423-MN-0,Abbey,Ronquillo ,Mendoza ,amronquillo@iskolarngbayan.pup.edu.ph,F,2004-02-19,(0955) 8023392,BTLEd-IA
+2021-7982-MN-0,Meaghen,Cruz ,Cordero ,mccruz@iskolarngbayan.pup.edu.ph,F,2002-03-06,(0915) 8165386,DICT
+2021-6830-MN-0,Tacy,de la Cruz ,Alejo ,tade la cruz@iskolarngbayan.pup.edu.ph,F,2003-01-19,(0917) 3392810,MAEd-ME
+2021-8868-MN-0,Karri,Rosario ,Ortega ,korosario@iskolarngbayan.pup.edu.ph,M,2004-12-30,(0937) 2943405,BSOA
+2021-5111-MN-0,Teresa,Lázaro ,delos Reyes,tdlázaro@iskolarngbayan.pup.edu.ph,F,2004-09-20,(0945) 7850959,BSBIO
+2021-9133-MN-0,Merl,Beltrán ,Marcelo ,mmbeltrán@iskolarngbayan.pup.edu.ph,F,2003-01-12,(0936) 1165472,BSMA
+2021-3186-MN-0,Dedra,Francisco ,Alegre ,dafrancisco@iskolarngbayan.pup.edu.ph,F,2002-07-17,(0977) 2079141,DCET
+2021-6076-MN-0,Cyra,Manabat ,Nicolás ,cnmanabat@iskolarngbayan.pup.edu.ph,M,2004-03-08,(0926) 9343297,BSTM
+2021-8639-MN-0,Guadalupe,Osorio ,Solomón ,gsosorio@iskolarngbayan.pup.edu.ph,F,2004-01-17,(0976) 5757416,MLIS
+2021-1177-MN-0,Edilberto,Medrano ,Baguio ,ebmedrano@iskolarngbayan.pup.edu.ph,M,2004-11-10,(0935) 2903103,BSTRM
+2021-3238-MN-0,Zarinah,Caballero ,dela Vega ,zdcaballero@iskolarngbayan.pup.edu.ph,M,2002-02-22,(0915) 6088231,BSPHY
+2021-6434-MN-0,Levina,Mendoza ,Sandoval ,lsmendoza@iskolarngbayan.pup.edu.ph,M,2003-01-20,(0978) 8813589,BSIT
+2021-3500-MN-0,Lev,Arellano ,Reyes ,lrarellano@iskolarngbayan.pup.edu.ph,F,2004-06-06,(0916) 2969328,BSRE
+2021-5818-MN-0,Jameal,dela Cerna ,delos Reyes,jddela cerna@iskolarngbayan.pup.edu.ph,F,2004-07-23,(0917) 9017536,DCET
+2021-6683-MN-0,Dominquie,Bustamante ,Dy ,ddbustamante@iskolarngbayan.pup.edu.ph,M,2004-09-16,(0906) 4882626,BSBAFM
+2021-7834-MN-0,Keath,Salas ,Evangelista ,kesalas@iskolarngbayan.pup.edu.ph,F,2002-08-04,(0964) 6862112,BPE
+2021-5414-MN-0,Karista,dela Cruz ,Velásquez ,kvdela cruz@iskolarngbayan.pup.edu.ph,F,2002-01-24,(0999) 1623519,DEM
+2021-6980-MN-0,Kelvina,Bueno ,Viernes ,kvbueno@iskolarngbayan.pup.edu.ph,M,2004-12-29,(0954) 4831289,BSA
+2021-7208-MN-0,Abbagail,Salcedo ,Dionisio ,adsalcedo@iskolarngbayan.pup.edu.ph,F,2002-08-14,(0945) 5430219,DPA
+2021-8648-MN-0,Meyer,Lorenzo ,Sy ,mslorenzo@iskolarngbayan.pup.edu.ph,F,2003-12-12,(0916) 9016406,BSRE
+2021-7936-MN-0,Marquell,Tamayo ,Recto ,mrtamayo@iskolarngbayan.pup.edu.ph,M,2002-04-20,(0927) 2708823,DMET
+2021-4770-MN-0,Shantiel,Ramírez ,Dizon ,sdramírez@iskolarngbayan.pup.edu.ph,F,2002-11-13,(0927) 1878544,BSIE
+2021-2233-MN-0,Naeem,Rojo ,Marquez ,nmrojo@iskolarngbayan.pup.edu.ph,M,2004-06-17,(0953) 1784221,BSHM
+2021-8140-MN-0,Milly,Cañete ,Silvestre ,mscañete@iskolarngbayan.pup.edu.ph,M,2004-07-26,(0978) 2912349,MEM-IL
+2021-0199-MN-0,Jeanee,Pascual ,Mendoza ,jmpascual@iskolarngbayan.pup.edu.ph,F,2004-05-12,(0963) 9996797,BAJ
+2021-8723-MN-0,Nickoles,Montero ,Dulay ,ndmontero@iskolarngbayan.pup.edu.ph,M,2002-01-03,(0926) 6989624,ABLCS
+2021-1136-MN-0,Shaketa,Santiago ,Cano ,scsantiago@iskolarngbayan.pup.edu.ph,M,2002-10-29,(0905) 7445993,BSIE
+2021-0330-MN-0,Cammeron,San Juan ,Manalo ,cmsan juan@iskolarngbayan.pup.edu.ph,F,2004-11-10,(0998) 3136916,DEM
+2021-8374-MN-0,Deann,Evangelista ,Prado ,dpevangelista@iskolarngbayan.pup.edu.ph,M,2002-05-22,(0977) 6043623,DEM
+2021-4673-MN-0,Sabrenia,Aragón ,Dulay ,sdaragón@iskolarngbayan.pup.edu.ph,F,2002-10-24,(0965) 1874383,BSBAHRM
+2021-5795-MN-0,Yitty,Abdul ,Pasión ,ypabdul@iskolarngbayan.pup.edu.ph,M,2002-11-06,(0905) 2742606,BTLEd-IA
+2021-7748-MN-0,Shehzad,Guinto ,Mohammad ,smguinto@iskolarngbayan.pup.edu.ph,F,2003-10-26,(0953) 5818101,BAJ
+2021-0783-MN-0,Dorothy,Carreón ,Legaspi ,dlcarreón@iskolarngbayan.pup.edu.ph,F,2002-09-14,(0974) 3238387,BSMA
+2021-5207-MN-0,Oakley,Yu ,Saysón ,osyu@iskolarngbayan.pup.edu.ph,F,2002-03-01,(0975) 6927407,BSCpE
+2021-6885-MN-0,Olivia,Pancho ,Mata ,ompancho@iskolarngbayan.pup.edu.ph,M,2004-09-26,(0974) 5816609,BSOA
+2021-9334-MN-0,Milton,Manuel ,Gallego ,mgmanuel@iskolarngbayan.pup.edu.ph,F,2002-11-12,(0999) 8244474,BSCpE
+2021-6645-MN-0,Issa,Espíritu ,Espina ,ieespíritu@iskolarngbayan.pup.edu.ph,M,2002-05-03,(0917) 5518630,MAELT
+2021-0769-MN-0,Eron,Hernández ,Carreón ,echernández@iskolarngbayan.pup.edu.ph,M,2002-07-17,(0979) 5060272,BSHM
+2021-8265-MN-0,Clelia,de Asis ,Sandoval ,csde asis@iskolarngbayan.pup.edu.ph,F,2002-05-25,(0964) 1601016,ABF
+2021-6441-MN-0,Reo,Navarro ,Bóndoc ,rbnavarro@iskolarngbayan.pup.edu.ph,M,2003-02-09,(0965) 7382689,BLIS
+2021-3854-MN-0,Daneisha,Aquino,Felipe ,dfaquino@iskolarngbayan.pup.edu.ph,M,2004-07-10,(0975) 3714993,BSTM
+2021-8690-MN-0,Kody,Villar ,Chua ,kcvillar@iskolarngbayan.pup.edu.ph,F,2002-03-20,(0953) 9027706,BSEd-SCI
+2021-7584-MN-0,Joetta,Gregorio ,Esguerra ,jegregorio@iskolarngbayan.pup.edu.ph,F,2002-11-04,(0978) 1857947,ABF
+2021-8130-MN-0,Rosendo,Solano ,Yu ,rysolano@iskolarngbayan.pup.edu.ph,F,2003-12-25,(0916) 5910041,BSE
+2021-8278-MN-0,Carlina,Feliciano ,Saavedra ,csfeliciano@iskolarngbayan.pup.edu.ph,M,2003-08-17,(0954) 4992915,BSID
+2021-6068-MN-0,Sarina,Prado ,Centeno ,scprado@iskolarngbayan.pup.edu.ph,M,2002-11-08,(0997) 2595615,ABLCS
+2021-1392-MN-0,Graylin,Ancheta ,Barrios ,gbancheta@iskolarngbayan.pup.edu.ph,M,2003-03-01,(0965) 9222490,BS-ARCH
+2021-4077-MN-0,Ying,Recto ,delos Santos ,ydrecto@iskolarngbayan.pup.edu.ph,F,2003-05-17,(0976) 7613983,DPA
+2021-9970-MN-0,Dmitri,Barrientos ,Rubio ,drbarrientos@iskolarngbayan.pup.edu.ph,M,2002-07-06,(0954) 3004644,MAELT
+2021-4461-MN-0,Keni,Oliveros ,García ,kgoliveros@iskolarngbayan.pup.edu.ph,F,2002-06-25,(0915) 7813041,BEEd
+2021-9808-MN-0,Delio,Ledesma ,Centeno ,dcledesma@iskolarngbayan.pup.edu.ph,F,2003-09-15,(0927) 8285713,BSMATH
+2021-4880-MN-0,Eytan,Alonzo ,Abella ,eaalonzo@iskolarngbayan.pup.edu.ph,F,2002-06-28,(0954) 2915240,DEM
+2021-2035-MN-0,Ismeal,Quijano ,Cunanan ,icquijano@iskolarngbayan.pup.edu.ph,M,2004-08-13,(0978) 4658491,BSFT
+2021-1253-MN-0,Canisha,Manabat ,Punzalán ,cpmanabat@iskolarngbayan.pup.edu.ph,F,2002-12-03,(0998) 8154719,ABELS
+2021-4552-MN-0,Alvin,Luna ,Dizon ,adluna@iskolarngbayan.pup.edu.ph,M,2002-02-01,(0997) 3876799,MAELT
+2021-9086-MN-0,Deitra,Esguerra ,Murillo ,dmesguerra@iskolarngbayan.pup.edu.ph,M,2004-08-02,(0905) 6460384,BSSTAT
+2021-3555-MN-0,Marylynn,Plaza ,Carlos ,mcplaza@iskolarngbayan.pup.edu.ph,M,2002-10-10,(0927) 4582714,BSPSY
+2021-4303-MN-0,Jackie,Mateo ,Espinosa ,jemateo@iskolarngbayan.pup.edu.ph,M,2002-02-13,(0953) 6212284,BSC
+2021-0291-MN-0,Sumit,Basa ,Gregorio ,sgbasa@iskolarngbayan.pup.edu.ph,F,2003-02-24,(0997) 8348989,BSME
+2021-8941-MN-0,Marcelus,Esguerra ,Eugenio ,meesguerra@iskolarngbayan.pup.edu.ph,F,2003-03-29,(0953) 5170368,DICT
+2021-7415-MN-0,Tawnie,Ocampo ,Tobias ,ttocampo@iskolarngbayan.pup.edu.ph,M,2002-05-16,(0974) 4639712,PBDE
+2021-8991-MN-0,Geroge,Ali ,Ruiz ,grali@iskolarngbayan.pup.edu.ph,F,2003-11-15,(0906) 4218221,BTLEd-HE
+2021-6731-MN-0,Evert,Pelayo ,Ang ,eapelayo@iskolarngbayan.pup.edu.ph,M,2004-10-16,(0976) 7068272,BSMATH
+2021-5257-MN-0,Leander,Pangilinan ,Lim ,llpangilinan@iskolarngbayan.pup.edu.ph,M,2004-07-28,(0977) 2797977,BACR
+2021-6238-MN-0,Puja,Alejo ,Sabado ,psalejo@iskolarngbayan.pup.edu.ph,F,2003-09-05,(0975) 2764200,BSAPMATH
+2021-0377-MN-0,Shyam,Solomón ,Bóndoc ,sbsolomón@iskolarngbayan.pup.edu.ph,M,2002-12-20,(0915) 6267197,BSEd-MATH
+2021-3108-MN-0,Nicola,Montes ,Ferrer ,nfmontes@iskolarngbayan.pup.edu.ph,F,2004-06-18,(0945) 5277838,BSRE
+2021-6320-MN-0,Taner,Hassan ,Ramos ,trhassan@iskolarngbayan.pup.edu.ph,M,2003-01-22,(0935) 7515496,BSESS
+2021-1992-MN-0,Larinda,Mendez ,Mateo ,lmmendez@iskolarngbayan.pup.edu.ph,F,2004-12-03,(0915) 6108452,BAPS
+2021-6480-MN-0,Tyra,Rojas ,Lee ,tlrojas@iskolarngbayan.pup.edu.ph,M,2004-10-08,(0927) 9320085,BSEd-SCI
+2021-4940-MN-0,Chatara,Andal ,Domínguez ,cdandal@iskolarngbayan.pup.edu.ph,F,2004-01-06,(0963) 9639946,BSEd-SS
+2021-9324-MN-0,Jaylyn,Rosario ,Alegre ,jarosario@iskolarngbayan.pup.edu.ph,M,2002-07-28,(0979) 7523855,BEEd
+2021-4917-MN-0,Shanine,Montero ,dela Rosa ,sdmontero@iskolarngbayan.pup.edu.ph,M,2003-10-14,(0905) 5791605,BSMA
+2021-0183-MN-0,Shenique,Panes ,Panes ,sppanes@iskolarngbayan.pup.edu.ph,F,2002-03-08,(0945) 1536030,BS-ARCH
+2021-3856-MN-0,Malisha,de Castro ,Sunga ,msde castro@iskolarngbayan.pup.edu.ph,F,2003-08-11,(0979) 8738136,MBE
+2021-7922-MN-0,Idrees,Cordero ,Marcelo ,imcordero@iskolarngbayan.pup.edu.ph,M,2003-02-20,(0977) 8732520,BSID
+2021-4840-MN-0,Leshaun,Rosales ,Mahusay ,lmrosales@iskolarngbayan.pup.edu.ph,F,2003-02-28,(0937) 9883646,BSESS
+2021-5269-MN-0,Annelies,Arcilla ,Águila ,aáarcilla@iskolarngbayan.pup.edu.ph,M,2004-03-20,(0917) 9160297,BSPSY
+2021-5048-MN-0,Joellyn,Valenzuela ,Roldán ,jrvalenzuela@iskolarngbayan.pup.edu.ph,F,2003-08-19,(0977) 4002679,BSND
+2021-3223-MN-0,Shawntaya,Bello ,Ilagan ,sibello@iskolarngbayan.pup.edu.ph,M,2004-03-10,(0975) 1413124,DEM
+2021-9624-MN-0,Aleece,Narciso ,Chua ,acnarciso@iskolarngbayan.pup.edu.ph,M,2002-04-29,(0964) 7034323,MBA
+2021-0593-MN-0,Takyra,Roxas ,Pelayo ,tproxas@iskolarngbayan.pup.edu.ph,M,2004-06-18,(0916) 3076414,ABELS
+2021-6030-MN-0,Jaylynn,Baltazar ,Feliciano ,jfbaltazar@iskolarngbayan.pup.edu.ph,M,2004-04-30,(0915) 1125749,MEM-EL
+2021-8184-MN-0,Shatera,Regalado ,Flores ,sfregalado@iskolarngbayan.pup.edu.ph,M,2003-09-19,(0906) 4182739,DEET
+2021-4661-MN-0,Deitra,Quijano ,Ali ,daquijano@iskolarngbayan.pup.edu.ph,F,2003-07-12,(0978) 3751887,DEM
+2021-9034-MN-0,Johathon,Chan ,Meneses ,jmchan@iskolarngbayan.pup.edu.ph,M,2003-10-01,(0905) 1335675,PBDE
+2021-2334-MN-0,Pamla,Ferrer ,Matiás ,pmferrer@iskolarngbayan.pup.edu.ph,M,2004-10-19,(0998) 3167799,BAH
+2021-7566-MN-0,Caila,Tuazon ,Sotto ,cstuazon@iskolarngbayan.pup.edu.ph,M,2004-09-26,(0964) 8159765,BSTM
+2021-9175-MN-0,Bittany,Villarín ,Magno ,bmvillarín@iskolarngbayan.pup.edu.ph,F,2003-05-06,(0915) 2326389,BLIS
+2021-5433-MN-0,Vance,Apostol ,Padua ,vpapostol@iskolarngbayan.pup.edu.ph,M,2002-03-26,(0973) 3645036,BSIE
+2021-0718-MN-0,Estefani,Abdul ,Salas ,esabdul@iskolarngbayan.pup.edu.ph,M,2002-11-21,(0905) 3189621,BSID
+2021-2385-MN-0,Ein,Antonio ,Alvarado ,eaantonio@iskolarngbayan.pup.edu.ph,M,2002-09-16,(0975) 4214581,BSHM
+2021-3096-MN-0,Savoeun,Vicente ,Jacob ,sjvicente@iskolarngbayan.pup.edu.ph,F,2002-12-22,(0905) 9040723,BSBAHRM
+2021-0760-MN-0,Kekoa,Espino ,Nepomuceno ,knespino@iskolarngbayan.pup.edu.ph,F,2004-08-26,(0936) 9450108,DECET
+2021-5127-MN-0,Taffy,Bernabe ,Ang ,tabernabe@iskolarngbayan.pup.edu.ph,F,2004-04-11,(0916) 7474243,MEM-IL
+2021-7661-MN-0,Ernestina,Quiambao ,Guinto ,egquiambao@iskolarngbayan.pup.edu.ph,M,2003-05-29,(0973) 8934140,BSTM
+2021-2752-MN-0,Shalina,Arellano ,Cruz ,scarellano@iskolarngbayan.pup.edu.ph,M,2002-08-08,(0927) 6583618,BSPSY
+2021-4773-MN-0,Jovanna,Arceo ,Alejandro ,jaarceo@iskolarngbayan.pup.edu.ph,F,2004-03-19,(0945) 9612517,BSEd-SCI
+2021-9838-MN-0,Alta,Dimaano ,Rojas ,ardimaano@iskolarngbayan.pup.edu.ph,M,2002-02-01,(0955) 5853384,BSMATH
+2021-7878-MN-0,Aviv,Guevarra ,Villegas ,avguevarra@iskolarngbayan.pup.edu.ph,M,2004-01-25,(0973) 5183728,BTLEd-ICT
+2021-9926-MN-0,Porshia,Marcos ,Campos ,pcmarcos@iskolarngbayan.pup.edu.ph,M,2003-07-17,(0955) 7399896,MEM-IL
+2021-5759-MN-0,Ysabel,Estrada ,Javier ,yjestrada@iskolarngbayan.pup.edu.ph,M,2003-09-25,(0955) 7626643,ABLCS
+2021-9962-MN-0,Kena,Pascua ,Medina ,kmpascua@iskolarngbayan.pup.edu.ph,M,2003-09-16,(0975) 4622944,BSID
+2021-7537-MN-0,Tiyana,Tecson ,San Jose ,tstecson@iskolarngbayan.pup.edu.ph,M,2003-05-30,(0906) 8771978,BSMA
+2021-2648-MN-0,Travoris,Tan ,Benítez ,tbtan@iskolarngbayan.pup.edu.ph,F,2003-04-07,(0953) 7794958,MBE
+2021-4276-MN-0,Missy,Dalisay ,Gallego ,mgdalisay@iskolarngbayan.pup.edu.ph,M,2003-09-16,(0978) 8865689,DCET
+2021-7593-MN-0,Merrick,Fernández ,de Ocampo ,mdfernández@iskolarngbayan.pup.edu.ph,F,2004-10-30,(0937) 3239944,BSA
+2021-2482-MN-0,Marco,Aguilar ,Córdova ,mcaguilar@iskolarngbayan.pup.edu.ph,M,2002-01-18,(0955) 9645639,BSESS
+2021-1039-MN-0,Anise,Rivas ,Laurente ,alrivas@iskolarngbayan.pup.edu.ph,M,2003-05-26,(0974) 6546709,BS-ARCH
+2021-0396-MN-0,Alanah,Florendo ,Mariano ,amflorendo@iskolarngbayan.pup.edu.ph,F,2004-03-12,(0998) 6730601,BSFT
+2021-0354-MN-0,Jeree,Alejo ,Dimaano ,jdalejo@iskolarngbayan.pup.edu.ph,M,2004-01-08,(0936) 1075473,BSTM
+2021-1619-MN-0,Liat,Gonzales ,dela Rosa ,ldgonzales@iskolarngbayan.pup.edu.ph,F,2002-12-01,(0935) 4363396,ABF
+2021-0664-MN-0,Coleby,Pimentel ,Liwanag ,clpimentel@iskolarngbayan.pup.edu.ph,F,2003-01-09,(0953) 9579488,BSCHEM
+2021-8579-MN-0,Ulysses,Imperial ,Ibáñez ,uiimperial@iskolarngbayan.pup.edu.ph,F,2002-08-25,(0963) 7368482,BSCHEM
+2021-5040-MN-0,Jamile,Arellano ,Ismael ,jiarellano@iskolarngbayan.pup.edu.ph,F,2004-11-10,(0997) 3151776,DICT
+2021-6880-MN-0,Makoto,Camacho ,Mateo ,mmcamacho@iskolarngbayan.pup.edu.ph,M,2004-02-16,(0997) 2057846,BSIT
+2021-1264-MN-0,Korie,Ventura ,Gamboa ,kgventura@iskolarngbayan.pup.edu.ph,M,2003-07-24,(0975) 4986567,BSRE
+2021-0757-MN-0,Adrien,Umali ,de Ocampo ,adumali@iskolarngbayan.pup.edu.ph,M,2002-05-20,(0917) 4405760,BSESS
+2021-1876-MN-0,Chasity,de Asis ,Pangan ,cpde asis@iskolarngbayan.pup.edu.ph,M,2003-12-09,(0978) 9210463,BECEd
+2021-2654-MN-0,Takasha,Hernández ,Ledesma ,tlhernández@iskolarngbayan.pup.edu.ph,M,2004-07-23,(0915) 5582316,BPEA
+2021-4123-MN-0,Iyona,Bacus ,de los Santos ,idbacus@iskolarngbayan.pup.edu.ph,M,2002-09-01,(0916) 1239682,BSFT
+2021-6906-MN-0,Yazan,Espino ,Luna ,ylespino@iskolarngbayan.pup.edu.ph,M,2004-11-24,(0954) 3937021,PBDE
+2021-7074-MN-0,Lisabeth,Paglinawan ,Alcántara ,lapaglinawan@iskolarngbayan.pup.edu.ph,F,2004-01-05,(0965) 6912046,BSSTAT
+2021-6214-MN-0,Christianne,Cabáhug ,Jacinto ,cjcabáhug@iskolarngbayan.pup.edu.ph,M,2002-12-24,(0953) 2057449,BSESS
+2021-8904-MN-0,Derika,Pineda ,Zapanta ,dzpineda@iskolarngbayan.pup.edu.ph,F,2004-01-06,(0927) 8689234,BSBA-MM
+2021-8223-MN-0,Blase,Benito ,Esteban ,bebenito@iskolarngbayan.pup.edu.ph,M,2002-11-17,(0979) 6376010,BAPS
+2021-4982-MN-0,Zerrick,Ledesma ,de Jesús ,zdledesma@iskolarngbayan.pup.edu.ph,M,2003-12-01,(0905) 8744793,BSCpE
+2021-6780-MN-0,Jerrid,Cortés ,Quijano ,jqcortés@iskolarngbayan.pup.edu.ph,M,2003-05-12,(0973) 6480862,BTLEd-IA
+2021-1859-MN-0,Thavy,Raymundo ,Guillermo ,tgraymundo@iskolarngbayan.pup.edu.ph,F,2004-10-14,(0905) 2475064,BSIT
+2021-3522-MN-0,Emmie,Gaspar ,Franco ,efgaspar@iskolarngbayan.pup.edu.ph,M,2004-03-10,(0905) 5129710,BSME
+2021-4771-MN-0,Dametria,Dizon ,Tamayo ,dtdizon@iskolarngbayan.pup.edu.ph,F,2002-11-19,(0905) 1525202,BA Broadcasting
+2021-0957-MN-0,Banessa,Rodríguez ,Villamor ,bvrodríguez@iskolarngbayan.pup.edu.ph,M,2003-12-21,(0905) 1261190,BSBA-MM
+2021-4255-MN-0,Tuan,Padilla ,Santa Ana ,tspadilla@iskolarngbayan.pup.edu.ph,F,2003-08-13,(0963) 4694105,BSRE
+2021-5124-MN-0,Nakeesha,Omar ,Raymundo ,nromar@iskolarngbayan.pup.edu.ph,F,2003-02-22,(0975) 6019744,BSEP
+2021-1519-MN-0,Sharayah,Liwanag ,Umali ,suliwanag@iskolarngbayan.pup.edu.ph,F,2004-01-24,(0945) 6943822,BSBAHRM
+2021-5110-MN-0,Elder,Guillermo ,Ang ,eaguillermo@iskolarngbayan.pup.edu.ph,F,2002-10-11,(0954) 5825060,BPEA
+2021-0004-MN-0,Konrad,Enríquez ,Trinidad ,ktenríquez@iskolarngbayan.pup.edu.ph,M,2002-06-07,(0998) 6147822,BA Broadcasting
+2021-3438-MN-0,Anela,Padua ,Domingo ,adpadua@iskolarngbayan.pup.edu.ph,F,2003-06-14,(0999) 6443351,BSCpE
+2021-9012-MN-0,Marbella,Soriano ,Solano ,mssoriano@iskolarngbayan.pup.edu.ph,F,2002-05-07,(0997) 9471834,BSCS
+2021-7328-MN-0,Kendel,Pepito ,Arceo ,kapepito@iskolarngbayan.pup.edu.ph,M,2002-10-09,(0976) 2609787,MEM-IL
+2021-4219-MN-0,Albany,Dy ,Crisóstomo ,acdy@iskolarngbayan.pup.edu.ph,F,2003-04-16,(0917) 3473982,BAH
+2021-9415-MN-0,Yehudah,Murillo ,Rodrigo ,yrmurillo@iskolarngbayan.pup.edu.ph,M,2002-01-01,(0976) 5164095,BSIE
+2021-3102-MN-0,Jordin,Gallego ,Rojo ,jrgallego@iskolarngbayan.pup.edu.ph,F,2004-07-21,(0997) 3008939,BSFT
+2021-5175-MN-0,Safiya,Fajardo ,Rico ,srfajardo@iskolarngbayan.pup.edu.ph,M,2003-03-04,(0965) 8915925,BSBA-MM
+2021-1708-MN-0,Daneisha,Pérez ,Ariola ,dapérez@iskolarngbayan.pup.edu.ph,F,2004-09-18,(0974) 4853940,MAED-TCA
+2021-3651-MN-0,Talayah,Adriano ,Andaya ,taadriano@iskolarngbayan.pup.edu.ph,M,2004-04-26,(0997) 1448358,MAEd-ME
+2021-3779-MN-0,Tove,Múñoz ,Villareal ,tvmúñoz@iskolarngbayan.pup.edu.ph,M,2002-04-16,(0997) 6525089,BSPHY
+2021-4712-MN-0,Estrellita,Ponce ,Nolasco ,enponce@iskolarngbayan.pup.edu.ph,M,2004-05-06,(0997) 9914788,BSMA
+2021-3006-MN-0,Edilberto,Múñoz ,Ancheta ,eamúñoz@iskolarngbayan.pup.edu.ph,F,2003-08-07,(0916) 3743524,MBA
+2021-4701-MN-0,Kortnie,Saysón ,Aragón ,kasaysón@iskolarngbayan.pup.edu.ph,M,2002-06-19,(0976) 4970372,DPA
+2021-3561-MN-0,Equan,Miranda ,Fontanilla ,efmiranda@iskolarngbayan.pup.edu.ph,M,2002-01-29,(0977) 8229260,BSME
+2021-2313-MN-0,Britiney,Alonzo ,delos Santos ,bdalonzo@iskolarngbayan.pup.edu.ph,F,2002-03-19,(0976) 1403243,MPA
+2021-9328-MN-0,Loyda,Valenzuela ,Soriano ,lsvalenzuela@iskolarngbayan.pup.edu.ph,M,2004-05-15,(0945) 4801339,BSEP
+2021-3131-MN-0,Mar,Martínez ,Rico ,mrmartínez@iskolarngbayan.pup.edu.ph,F,2003-07-29,(0975) 9282808,BSEE
+2021-4157-MN-0,Vibol,Espina ,Espino ,veespina@iskolarngbayan.pup.edu.ph,M,2002-10-26,(0935) 9075375,BSAPMATH
+2021-0949-MN-0,Lenore,Solano ,Rojas ,lrsolano@iskolarngbayan.pup.edu.ph,M,2003-06-09,(0945) 3267098,BPA
+2021-8141-MN-0,Marquie,Zapanta ,Gallardo ,mgzapanta@iskolarngbayan.pup.edu.ph,F,2002-09-18,(0915) 5707278,BSSTAT
+2021-9935-MN-0,Leyla,Guevarra ,Andrés ,laguevarra@iskolarngbayan.pup.edu.ph,F,2003-11-16,(0979) 7031325,DCET
+2021-6440-MN-0,Raynold,Estrella ,Villaruel ,rvestrella@iskolarngbayan.pup.edu.ph,M,2004-07-21,(0963) 1015947,BSBA-MM
+2021-3674-MN-0,Rosario,Briones ,Magpantay ,rmbriones@iskolarngbayan.pup.edu.ph,M,2002-02-17,(0963) 6012667,BSEd-SCI
+2021-1613-MN-0,Mansour,Martínez ,Ledesma ,mlmartínez@iskolarngbayan.pup.edu.ph,M,2003-02-13,(0976) 1863722,MBA
+2021-2592-MN-0,Shanita,delos Santos ,Ruiz ,srdelos santos@iskolarngbayan.pup.edu.ph,F,2002-02-15,(0917) 5453066,BSEd-SS
+2021-8538-MN-0,Colburn,Lim ,Espina ,celim@iskolarngbayan.pup.edu.ph,F,2004-11-07,(0905) 6522382,DEET
+2021-0607-MN-0,Lyssa,Palma ,Sarmiento ,lspalma@iskolarngbayan.pup.edu.ph,F,2003-01-10,(0927) 2155925,ABELS
+2021-3422-MN-0,Jamale,Villaflor ,Bóndoc ,jbvillaflor@iskolarngbayan.pup.edu.ph,M,2004-12-24,(0935) 2488787,BSBAFM
+2021-2949-MN-0,Holland,Tenorio ,Miguel ,hmtenorio@iskolarngbayan.pup.edu.ph,F,2003-12-24,(0906) 1873575,BSIE
+2021-4668-MN-0,Ivane,Angeles ,Pepito ,ipangeles@iskolarngbayan.pup.edu.ph,F,2004-06-15,(0978) 1695282,BSBAFM
+2021-6739-MN-0,Mina,Ronquillo ,Lucas ,mlronquillo@iskolarngbayan.pup.edu.ph,F,2003-10-30,(0973) 4193425,BSIT
+2021-6537-MN-0,Tereasa,de los Santos ,López ,tlde los santos@iskolarngbayan.pup.edu.ph,M,2002-04-21,(0936) 7559307,BSEd-ENG
+2021-3876-MN-0,Lekeshia,Angeles ,Prado ,lpangeles@iskolarngbayan.pup.edu.ph,M,2002-08-23,(0936) 1592272,BACR
+2021-7308-MN-0,Alok,Magallanes ,Guevarra ,agmagallanes@iskolarngbayan.pup.edu.ph,M,2004-09-30,(0978) 3494858,BAS
+2021-5472-MN-0,Rania,Coronel ,Donato ,rdcoronel@iskolarngbayan.pup.edu.ph,M,2004-06-17,(0916) 8465441,ABLCS
+2021-6287-MN-0,Delphina,Policarpio ,Canlas ,dcpolicarpio@iskolarngbayan.pup.edu.ph,F,2004-10-09,(0927) 5858493,MLIS
+2021-1693-MN-0,Janesa,Campos ,Zapanta ,jzcampos@iskolarngbayan.pup.edu.ph,M,2003-12-03,(0905) 2284276,BSTM
+2021-8907-MN-0,Sheresa,Basa ,Dalisay ,sdbasa@iskolarngbayan.pup.edu.ph,M,2002-04-22,(0975) 1789886,BSIE
+2021-8134-MN-0,Keni,Vicente ,Barrientos ,kbvicente@iskolarngbayan.pup.edu.ph,M,2004-11-02,(0977) 9177847,PBDE
+2021-3655-MN-0,Tenielle,Bernabe ,Carlos ,tcbernabe@iskolarngbayan.pup.edu.ph,M,2003-12-23,(0954) 3853160,BSEd-MATH
+2021-7019-MN-0,Rody,Cortez ,delos Santos ,rdcortez@iskolarngbayan.pup.edu.ph,F,2004-01-19,(0955) 5468163,BAS
+2021-2109-MN-0,Martia,Luna ,Baltazar ,mbluna@iskolarngbayan.pup.edu.ph,F,2002-02-27,(0973) 7364699,BSAPMATH
+2021-8536-MN-0,Shonta,Borja ,Delima ,sdborja@iskolarngbayan.pup.edu.ph,F,2003-06-13,(0999) 8080869,MEM-EL
+2021-4557-MN-0,Felita,Cervantes ,Villamor ,fvcervantes@iskolarngbayan.pup.edu.ph,M,2003-10-28,(0974) 3478985,BAH
+2021-3899-MN-0,Tahnee,Rodríguez ,Imperial ,tirodríguez@iskolarngbayan.pup.edu.ph,M,2004-01-31,(0997) 6355559,BAIS
+2021-8366-MN-0,Breezy,Vidal ,Andal ,bavidal@iskolarngbayan.pup.edu.ph,F,2003-06-07,(0953) 2714148,BSTRM
+2021-0277-MN-0,Brenden,San Pedro ,Delima ,bdsan pedro@iskolarngbayan.pup.edu.ph,F,2004-11-10,(0916) 9714496,BSEP
+2021-2998-MN-0,Sarrah,Barrientos ,Solano ,ssbarrientos@iskolarngbayan.pup.edu.ph,M,2002-06-18,(0955) 5712721,MBA
+2021-6916-MN-0,Shacarra,Clemente ,Lim ,slclemente@iskolarngbayan.pup.edu.ph,F,2002-08-06,(0997) 3971879,MBE
+2021-7227-MN-0,Daivd,Solomón ,Vergara ,dvsolomón@iskolarngbayan.pup.edu.ph,M,2004-06-25,(0964) 3710937,DEET
+2021-5062-MN-0,Trenice,Gabriel ,Tolentino ,ttgabriel@iskolarngbayan.pup.edu.ph,F,2002-11-17,(0915) 8191005,JD
+2021-0427-MN-0,Valdemar,Jacinto ,Lucas ,vljacinto@iskolarngbayan.pup.edu.ph,M,2003-07-29,(0954) 2395385,DEM
+2021-7771-MN-0,Alexas,Antonio ,de Ocampo ,adantonio@iskolarngbayan.pup.edu.ph,F,2003-05-12,(0915) 7015901,BSCS
+2021-5802-MN-0,Marques,Lacson ,Suárez ,mslacson@iskolarngbayan.pup.edu.ph,M,2002-06-16,(0955) 7662911,DECET
+2021-4296-MN-0,Odalis,San Jose ,Samson ,ossan jose@iskolarngbayan.pup.edu.ph,F,2003-11-19,(0955) 1085444,MPA
+2021-2817-MN-0,Jamaar,Ballesteros ,Frias ,jfballesteros@iskolarngbayan.pup.edu.ph,M,2004-11-06,(0998) 8803613,BS-ARCH
+2021-4078-MN-0,Stepanie,Musa ,Ramírez ,srmusa@iskolarngbayan.pup.edu.ph,F,2002-03-14,(0963) 4035125,BSCS
+2021-2792-MN-0,Niel,Andaya ,Sandoval ,nsandaya@iskolarngbayan.pup.edu.ph,M,2004-05-19,(0915) 3903652,AB-PHILO
+2021-1848-MN-0,Duyen,Mama ,Dalisay ,ddmama@iskolarngbayan.pup.edu.ph,F,2002-08-07,(0999) 8630297,BSEP
+2021-7055-MN-0,Keva,Rojas ,Magbanua ,kmrojas@iskolarngbayan.pup.edu.ph,M,2002-03-02,(0905) 9860670,BTLEd-IA
+2021-5240-MN-0,Dornell,Bacani ,Gatchalián ,dgbacani@iskolarngbayan.pup.edu.ph,M,2003-02-14,(0975) 7693295,ABF
+2021-2934-MN-0,Shernita,Samson ,Baylón ,sbsamson@iskolarngbayan.pup.edu.ph,F,2003-07-31,(0973) 2397710,BSC
+2021-9428-MN-0,Jeaneen,Salvador ,Pineda ,jpsalvador@iskolarngbayan.pup.edu.ph,M,2004-01-07,(0917) 4878635,DCET
+2021-8729-MN-0,Delontae,Martín ,Ruiz ,drmartín@iskolarngbayan.pup.edu.ph,F,2002-07-13,(0975) 5048050,AB-PHILO
+2021-5893-MN-0,Derrick,Córpuz ,Palma ,dpcórpuz@iskolarngbayan.pup.edu.ph,M,2002-03-05,(0979) 8870315,BSCHEM
+2021-2231-MN-0,Sherille,Zamora ,Valdez ,svzamora@iskolarngbayan.pup.edu.ph,M,2003-02-12,(0937) 2816922,BPE
+2021-8434-MN-0,Angellica,Roa ,dela Cruz ,adroa@iskolarngbayan.pup.edu.ph,M,2002-11-03,(0953) 3829578,BSEd-FIL
+2021-7573-MN-0,Myria,de la Cruz ,del Rosario ,mdde la cruz@iskolarngbayan.pup.edu.ph,F,2002-01-02,(0999) 6970513,BTLEd-ICT
+2021-5058-MN-0,Siri,Macaraeg ,Angeles ,samacaraeg@iskolarngbayan.pup.edu.ph,F,2003-07-15,(0997) 2431699,BPA
+2021-9211-MN-0,Ebonne,Roque ,Rodríguez ,erroque@iskolarngbayan.pup.edu.ph,F,2003-06-18,(0998) 5154749,BAS
+2021-8074-MN-0,Denisse,Viloria ,Sy ,dsviloria@iskolarngbayan.pup.edu.ph,M,2004-05-27,(0953) 6786369,BAJ
+2021-0361-MN-0,Jenipher,Vargas ,Pineda ,jpvargas@iskolarngbayan.pup.edu.ph,M,2003-07-03,(0917) 2799241,MAEd-ME
+2021-8526-MN-0,Thavy,Lao ,Conde ,tclao@iskolarngbayan.pup.edu.ph,F,2004-08-13,(0916) 2603334,BSEd-ENG
+2021-5683-MN-0,Khara,Dionisio ,de los Santos ,kddionisio@iskolarngbayan.pup.edu.ph,F,2004-10-20,(0964) 6747978,BAPS
+2021-3637-MN-0,Jamian,Paz ,Palma ,jppaz@iskolarngbayan.pup.edu.ph,M,2004-03-20,(0906) 8383954,BSEd-SCI
+2021-9465-MN-0,Lavonna,Gallego ,Geronimo ,lggallego@iskolarngbayan.pup.edu.ph,F,2003-07-31,(0945) 2229755,MLIS
+2021-5999-MN-0,Kashana,Trinidad ,Abas ,katrinidad@iskolarngbayan.pup.edu.ph,M,2003-06-19,(0977) 4161752,MLIS
+2021-7990-MN-0,Dagoberto,Cabrera ,Abdullah ,dacabrera@iskolarngbayan.pup.edu.ph,M,2003-07-30,(0927) 8258688,BSC
+2021-2562-MN-0,Shaneen,Cortez ,de Ocampo ,sdcortez@iskolarngbayan.pup.edu.ph,F,2002-08-25,(0963) 3609716,BPEA
+2021-3374-MN-0,Delores,Abella ,Castor ,dcabella@iskolarngbayan.pup.edu.ph,M,2003-02-02,(0926) 2515418,BAH
+2021-9765-MN-0,Shareese,Fernández ,Valdez ,svfernández@iskolarngbayan.pup.edu.ph,F,2002-06-12,(0955) 3461340,BAJ
+2021-8595-MN-0,Ladora,Calma ,Matiás ,lmcalma@iskolarngbayan.pup.edu.ph,F,2004-09-10,(0953) 1437735,DEET
+2021-5379-MN-0,Loida,Andal ,Lacson ,llandal@iskolarngbayan.pup.edu.ph,F,2003-10-20,(0953) 1263978,BAS
+2021-5810-MN-0,Basilio,Narciso ,Córdova ,bcnarciso@iskolarngbayan.pup.edu.ph,M,2002-09-25,(0954) 7856494,DECET
+2021-7780-MN-0,Myka,Rico ,Villa ,mvrico@iskolarngbayan.pup.edu.ph,M,2002-02-24,(0955) 8635120,BAS
+2021-3473-MN-0,Mathew,Lara ,Sales ,mslara@iskolarngbayan.pup.edu.ph,M,2002-04-12,(0926) 7778561,BSBAHRM
+2021-9391-MN-0,Jessi,Quiambao ,Flores ,jfquiambao@iskolarngbayan.pup.edu.ph,F,2002-12-03,(0997) 6772188,MAEd-ME
+2021-9301-MN-0,Christoher,Carpio ,Tolentino ,ctcarpio@iskolarngbayan.pup.edu.ph,F,2004-01-12,(0935) 4357054,BAPS
+2021-2322-MN-0,Justion,Rodríguez ,Serrano ,jsrodríguez@iskolarngbayan.pup.edu.ph,M,2003-11-21,(0974) 7332536,MBE
+2021-8468-MN-0,Catheryne,Nolasco ,Ismael ,cinolasco@iskolarngbayan.pup.edu.ph,M,2004-08-18,(0977) 8265658,ABF
+2021-5527-MN-0,Seaira,Guzmán ,de los Santos ,sdguzmán@iskolarngbayan.pup.edu.ph,M,2002-03-09,(0998) 9288709,BPA
+2021-5356-MN-0,Omolara,Santa Ana ,Urbano ,ousanta ana@iskolarngbayan.pup.edu.ph,M,2004-02-21,(0974) 6317007,BSRE
+2021-9657-MN-0,Andrewjames,Castañeda ,Bustamante ,abcastañeda@iskolarngbayan.pup.edu.ph,M,2002-12-02,(0936) 3253514,ABLCS
+2021-0443-MN-0,Tacia,Delima ,Miranda ,tmdelima@iskolarngbayan.pup.edu.ph,F,2004-02-14,(0965) 3712267,BLIS
+2021-6458-MN-0,Shandreka,Abdul ,Juan ,sjabdul@iskolarngbayan.pup.edu.ph,M,2003-03-30,(0927) 8934599,BPEA
+2021-8068-MN-0,Mystie,Manansala ,Miranda ,mmmanansala@iskolarngbayan.pup.edu.ph,F,2003-07-14,(0998) 8050515,BAIS
+2021-2047-MN-0,Chaquana,Tuazon ,Enríquez ,cetuazon@iskolarngbayan.pup.edu.ph,M,2003-02-06,(0945) 1425441,BPEA
+2021-6783-MN-0,Hudson,Silvestre ,Toledo ,htsilvestre@iskolarngbayan.pup.edu.ph,F,2002-02-11,(0905) 2093143,BSESS
+2021-3968-MN-0,Ibn,Blanco ,Alonzo ,iablanco@iskolarngbayan.pup.edu.ph,M,2002-08-21,(0964) 2089677,BSME
+2021-0832-MN-0,Evita,Gatchalián ,Usman ,eugatchalián@iskolarngbayan.pup.edu.ph,M,2004-02-26,(0976) 6018178,DICT
+2021-9323-MN-0,Krystalyn,de León ,Córdova ,kcde león@iskolarngbayan.pup.edu.ph,F,2002-10-31,(0915) 7579595,BSME
+2021-3388-MN-0,Sera,Belén ,Fajardo ,sfbelén@iskolarngbayan.pup.edu.ph,F,2004-12-20,(0973) 1039668,BSMATH
+2021-2074-MN-0,Charika,Mama ,Alcántara ,camama@iskolarngbayan.pup.edu.ph,M,2002-11-27,(0926) 8029441,PBDE
+2021-4341-MN-0,Jersey,Ignacio ,Teves ,jtignacio@iskolarngbayan.pup.edu.ph,M,2002-12-29,(0915) 3047447,BSIT
+2021-0660-MN-0,Kindle,Lara ,de Guzmán ,kdlara@iskolarngbayan.pup.edu.ph,M,2003-02-09,(0999) 1137267,MEM-IL
+2021-3993-MN-0,Dannie,Miguel ,Osorio ,domiguel@iskolarngbayan.pup.edu.ph,F,2002-06-01,(0926) 1396361,BSTRM
+2021-3851-MN-0,Endre,Mayo ,Pacheco ,epmayo@iskolarngbayan.pup.edu.ph,F,2002-11-05,(0974) 5675278,BSMATH
+2021-7611-MN-0,Makenzie,Santa Ana ,Capistrano ,mcsanta ana@iskolarngbayan.pup.edu.ph,F,2004-06-09,(0977) 1548043,BSBAFM
+2021-5884-MN-0,Deanndra,Dulay ,Lucero ,dldulay@iskolarngbayan.pup.edu.ph,F,2003-01-06,(0954) 2877152,BSCE
+2021-2484-MN-0,Elesha,Prado ,Landicho ,elprado@iskolarngbayan.pup.edu.ph,M,2004-01-08,(0937) 5920839,BSEP
+2021-0666-MN-0,Aramis,Gallego ,Marcelino ,amgallego@iskolarngbayan.pup.edu.ph,M,2003-12-30,(0977) 4452020,BSPSY
+2021-7276-MN-0,Terrell,Matiás ,Lucas ,tlmatiás@iskolarngbayan.pup.edu.ph,F,2004-06-12,(0927) 1271048,DEM
+2021-6685-MN-0,Stefano,Hilario ,Canoy ,schilario@iskolarngbayan.pup.edu.ph,F,2004-01-21,(0906) 5890608,BSRE
+2021-0687-MN-0,Tanya,Estrella ,Collado ,tcestrella@iskolarngbayan.pup.edu.ph,F,2003-11-28,(0997) 8023507,BECEd
+2021-9036-MN-0,Roya,Guinto ,Fernando ,rfguinto@iskolarngbayan.pup.edu.ph,M,2003-02-14,(0937) 5448616,MEM-EL
+2021-4931-MN-0,Latara,Geronimo ,Buenaventura ,lbgeronimo@iskolarngbayan.pup.edu.ph,F,2004-07-06,(0997) 3989766,BAIS
+2021-0310-MN-0,Teven,Mama ,Feliciano ,tfmama@iskolarngbayan.pup.edu.ph,M,2003-08-21,(0935) 2004118,BSESS
+2021-8034-MN-0,Pricilla,Barrios ,Alejandro ,pabarrios@iskolarngbayan.pup.edu.ph,F,2002-07-14,(0978) 2215980,BSBAHRM
+2021-6636-MN-0,Frieda,Villafuerte ,de Jesús ,fdvillafuerte@iskolarngbayan.pup.edu.ph,M,2004-09-08,(0954) 1954487,BSAPMATH
+2021-3639-MN-0,Shaketta,Soriano ,del Mundo ,sdsoriano@iskolarngbayan.pup.edu.ph,F,2002-06-29,(0999) 5414138,BSRE
+2021-3214-MN-0,Tramell,Asunción ,Pablo ,tpasunción@iskolarngbayan.pup.edu.ph,F,2003-05-23,(0905) 6303183,BLIS
+2021-5732-MN-0,Jay,Acosta ,Pineda ,jpacosta@iskolarngbayan.pup.edu.ph,M,2002-01-09,(0953) 4472976,DCET
+2021-2605-MN-0,Jacole,Bernabe ,Alfaro ,jabernabe@iskolarngbayan.pup.edu.ph,F,2003-01-31,(0953) 4254211,MAED-TCA
+2021-1050-MN-0,Karinna,Mójica ,Mahilum ,kmmójica@iskolarngbayan.pup.edu.ph,F,2002-06-16,(0926) 2128045,BSCE
+2021-4393-MN-0,Tinamarie,Villaflor ,Macaraeg ,tmvillaflor@iskolarngbayan.pup.edu.ph,M,2004-08-10,(0936) 6962148,BSEd-SCI
+2021-8765-MN-0,Jonovan,Baguio ,Omar ,jobaguio@iskolarngbayan.pup.edu.ph,M,2003-11-17,(0945) 5511057,BLIS
+2021-1754-MN-0,Terica,Pangilinan ,Burgos ,tbpangilinan@iskolarngbayan.pup.edu.ph,M,2003-01-17,(0998) 8059191,MPES
+2021-8203-MN-0,Faith,Alfaro ,Jacob ,fjalfaro@iskolarngbayan.pup.edu.ph,F,2003-05-15,(0973) 7397260,BTLEd-IA
+2021-9341-MN-0,Aman,Gregorio ,Alarcón ,aagregorio@iskolarngbayan.pup.edu.ph,F,2002-07-23,(0976) 3373040,BEEd
+2021-8503-MN-0,Carina,Pérez ,Ábalos ,cápérez@iskolarngbayan.pup.edu.ph,M,2004-07-28,(0963) 5525063,MAEd-ME
+2021-4311-MN-0,Taree,Medina ,Mangubat ,tmmedina@iskolarngbayan.pup.edu.ph,F,2003-01-14,(0998) 5075294,BPA
+2021-8015-MN-0,Kermit,Umali ,Lim ,klumali@iskolarngbayan.pup.edu.ph,F,2002-09-20,(0965) 5433259,BSCS
+2021-1908-MN-0,Carlyn,Baltazar ,dela Rosa ,cdbaltazar@iskolarngbayan.pup.edu.ph,F,2002-06-28,(0935) 3296985,BAJ
+2021-7900-MN-0,Stphanie,Imperial ,Bautista ,sbimperial@iskolarngbayan.pup.edu.ph,M,2002-08-17,(0945) 3577142,MPES
+2021-7956-MN-0,Jamon,Javier ,Yap ,jyjavier@iskolarngbayan.pup.edu.ph,M,2002-03-31,(0917) 7891695,MAELT
+2021-7937-MN-0,Cachet,Tan ,Madrid ,cmtan@iskolarngbayan.pup.edu.ph,F,2004-04-11,(0953) 4918846,DPA
+2021-2965-MN-0,Wilfrid,Lázaro ,Basa ,wblázaro@iskolarngbayan.pup.edu.ph,M,2003-10-12,(0979) 3694730,BEEd
+2021-2837-MN-0,Jillmarie,Delima ,Austria ,jadelima@iskolarngbayan.pup.edu.ph,F,2003-01-03,(0998) 1909491,BSE
+2021-4519-MN-0,Fedrick,Sandoval ,Roa ,frsandoval@iskolarngbayan.pup.edu.ph,M,2004-02-29,(0955) 2365582,BSSTAT
+2021-3575-MN-0,Derrick,Miguel ,Dionisio ,ddmiguel@iskolarngbayan.pup.edu.ph,F,2002-09-13,(0977) 8856009,BSBIO
+2021-0190-MN-0,Woodley,Matiás ,Manabat ,wmmatiás@iskolarngbayan.pup.edu.ph,F,2002-12-06,(0926) 9664741,MPA
+2021-6117-MN-0,Teneil,Gallego ,de Chávez ,tdgallego@iskolarngbayan.pup.edu.ph,M,2002-08-31,(0965) 3452665,AB-PHILO
+2021-0639-MN-0,Takeena,Pilapil ,Evangelista ,tepilapil@iskolarngbayan.pup.edu.ph,M,2002-09-26,(0905) 5582442,ABLCS
+2021-1763-MN-0,Brigette,Ibrahim ,Arellano ,baibrahim@iskolarngbayan.pup.edu.ph,M,2003-03-08,(0998) 7668135,BSCS
+2021-1376-MN-0,Saysha,Basilio ,Dy ,sdbasilio@iskolarngbayan.pup.edu.ph,M,2004-10-20,(0998) 2992080,BSIE
+2021-5939-MN-0,Joleigh,Villamor ,Manalang ,jmvillamor@iskolarngbayan.pup.edu.ph,M,2002-01-29,(0973) 7483936,BSSTAT
+2021-8649-MN-0,Rania,Panes ,dela Torre ,rdpanes@iskolarngbayan.pup.edu.ph,M,2004-05-04,(0955) 3198036,BSEd-FIL
+2021-3181-MN-0,Anthea,Ybáñez ,Trinidad ,atybáñez@iskolarngbayan.pup.edu.ph,M,2002-11-28,(0936) 6145670,DMET
+2021-9204-MN-0,Adonica,Lozano ,de Luna ,adlozano@iskolarngbayan.pup.edu.ph,F,2003-04-10,(0937) 1472964,BSRE
+2021-1429-MN-0,Arieal,Ábalos ,Sarmiento ,asábalos@iskolarngbayan.pup.edu.ph,M,2003-07-18,(0977) 4533204,BSENTREP
+2021-5945-MN-0,Jerianne,Meneses ,Canoy ,jcmeneses@iskolarngbayan.pup.edu.ph,M,2003-05-04,(0997) 9950159,BAPS
+2021-1079-MN-0,Alexsandra,Mohammad ,Bernabe ,abmohammad@iskolarngbayan.pup.edu.ph,M,2003-06-14,(0963) 8867965,ABLCS
+2021-3600-MN-0,Lakeidra,Lucas ,Vergara ,lvlucas@iskolarngbayan.pup.edu.ph,F,2003-04-05,(0973) 5277348,BSME
+2021-8744-MN-0,Alis,de Torres ,Ábalos ,aáde torres@iskolarngbayan.pup.edu.ph,F,2002-09-10,(0915) 7148838,BSAPMATH
+2021-9365-MN-0,Ashley,Ortega ,Cabáhug ,acortega@iskolarngbayan.pup.edu.ph,F,2004-11-28,(0999) 6025401,MAELT
+2021-6055-MN-0,Shanikqua,Cortés ,Tamayo ,stcortés@iskolarngbayan.pup.edu.ph,M,2004-01-19,(0977) 3587484,BSBA-MM
+2021-0524-MN-0,Kareena,Galicia ,San Jose ,ksgalicia@iskolarngbayan.pup.edu.ph,F,2002-11-25,(0974) 1710501,JD
+2021-8424-MN-0,Shanterria,Bernabe ,Quiambao ,sqbernabe@iskolarngbayan.pup.edu.ph,M,2003-03-10,(0917) 5179025,DPA
+2021-4784-MN-0,Anissa,Tenorio ,Ariola ,aatenorio@iskolarngbayan.pup.edu.ph,F,2004-03-01,(0963) 7057906,MBA
+2021-8259-MN-0,Krystyl,Tan ,Co ,kctan@iskolarngbayan.pup.edu.ph,F,2002-12-01,(0926) 6184544,BAPS
+2021-8021-MN-0,Kam,de Asis ,Montemayor ,kmde asis@iskolarngbayan.pup.edu.ph,M,2003-08-23,(0997) 8574820,BAPE
+2021-7368-MN-0,Alesandro,Manzano ,Mahinay ,ammanzano@iskolarngbayan.pup.edu.ph,M,2003-03-01,(0955) 6993238,BSENTREP
+2021-7890-MN-0,Buford,Alvarado ,Tenorio ,btalvarado@iskolarngbayan.pup.edu.ph,F,2004-11-14,(0954) 6763978,BSEd-MATH
+2021-3527-MN-0,Lenay,Asis ,Peralta ,lpasis@iskolarngbayan.pup.edu.ph,F,2004-11-11,(0978) 4090025,MEM-EL
+2021-8789-MN-0,Karalynn,Roldán ,Cortez ,kcroldán@iskolarngbayan.pup.edu.ph,F,2003-01-26,(0965) 9210480,PBDE
+2021-3292-MN-0,Jermanie,Alarcón ,Espina ,jealarcón@iskolarngbayan.pup.edu.ph,F,2004-02-04,(0917) 9549887,BPA
+2021-8748-MN-0,Katonya,Ballesteros ,San Pedro ,ksballesteros@iskolarngbayan.pup.edu.ph,M,2002-10-21,(0963) 2060896,BSSTAT
+2021-5682-MN-0,Roseanna,Moreno ,Aguinaldo ,ramoreno@iskolarngbayan.pup.edu.ph,F,2002-12-06,(0935) 5383667,BSECE
+2021-2194-MN-0,Hykeem,Calma ,Uy ,hucalma@iskolarngbayan.pup.edu.ph,M,2003-05-28,(0906) 7879282,BSTM
+2021-1668-MN-0,Shalie,Arcilla ,Dizon ,sdarcilla@iskolarngbayan.pup.edu.ph,M,2002-08-27,(0953) 7129269,BSRE
+2021-7439-MN-0,Lakiya,Nicolás ,Ledesma ,llnicolás@iskolarngbayan.pup.edu.ph,M,2002-09-13,(0997) 3570693,BSEd-SS
+2021-3823-MN-0,Bryant,Ocampo ,Paredes ,bpocampo@iskolarngbayan.pup.edu.ph,F,2002-03-24,(0953) 6153374,BSFT
+2021-4067-MN-0,Avram,Bartolomé ,Buenaventura ,abbartolomé@iskolarngbayan.pup.edu.ph,M,2004-11-10,(0974) 5980625,BSPSY
+2021-3405-MN-0,Channon,Cuizon ,Pelayo ,cpcuizon@iskolarngbayan.pup.edu.ph,M,2003-12-30,(0973) 5675968,BSCS
+2021-2399-MN-0,Tae,Malinao ,Feliciano ,tfmalinao@iskolarngbayan.pup.edu.ph,F,2003-02-04,(0905) 7919082,BAH
+2021-0370-MN-0,Barett,Dizon ,Mina ,bmdizon@iskolarngbayan.pup.edu.ph,M,2003-07-21,(0965) 7268332,MEM-IL
+2021-3141-MN-0,Christne,Salas ,Fajardo ,cfsalas@iskolarngbayan.pup.edu.ph,F,2002-08-07,(0906) 1410865,BAIS
+2021-2856-MN-0,Candance,Domínguez ,Nepomuceno ,cndomínguez@iskolarngbayan.pup.edu.ph,F,2002-09-25,(0916) 7620322,BSPSY
+2021-8091-MN-0,Danniel,Serrano ,Briones ,dbserrano@iskolarngbayan.pup.edu.ph,M,2004-11-02,(0964) 3976024,BA Broadcasting
+2021-9879-MN-0,Jayne,Tobias ,Manabat ,jmtobias@iskolarngbayan.pup.edu.ph,M,2003-02-24,(0917) 6277896,BAH
+2021-6535-MN-0,Eleesha,Roa ,Magbanua ,emroa@iskolarngbayan.pup.edu.ph,F,2004-09-23,(0999) 6921254,BSC
+2021-1532-MN-0,Dandrea,Ybáñez ,Alba ,daybáñez@iskolarngbayan.pup.edu.ph,F,2004-09-06,(0973) 1272194,BSMATH
+2021-4407-MN-0,Annabel,Salonga ,Viray ,avsalonga@iskolarngbayan.pup.edu.ph,F,2002-09-01,(0927) 6632387,BSCE
+2021-4365-MN-0,Jenney,Mójica ,Rivera ,jrmójica@iskolarngbayan.pup.edu.ph,F,2004-01-31,(0906) 7944768,MPA
+2021-7732-MN-0,Joshau,Bello ,Vásquez ,jvbello@iskolarngbayan.pup.edu.ph,F,2002-08-01,(0926) 2288876,JD
+2021-9534-MN-0,Nabeel,Benito ,Roldán ,nrbenito@iskolarngbayan.pup.edu.ph,F,2002-08-25,(0937) 5037651,BSHM
+2021-2430-MN-0,Kayvon,Juan ,Lozano ,kljuan@iskolarngbayan.pup.edu.ph,M,2004-02-14,(0979) 1403154,BAJ
+2021-0306-MN-0,Darnisha,Ávila ,Cariaga ,dcávila@iskolarngbayan.pup.edu.ph,M,2003-04-09,(0964) 5779524,BSID
+2021-1324-MN-0,Davena,Tuazon ,de los Reyes ,ddtuazon@iskolarngbayan.pup.edu.ph,F,2002-10-12,(0955) 1904728,BSC
+2021-8640-MN-0,Melissia,Lim ,Cortez ,mclim@iskolarngbayan.pup.edu.ph,F,2004-02-12,(0916) 3632660,BSHM
+2021-7639-MN-0,Katelan,Sotto ,Neri ,knsotto@iskolarngbayan.pup.edu.ph,F,2002-07-28,(0954) 6060321,BSND
+2021-4074-MN-0,Rosio,de Chávez ,Mallari ,rmde chávez@iskolarngbayan.pup.edu.ph,M,2004-08-05,(0979) 7658612,BSAPMATH
+2021-0511-MN-0,Mallarie,Manlangit ,Chávez ,mcmanlangit@iskolarngbayan.pup.edu.ph,M,2003-05-08,(0998) 9594412,BS-ARCH
+2021-0608-MN-0,Gia,Canoy ,Ledesma ,glcanoy@iskolarngbayan.pup.edu.ph,F,2002-01-29,(0936) 5874112,ABF
+2021-5418-MN-0,Luvenia,Cano ,Maranan ,lmcano@iskolarngbayan.pup.edu.ph,M,2003-02-09,(0917) 3063265,BSFT
+2021-4706-MN-0,Nika,de Jesús ,Ávila ,náde jesús@iskolarngbayan.pup.edu.ph,M,2004-04-30,(0977) 8459408,BSE
+2021-9053-MN-0,Chanell,Julián ,Ledesma ,cljulián@iskolarngbayan.pup.edu.ph,M,2004-12-15,(0975) 6700402,BAJ
+2021-4477-MN-0,Laisha,Magsino ,Atienza ,lamagsino@iskolarngbayan.pup.edu.ph,M,2003-05-15,(0977) 1171870,BSEd-ENG
+2021-2032-MN-0,Meshawn,Meneses ,Soria ,msmeneses@iskolarngbayan.pup.edu.ph,M,2004-07-06,(0906) 9859067,MPA
+2021-9226-MN-0,Tomislav,Vergara ,Maranan ,tmvergara@iskolarngbayan.pup.edu.ph,M,2002-11-01,(0935) 7337052,BPE
+2021-8243-MN-0,Brandin,Tuazon ,Junio ,bjtuazon@iskolarngbayan.pup.edu.ph,M,2004-10-13,(0997) 8900662,BECEd
+2021-7864-MN-0,Arlina,Agustín ,Sy ,asagustín@iskolarngbayan.pup.edu.ph,M,2004-11-10,(0945) 8436299,BSMA
+2021-2613-MN-0,Joi,Guerrero ,Regalado ,jrguerrero@iskolarngbayan.pup.edu.ph,M,2004-03-14,(0963) 9991245,BSBAFM
+2021-7404-MN-0,Sharita,Estrella ,Buenaventura ,sbestrella@iskolarngbayan.pup.edu.ph,F,2002-03-19,(0978) 7580684,BSBAFM
+2021-0743-MN-0,Carols,Mina ,Castañeda ,ccmina@iskolarngbayan.pup.edu.ph,M,2002-06-20,(0965) 6172397,BPA
+2021-8759-MN-0,Trang,Alfonso ,de León ,tdalfonso@iskolarngbayan.pup.edu.ph,M,2002-11-10,(0937) 8379989,BSIE
+2021-3777-MN-0,Salicia,Ang ,Ortega ,soang@iskolarngbayan.pup.edu.ph,M,2003-07-02,(0976) 2275964,DOMT
+2021-3091-MN-0,Corey,Samson ,Manzano ,cmsamson@iskolarngbayan.pup.edu.ph,M,2003-10-15,(0936) 3319056,DECET
+2021-9947-MN-0,Marketta,Ronquillo ,Cervantes ,mcronquillo@iskolarngbayan.pup.edu.ph,M,2003-06-20,(0906) 7735303,BAJ
+2021-9385-MN-0,Shantae,Villanueva ,Pangan ,spvillanueva@iskolarngbayan.pup.edu.ph,F,2004-04-17,(0964) 5223375,BACR
+2021-0340-MN-0,Marli,Alonzo ,Dizon ,mdalonzo@iskolarngbayan.pup.edu.ph,F,2003-04-28,(0997) 8297632,BTLEd-ICT
+2021-8699-MN-0,Tabethia,Abella ,Villar ,tvabella@iskolarngbayan.pup.edu.ph,F,2003-11-18,(0998) 1243429,BTLEd-ICT
+2021-4605-MN-0,Marry,Gonzales ,Guillermo ,mggonzales@iskolarngbayan.pup.edu.ph,M,2004-11-05,(0979) 3174971,BTLEd-HE
+2021-1909-MN-0,Biran,Felipe ,Pascua ,bpfelipe@iskolarngbayan.pup.edu.ph,F,2003-01-31,(0978) 9217224,DPA
+2021-9134-MN-0,Tracee,Tecson ,Madrid ,tmtecson@iskolarngbayan.pup.edu.ph,F,2003-10-13,(0974) 5546736,BTLEd-ICT
+2021-0535-MN-0,Cherae,del Rosario ,Bello ,cbdel rosario@iskolarngbayan.pup.edu.ph,M,2002-12-21,(0905) 9997419,BSEE
+2021-5583-MN-0,Lacretia,Hassan ,Plaza ,lphassan@iskolarngbayan.pup.edu.ph,F,2003-11-09,(0973) 4342767,MEM-IL
+2021-5481-MN-0,Shareena,Toledo ,Mendoza ,smtoledo@iskolarngbayan.pup.edu.ph,F,2004-08-07,(0915) 5857146,DCET
+2021-7582-MN-0,Kamryn,Cuevas ,Trinidad ,ktcuevas@iskolarngbayan.pup.edu.ph,F,2003-03-27,(0916) 3115161,DBA
+2021-2268-MN-0,Shirita,Guevarra ,Bartolomé ,sbguevarra@iskolarngbayan.pup.edu.ph,M,2003-06-02,(0905) 9088397,DOMT
+2021-9205-MN-0,Taneeka,Abdul ,Cariaga ,tcabdul@iskolarngbayan.pup.edu.ph,F,2004-05-10,(0979) 2671133,MPES
+2021-1853-MN-0,Sharell,Osorio ,Pepito ,sposorio@iskolarngbayan.pup.edu.ph,M,2002-09-10,(0998) 8952786,BS-ARCH
+2021-8778-MN-0,Deric,Tecson ,Córdova ,dctecson@iskolarngbayan.pup.edu.ph,M,2002-08-12,(0997) 4291088,BSOA
+2021-7568-MN-0,Uniqua,de Jesús ,Acosta ,uade jesús@iskolarngbayan.pup.edu.ph,M,2003-05-03,(0974) 3619481,DPA
+2021-6186-MN-0,Martia,Tejada ,Espíritu ,metejada@iskolarngbayan.pup.edu.ph,F,2003-03-14,(0926) 6767259,BPA
+2021-2238-MN-0,Jessee,Solis ,Marcos ,jmsolis@iskolarngbayan.pup.edu.ph,M,2004-12-14,(0997) 7853560,BA Broadcasting
+2021-2470-MN-0,Catrena,Mangubat ,Viernes ,cvmangubat@iskolarngbayan.pup.edu.ph,F,2003-08-31,(0975) 9152291,DMET
+2021-9149-MN-0,Soleil,Alfonso ,Tan ,stalfonso@iskolarngbayan.pup.edu.ph,F,2002-04-15,(0937) 3131776,DECET
+2021-9733-MN-0,Chelsy,de Villa ,Añonuevo ,cade villa@iskolarngbayan.pup.edu.ph,F,2003-04-25,(0976) 4897723,BSBA-MM
+2021-1965-MN-0,Marcellous,Baylón ,Abad ,mabaylón@iskolarngbayan.pup.edu.ph,M,2003-01-16,(0998) 1993077,BSEE
+2021-1536-MN-0,Fredericka,Liwanag ,Bóndoc ,fbliwanag@iskolarngbayan.pup.edu.ph,M,2004-06-15,(0926) 7102865,BTLEd-IA
+2021-3679-MN-0,Dejuan,Baltazar ,Baltazar ,dbbaltazar@iskolarngbayan.pup.edu.ph,F,2003-05-05,(0979) 3716200,BSBIO
+2021-7204-MN-0,Jeffry,Florendo ,Alegre ,jaflorendo@iskolarngbayan.pup.edu.ph,F,2004-06-23,(0965) 2366321,BSBAHRM
+2021-5063-MN-0,Teddy,Zabala ,Bóndoc ,tbzabala@iskolarngbayan.pup.edu.ph,F,2004-09-15,(0977) 6226727,BPE
+2021-6619-MN-0,Sai,Jacinto ,Zabala ,szjacinto@iskolarngbayan.pup.edu.ph,M,2003-10-30,(0906) 9885347,MBA
+2021-8871-MN-0,Sandi,Bartolomé ,Bravo ,sbbartolomé@iskolarngbayan.pup.edu.ph,F,2002-08-30,(0997) 4540742,BSMATH
+2021-7245-MN-0,Aura,Lucas ,Ortiz ,aolucas@iskolarngbayan.pup.edu.ph,F,2003-09-02,(0965) 6484513,DICT
+2021-0247-MN-0,Gisell,Viloria ,Rodrigo ,grviloria@iskolarngbayan.pup.edu.ph,M,2004-12-12,(0965) 2771652,BSTRM
+2021-0205-MN-0,Alexias,Núñez ,Delfín ,adnúñez@iskolarngbayan.pup.edu.ph,F,2004-09-27,(0953) 5805220,BSECE
+2021-3731-MN-0,Shauri,Pascua ,Policarpio ,sppascua@iskolarngbayan.pup.edu.ph,M,2004-05-19,(0977) 7061915,PBDE
+2021-6524-MN-0,Pricillia,Canlas ,Decena ,pdcanlas@iskolarngbayan.pup.edu.ph,F,2002-08-23,(0916) 4690662,DOMT
+2021-3623-MN-0,Foua,Roa ,Salvador ,fsroa@iskolarngbayan.pup.edu.ph,M,2003-08-02,(0945) 6036834,BSID
+2021-3154-MN-0,Jayce,Rodríguez ,Zapanta ,jzrodríguez@iskolarngbayan.pup.edu.ph,F,2003-08-16,(0936) 9998273,BSENTREP
+2021-4269-MN-0,Lelsie,Bueno ,Roxas ,lrbueno@iskolarngbayan.pup.edu.ph,M,2002-11-29,(0955) 2665286,BSTRM
+2021-7897-MN-0,Marius,Feliciano ,Sarmiento ,msfeliciano@iskolarngbayan.pup.edu.ph,F,2003-12-03,(0998) 5915548,BECEd
+2021-8047-MN-0,Linell,Vidal ,Pacheco ,lpvidal@iskolarngbayan.pup.edu.ph,F,2003-06-30,(0917) 6579560,BSAPMATH
+2021-8795-MN-0,Della,de Ocampo ,Gatchalián ,dgde ocampo@iskolarngbayan.pup.edu.ph,F,2002-10-24,(0927) 3196180,BSOA
+2021-3796-MN-0,Sylvana,Bello ,Valdez ,svbello@iskolarngbayan.pup.edu.ph,M,2002-04-16,(0915) 8113956,BSECE
+2021-5815-MN-0,Lynetta,Espino ,Jacob ,ljespino@iskolarngbayan.pup.edu.ph,M,2004-07-29,(0906) 3875832,BSIE
+2021-5434-MN-0,Terea,Acosta ,Santos ,tsacosta@iskolarngbayan.pup.edu.ph,M,2003-01-22,(0978) 7516647,MEM-IL
+2021-9122-MN-0,Martia,Meneses ,de Ocampo ,mdmeneses@iskolarngbayan.pup.edu.ph,M,2002-06-25,(0955) 5714512,BTLEd-ICT
+2021-9861-MN-0,Jamorris,Sagun ,Lacson ,jlsagun@iskolarngbayan.pup.edu.ph,M,2004-11-27,(0936) 8769005,ABF
+2021-2808-MN-0,Lucas,Ariola ,Billones ,lbariola@iskolarngbayan.pup.edu.ph,F,2004-05-07,(0963) 1594010,BEEd
+2021-4336-MN-0,Manfred,Mayo ,Mahilum ,mmmayo@iskolarngbayan.pup.edu.ph,M,2004-11-07,(0997) 8987157,BSBAHRM
+2021-0473-MN-0,Shelby,Ballesteros ,Madriaga ,smballesteros@iskolarngbayan.pup.edu.ph,F,2004-12-07,(0936) 6589564,ABF
+2021-3210-MN-0,Tylesha,Gómez ,Lucero ,tlgómez@iskolarngbayan.pup.edu.ph,M,2003-01-10,(0999) 8475361,BAPS
+2021-4482-MN-0,Doran,Ibrahim ,Paredes ,dpibrahim@iskolarngbayan.pup.edu.ph,M,2003-12-29,(0906) 5697096,BAH
+2021-0558-MN-0,Breianna,Guevarra ,Madriaga ,bmguevarra@iskolarngbayan.pup.edu.ph,F,2002-11-05,(0974) 1946910,BSIT
+2021-4072-MN-0,Gardenia,Salonga ,Delima ,gdsalonga@iskolarngbayan.pup.edu.ph,M,2002-11-25,(0945) 5529934,BSECE
+2021-5894-MN-0,Shanin,Calderón ,Ali ,sacalderón@iskolarngbayan.pup.edu.ph,F,2004-07-24,(0917) 3640440,BSIT
+2021-5512-MN-0,Jarvis,Peralta ,Crisóstomo ,jcperalta@iskolarngbayan.pup.edu.ph,F,2002-07-31,(0917) 1534741,BA Broadcasting
+2021-4126-MN-0,Arnoldo,Española ,Ventura ,avespañola@iskolarngbayan.pup.edu.ph,M,2004-06-01,(0998) 4567351,BSCS
+2021-2830-MN-0,Wing,Pacheco ,Abdullah ,wapacheco@iskolarngbayan.pup.edu.ph,M,2002-07-20,(0975) 3956525,JD
+2021-6761-MN-0,Conard,Sabado ,Usman ,cusabado@iskolarngbayan.pup.edu.ph,F,2003-06-14,(0977) 5071637,JD
+2021-9414-MN-0,Noah,Mejía ,Viernes ,nvmejía@iskolarngbayan.pup.edu.ph,F,2002-09-20,(0997) 8847535,BSPHY
+2021-2859-MN-0,Kurt,Mahinay ,Marquez ,kmmahinay@iskolarngbayan.pup.edu.ph,M,2003-12-09,(0906) 6759005,BSBAFM
+2021-4621-MN-0,Cecile,Mahilum ,Constantino ,ccmahilum@iskolarngbayan.pup.edu.ph,M,2003-04-07,(0935) 7275558,BPE
+2021-3058-MN-0,Tyronica,Cervantes ,Rubio ,trcervantes@iskolarngbayan.pup.edu.ph,M,2002-08-21,(0945) 8523404,BLIS
+2021-1794-MN-0,Mala,Frias ,Ancheta ,mafrias@iskolarngbayan.pup.edu.ph,F,2003-04-13,(0979) 1671920,PBDE
+2021-3893-MN-0,Ric,Miranda ,Arellano ,ramiranda@iskolarngbayan.pup.edu.ph,M,2003-02-20,(0978) 4965550,BTLEd-ICT
+2021-6671-MN-0,Imberly,Gómez ,Alejandro ,iagómez@iskolarngbayan.pup.edu.ph,M,2004-04-18,(0936) 3454909,BSOA
+2021-5291-MN-0,Roger,dela Rosa ,Collado ,rcdela rosa@iskolarngbayan.pup.edu.ph,F,2002-04-21,(0975) 8933734,BSENTREP
+2021-1262-MN-0,Froylan,Porras ,Fuentes ,ffporras@iskolarngbayan.pup.edu.ph,F,2003-08-27,(0926) 7119282,BPEA
+2021-0701-MN-0,Kaipo,Lozada ,Mohammad ,kmlozada@iskolarngbayan.pup.edu.ph,F,2004-07-31,(0915) 6027680,BACR
+2021-5413-MN-0,Mishell,Villena ,Tolentino ,mtvillena@iskolarngbayan.pup.edu.ph,F,2004-11-10,(0979) 5089632,PBDE
+2021-5002-MN-0,Rodrick,de Torres ,Ancheta ,rade torres@iskolarngbayan.pup.edu.ph,F,2004-02-01,(0999) 1643325,MAED-TCA
+2021-6539-MN-0,Sharnay,Panes ,Vidal ,svpanes@iskolarngbayan.pup.edu.ph,M,2004-10-28,(0976) 5688165,BSTM
+2021-5071-MN-0,Bridgett,Advíncula ,Arroyo ,baadvíncula@iskolarngbayan.pup.edu.ph,M,2003-08-22,(0937) 1277619,DEET
+2021-8709-MN-0,Amon,Porras ,Hilario ,ahporras@iskolarngbayan.pup.edu.ph,M,2002-02-13,(0954) 4271861,MLIS
+2021-1157-MN-0,Junita,Samonte ,Hernández ,jhsamonte@iskolarngbayan.pup.edu.ph,M,2004-08-07,(0997) 1717337,BAPE
+2021-6284-MN-0,Jeresa,Lee ,Go ,jglee@iskolarngbayan.pup.edu.ph,F,2003-05-05,(0974) 3622276,BSCS
+2021-7703-MN-0,Liseth,Manalo ,Delima ,ldmanalo@iskolarngbayan.pup.edu.ph,F,2003-10-28,(0955) 2440270,BADPR
+2021-9171-MN-0,Kallan,Chan ,Bustamante ,kbchan@iskolarngbayan.pup.edu.ph,M,2003-11-20,(0927) 3710931,DEET
+2021-2215-MN-0,Towanda,Manabat ,Florendo ,tfmanabat@iskolarngbayan.pup.edu.ph,F,2003-01-28,(0975) 3106417,DOMT
+2021-0791-MN-0,Camdon,Sales ,Montero ,cmsales@iskolarngbayan.pup.edu.ph,M,2003-12-12,(0905) 2233283,MPA
+2021-3946-MN-0,Kaylen,Mangubat ,Cabrera ,kcmangubat@iskolarngbayan.pup.edu.ph,M,2002-06-05,(0964) 6888080,MAEd-ME
+2021-4432-MN-0,Charmane,Ávila ,Tamayo ,ctávila@iskolarngbayan.pup.edu.ph,M,2002-04-29,(0999) 8010254,MAEd-ME
+2021-2030-MN-0,Twanna,Villareal ,Pérez ,tpvillareal@iskolarngbayan.pup.edu.ph,M,2004-07-18,(0945) 7344691,BSIT
+2021-1528-MN-0,Ronny,Dizon ,Dionisio ,rddizon@iskolarngbayan.pup.edu.ph,M,2002-01-31,(0963) 4027540,BSENTREP
+2021-6267-MN-0,Biran,Murillo ,Dy ,bdmurillo@iskolarngbayan.pup.edu.ph,F,2002-09-20,(0916) 9602886,DEM
+2021-9277-MN-0,Shannan,Meneses ,Romano ,srmeneses@iskolarngbayan.pup.edu.ph,F,2003-02-16,(0974) 2465121,BTLEd-IA
+2021-4356-MN-0,Yechezkel,Francisco ,Guevarra ,ygfrancisco@iskolarngbayan.pup.edu.ph,M,2004-02-19,(0963) 1951342,BSESS
+2021-0016-MN-0,Lacorey,Murillo ,Castañeda ,lcmurillo@iskolarngbayan.pup.edu.ph,M,2003-03-22,(0997) 9325462,MPES
+2021-7206-MN-0,Tasheena,Lozada ,Conde ,tclozada@iskolarngbayan.pup.edu.ph,M,2004-09-11,(0963) 6599858,MBA
+2021-6433-MN-0,Sabreen,Campos ,Fernando ,sfcampos@iskolarngbayan.pup.edu.ph,F,2002-12-09,(0978) 6215643,BAPE
+2021-0078-MN-0,Ethen,Cristóbal ,Rojas ,ercristóbal@iskolarngbayan.pup.edu.ph,M,2004-03-20,(0978) 5936787,BSCHEM
+2021-6998-MN-0,Lenard,Múñoz ,de Villa ,ldmúñoz@iskolarngbayan.pup.edu.ph,F,2002-09-14,(0997) 6836828,BEEd
+2021-4789-MN-0,Servando,Rodrigo ,Arceo ,sarodrigo@iskolarngbayan.pup.edu.ph,F,2004-03-11,(0936) 8502263,MLIS
+2021-6258-MN-0,Tacoya,Ancheta ,Pepito ,tpancheta@iskolarngbayan.pup.edu.ph,F,2004-01-21,(0964) 1335849,JD
+2021-7918-MN-0,Darus,Tenorio ,Solano ,dstenorio@iskolarngbayan.pup.edu.ph,F,2004-12-31,(0916) 2253606,BADPR
+2021-2314-MN-0,Cutter,de Chávez ,José ,cjde chávez@iskolarngbayan.pup.edu.ph,M,2003-10-17,(0975) 6661206,BSCHEM
+2021-7442-MN-0,Rebeca,Luna ,García ,rgluna@iskolarngbayan.pup.edu.ph,F,2004-10-28,(0935) 8342073,MAELT
+2021-3538-MN-0,Dawnell,Macaraeg ,San Pedro ,dsmacaraeg@iskolarngbayan.pup.edu.ph,F,2003-05-25,(0953) 5948588,BACR
+2021-5044-MN-0,Brina,Alegre ,Manalo ,bmalegre@iskolarngbayan.pup.edu.ph,M,2004-11-17,(0965) 8235241,BSTM
+2021-0490-MN-0,Canda,Imperial ,Cristóbal ,ccimperial@iskolarngbayan.pup.edu.ph,F,2004-07-02,(0997) 2101477,BSSTAT
+2021-3237-MN-0,Racine,Omar ,Ibrahim ,riomar@iskolarngbayan.pup.edu.ph,F,2003-12-11,(0915) 3066991,BSEP
+2021-5864-MN-0,Jeni,Pelayo ,Hernández ,jhpelayo@iskolarngbayan.pup.edu.ph,M,2002-05-06,(0964) 2116276,BSE
+2021-2990-MN-0,Anahita,Navarro ,Lacson ,alnavarro@iskolarngbayan.pup.edu.ph,F,2002-05-19,(0955) 7754211,BA Broadcasting
+2021-0398-MN-0,Deane,Villafuerte ,Tenorio ,dtvillafuerte@iskolarngbayan.pup.edu.ph,M,2002-09-11,(0977) 9206685,BSCE
+2021-8873-MN-0,Reiko,Rodríguez ,Soria ,rsrodríguez@iskolarngbayan.pup.edu.ph,F,2002-07-04,(0906) 5656654,BADPR
+2021-9723-MN-0,Jazman,Santos ,Manabat ,jmsantos@iskolarngbayan.pup.edu.ph,M,2003-12-21,(0974) 1640280,BSEE
+2021-2682-MN-0,Katerina,Manuel ,Moreno ,kmmanuel@iskolarngbayan.pup.edu.ph,F,2004-01-26,(0954) 5305069,BSAPMATH
+2021-4921-MN-0,Janiece,Carreón ,Lao ,jlcarreón@iskolarngbayan.pup.edu.ph,F,2003-06-21,(0998) 3929556,ABLCS
+2021-9030-MN-0,Nyle,Casas ,Meneses ,nmcasas@iskolarngbayan.pup.edu.ph,M,2003-01-15,(0927) 5020977,BPE
+2021-8702-MN-0,Taliah,Andrés ,Delima ,tdandrés@iskolarngbayan.pup.edu.ph,F,2004-04-23,(0915) 9419348,BAJ
+2021-4527-MN-0,Britany,Tamayo ,Torres ,bttamayo@iskolarngbayan.pup.edu.ph,F,2002-11-04,(0997) 3617368,DEM
+2021-6153-MN-0,Johnanna,de Vera ,Fernández ,jfde vera@iskolarngbayan.pup.edu.ph,F,2003-07-07,(0998) 1691217,DBA
+2021-1758-MN-0,Rahsaan,Bustamante ,del Mundo ,rdbustamante@iskolarngbayan.pup.edu.ph,F,2003-06-03,(0965) 6002333,BTLEd-ICT
+2021-4935-MN-0,Ennis,Ismael ,Bóndoc ,ebismael@iskolarngbayan.pup.edu.ph,F,2004-05-24,(0935) 6539728,ABLCS
+2021-6489-MN-0,Dianira,Valerio ,Bernardo ,dbvalerio@iskolarngbayan.pup.edu.ph,F,2004-10-04,(0975) 6188565,BAPE
+2021-5768-MN-0,Jonathandavid,Pancho ,Mójica ,jmpancho@iskolarngbayan.pup.edu.ph,M,2002-04-02,(0926) 5376838,BPEA
+2021-8745-MN-0,Davonne,Coronel ,Cariaga ,dccoronel@iskolarngbayan.pup.edu.ph,M,2002-12-31,(0977) 1220517,BAIS
+2021-0039-MN-0,Domineque,Acuña ,Meneses ,dmacuña@iskolarngbayan.pup.edu.ph,M,2002-08-31,(0974) 8836719,MPES
+2021-0857-MN-0,Ronalda,Solano ,Basco ,rbsolano@iskolarngbayan.pup.edu.ph,M,2002-10-20,(0976) 5473742,BSSTAT
+2021-1580-MN-0,Abena,Cariaga ,Porras ,apcariaga@iskolarngbayan.pup.edu.ph,M,2004-09-16,(0945) 7156641,BSCpE
+2021-7765-MN-0,Hollylynn,Benito ,Tolentino ,htbenito@iskolarngbayan.pup.edu.ph,M,2003-06-19,(0977) 7444628,BSECE
+2021-6966-MN-0,Zeno,de Ocampo ,Toledo ,ztde ocampo@iskolarngbayan.pup.edu.ph,F,2004-01-21,(0964) 9781450,MBA
+2021-3669-MN-0,Arpan,de los Santos ,Ventura ,avde los santos@iskolarngbayan.pup.edu.ph,M,2002-12-22,(0964) 8519530,BSEd-MATH
+2021-5971-MN-0,Pinchas,Alfonso ,Castañeda ,pcalfonso@iskolarngbayan.pup.edu.ph,M,2003-08-31,(0953) 3795366,BSND
+2021-8040-MN-0,Michole,Crisóstomo ,Paredes ,mpcrisóstomo@iskolarngbayan.pup.edu.ph,M,2003-06-21,(0998) 9321742,DMET
+2021-2501-MN-0,Cameron,Juan ,Yu ,cyjuan@iskolarngbayan.pup.edu.ph,F,2004-04-25,(0955) 2504546,BTLEd-HE
+2021-1801-MN-0,Johanthan,Punzalán ,Briones ,jbpunzalán@iskolarngbayan.pup.edu.ph,M,2004-11-03,(0963) 4901311,BSID
+2021-4793-MN-0,Rickey,Cano ,Manzano ,rmcano@iskolarngbayan.pup.edu.ph,F,2004-01-19,(0964) 4948400,BSE
+2021-5627-MN-0,Daron,Blanco ,Sotto ,dsblanco@iskolarngbayan.pup.edu.ph,M,2004-11-15,(0999) 2715632,BSPSY
+2021-3995-MN-0,Master,Calma ,Ruiz ,mrcalma@iskolarngbayan.pup.edu.ph,F,2003-05-20,(0915) 6893871,MEM-IL
+2021-7734-MN-0,Jaclin,Policarpio ,Magpantay ,jmpolicarpio@iskolarngbayan.pup.edu.ph,M,2004-07-20,(0935) 1650155,BAJ
+2021-2516-MN-0,Lary,Borja ,Ponce ,lpborja@iskolarngbayan.pup.edu.ph,M,2003-06-02,(0964) 4260736,BSBAHRM
+2021-9555-MN-0,Kaitrin,Cariaga ,Gatchalián ,kgcariaga@iskolarngbayan.pup.edu.ph,F,2003-06-19,(0997) 3471256,BSEd-ENG
+2021-9570-MN-0,Lalita,Rivera ,Basa ,lbrivera@iskolarngbayan.pup.edu.ph,F,2004-12-30,(0945) 3924759,MPES
+2021-7225-MN-0,Kryste,Sotto ,Velasco ,kvsotto@iskolarngbayan.pup.edu.ph,M,2004-05-08,(0905) 7615983,MEM-EL
+2021-2344-MN-0,Serrina,Mahusay ,Punzalán ,spmahusay@iskolarngbayan.pup.edu.ph,F,2002-06-23,(0965) 8444510,BSID
+2021-9675-MN-0,Yahya,Santos ,Cordero ,ycsantos@iskolarngbayan.pup.edu.ph,F,2003-10-21,(0915) 1318824,BSEd-ENG
+2021-4780-MN-0,Katina,Arevalo ,Gálvez ,kgarevalo@iskolarngbayan.pup.edu.ph,M,2003-09-16,(0963) 3718084,BSFT
+2021-7763-MN-0,Avia,Alfonso ,San Pedro ,asalfonso@iskolarngbayan.pup.edu.ph,F,2003-06-09,(0974) 3413219,BSMA
+2021-2935-MN-0,Alvaro,Viernes ,Fuentes ,afviernes@iskolarngbayan.pup.edu.ph,F,2002-10-01,(0979) 3544303,DCET
+2021-7398-MN-0,Kierston,Castillo ,Marcos ,kmcastillo@iskolarngbayan.pup.edu.ph,F,2003-03-25,(0915) 7369417,BSA
+2021-2984-MN-0,Bowen,Castro,Borja ,bbcastro@iskolarngbayan.pup.edu.ph,F,2004-10-17,(0915) 2098667,BEEd
+2021-8728-MN-0,Shaelyn,Teves ,Alfaro ,sateves@iskolarngbayan.pup.edu.ph,F,2002-01-06,(0999) 6476012,MAELT
+2021-8345-MN-0,Fallen,Mayo ,Carandáng ,fcmayo@iskolarngbayan.pup.edu.ph,M,2002-03-07,(0997) 3105431,BSIE
+2021-2595-MN-0,Spenser,Bóndoc ,Arceo ,sabóndoc@iskolarngbayan.pup.edu.ph,M,2003-10-19,(0963) 5319502,BSBIO
+2021-6586-MN-0,Vallerie,Dizon ,Villar ,vvdizon@iskolarngbayan.pup.edu.ph,M,2002-11-12,(0955) 1394329,BSPSY
+2021-8478-MN-0,Isha,Martínez ,Chan ,icmartínez@iskolarngbayan.pup.edu.ph,M,2004-02-24,(0998) 6053639,BSEE
+2021-4038-MN-0,Courey,Bermúdez ,Sunga ,csbermúdez@iskolarngbayan.pup.edu.ph,F,2004-07-01,(0955) 1022415,BSCE
+2021-5708-MN-0,Josianne,Encarnación ,Panganiban ,jpencarnación@iskolarngbayan.pup.edu.ph,F,2002-09-17,(0955) 3539533,BAS
+2021-5920-MN-0,Eizabeth,Andrade ,Barrios ,ebandrade@iskolarngbayan.pup.edu.ph,M,2002-09-11,(0915) 8191136,BSC
+2021-7569-MN-0,Christain,dela Peña ,Crisóstomo ,ccdela peña@iskolarngbayan.pup.edu.ph,F,2003-02-14,(0955) 8552987,BSECE
+2021-7318-MN-0,Xylina,Cariño ,Villamor ,xvcariño@iskolarngbayan.pup.edu.ph,M,2004-11-22,(0977) 6225236,BSEd-FIL
+2021-3673-MN-0,Lataya,Patricio ,Barrios ,lbpatricio@iskolarngbayan.pup.edu.ph,F,2002-10-11,(0976) 3092070,BAJ
+2021-4753-MN-0,Audrina,Bustamante ,Guevarra ,agbustamante@iskolarngbayan.pup.edu.ph,M,2003-07-24,(0945) 7496533,DBA
+2021-2819-MN-0,Earnestine,Ibrahim ,Fernando ,efibrahim@iskolarngbayan.pup.edu.ph,M,2003-11-28,(0998) 5937032,DPA
+2021-6521-MN-0,Zeus,Sotto ,Padua ,zpsotto@iskolarngbayan.pup.edu.ph,M,2002-08-17,(0998) 3991893,AB-PHILO
+2021-5700-MN-0,Toneka,Verano ,Salonga ,tsverano@iskolarngbayan.pup.edu.ph,F,2004-07-22,(0935) 7620082,BSE
+2021-8409-MN-0,Priti,Aguinaldo ,Tolentino ,ptaguinaldo@iskolarngbayan.pup.edu.ph,F,2004-03-14,(0974) 5264000,BTLEd-HE
+2021-0946-MN-0,Telisha,Centeno ,Calma ,tccenteno@iskolarngbayan.pup.edu.ph,M,2002-11-03,(0906) 1642850,DEET
+2021-2145-MN-0,Yetunde,de los Santos ,Andal ,yade los santos@iskolarngbayan.pup.edu.ph,M,2004-06-29,(0975) 7792876,ABLCS
+2021-1993-MN-0,Anas,Rodríguez ,Bermúdez ,abrodríguez@iskolarngbayan.pup.edu.ph,M,2003-01-31,(0935) 1655105,BLIS
+2021-8049-MN-0,Cruz,Policarpio ,Benito ,cbpolicarpio@iskolarngbayan.pup.edu.ph,F,2003-08-30,(0999) 3423006,BSBAHRM
+2021-4201-MN-0,Saroun,Calma ,Basilio ,sbcalma@iskolarngbayan.pup.edu.ph,M,2002-06-15,(0916) 5639513,BSBAHRM
+2021-0341-MN-0,Labrian,Cañete ,Canlas ,lccañete@iskolarngbayan.pup.edu.ph,M,2002-06-07,(0974) 4387558,BAIS
+2021-8229-MN-0,Thelma,Uy ,Villafuerte ,tvuy@iskolarngbayan.pup.edu.ph,F,2002-01-31,(0927) 2031563,BSMA
+2021-5404-MN-0,January,Ramírez ,Villar ,jvramírez@iskolarngbayan.pup.edu.ph,F,2003-06-11,(0997) 7632459,BSEd-MATH
+2021-2361-MN-0,Paola,Rosales ,Padua ,pprosales@iskolarngbayan.pup.edu.ph,M,2002-01-12,(0997) 4295714,MBA
+2021-7200-MN-0,Shani,Concepción ,Laurente ,slconcepción@iskolarngbayan.pup.edu.ph,M,2003-06-29,(0936) 3733119,BPE
+2021-0937-MN-0,Adler,Pascual ,Gamboa ,agpascual@iskolarngbayan.pup.edu.ph,M,2002-08-19,(0998) 2320342,BSBAHRM
+2021-2701-MN-0,Mattison,Padilla ,Villarín ,mvpadilla@iskolarngbayan.pup.edu.ph,F,2004-04-07,(0978) 3750641,BSCpE
+2021-0816-MN-0,Ramar,Estrada ,dela Cruz ,rdestrada@iskolarngbayan.pup.edu.ph,F,2003-11-29,(0974) 4742698,BSAPMATH
+2021-8992-MN-0,Rhesa,Saysón ,Reyes ,rrsaysón@iskolarngbayan.pup.edu.ph,F,2003-05-18,(0927) 9580777,BSCE
+2021-4510-MN-0,Kelvin,Asis ,Rubio ,krasis@iskolarngbayan.pup.edu.ph,M,2004-11-14,(0977) 4008344,BSHM
+2021-9337-MN-0,Kellymarie,Sultan ,de Villa ,kdsultan@iskolarngbayan.pup.edu.ph,M,2004-12-01,(0955) 5614537,BTLEd-IA
+2021-5148-MN-0,Aaryn,Chua ,Tolentino ,atchua@iskolarngbayan.pup.edu.ph,F,2002-01-22,(0998) 1200444,BSMA
+2021-6397-MN-0,Callista,Dionisio ,Santiago ,csdionisio@iskolarngbayan.pup.edu.ph,M,2003-02-28,(0973) 5743428,BAIS
+2021-0853-MN-0,Irving,Malabanan ,Santiago ,ismalabanan@iskolarngbayan.pup.edu.ph,M,2004-05-31,(0973) 7994903,MAED-TCA
+2021-6437-MN-0,Daymond,Advíncula ,Ferrer ,dfadvíncula@iskolarngbayan.pup.edu.ph,F,2003-01-29,(0978) 1256195,BSOA
+2021-2607-MN-0,Dustine,Hilario ,Borromeo ,dbhilario@iskolarngbayan.pup.edu.ph,F,2004-12-17,(0953) 6901408,DPA
+2021-5881-MN-0,Dushawn,Alonzo ,Cariaga ,dcalonzo@iskolarngbayan.pup.edu.ph,F,2002-08-02,(0974) 8777050,BS-ARCH
+2021-3890-MN-0,Brittain,Amante ,de Luna ,bdamante@iskolarngbayan.pup.edu.ph,M,2002-11-04,(0975) 9125284,MEM-IL
+2021-7309-MN-0,Tierra,Dimaano ,Donato ,tddimaano@iskolarngbayan.pup.edu.ph,M,2002-11-12,(0926) 2345207,BEEd
+2021-8497-MN-0,Bassem,Vidal ,Gómez ,bgvidal@iskolarngbayan.pup.edu.ph,F,2004-03-10,(0964) 7066510,BS-ARCH
+2021-3969-MN-0,Olando,Collado ,Julián ,ojcollado@iskolarngbayan.pup.edu.ph,M,2004-06-15,(0998) 8761890,BSOA
+2021-8111-MN-0,Benjaman,Ferrer ,Sotto ,bsferrer@iskolarngbayan.pup.edu.ph,M,2003-05-24,(0905) 4907793,PBDE
+2021-6982-MN-0,Dawana,Calma ,Figueroa ,dfcalma@iskolarngbayan.pup.edu.ph,F,2002-10-16,(0936) 5249910,BS-ARCH
+2021-0159-MN-0,Treyvon,Silvestre ,Gonzaga ,tgsilvestre@iskolarngbayan.pup.edu.ph,F,2004-02-05,(0935) 6574567,DICT
+2021-9954-MN-0,Erlinda,Delgado ,Sarmiento ,esdelgado@iskolarngbayan.pup.edu.ph,M,2003-06-28,(0926) 5808445,BAPS
+2021-6442-MN-0,Oluwakemi,Tuazon ,Paredes ,optuazon@iskolarngbayan.pup.edu.ph,F,2004-08-10,(0935) 7917643,BA Broadcasting
+2021-4298-MN-0,Raffael,Espíritu ,Samonte ,rsespíritu@iskolarngbayan.pup.edu.ph,F,2002-07-07,(0974) 6633584,BPA
+2021-5023-MN-0,Sherece,Dizon ,Rosario ,srdizon@iskolarngbayan.pup.edu.ph,F,2003-11-26,(0916) 3519465,MLIS
+2021-9474-MN-0,Derek,de Vera ,Amante ,dade vera@iskolarngbayan.pup.edu.ph,F,2004-09-15,(0975) 1949154,BECEd
+2021-1842-MN-0,Atiba,de León ,Cortés ,acde león@iskolarngbayan.pup.edu.ph,F,2004-11-22,(0935) 1182182,BAJ
+2021-1838-MN-0,Kaeleigh,Asunción ,Villamor ,kvasunción@iskolarngbayan.pup.edu.ph,F,2003-10-26,(0916) 6081257,DEM
+2021-4444-MN-0,Chivonne,Marcelo ,Bernal ,cbmarcelo@iskolarngbayan.pup.edu.ph,M,2003-05-03,(0915) 4835419,BAS
+2021-6686-MN-0,Adrielle,Buenaventura ,Tecson ,atbuenaventura@iskolarngbayan.pup.edu.ph,M,2003-03-10,(0965) 9593719,BSHM
+2021-5567-MN-0,Collis,Salonga ,Suárez ,cssalonga@iskolarngbayan.pup.edu.ph,M,2004-04-26,(0906) 2118599,BSCS
+2021-0088-MN-0,Ameen,Saysón ,Romano ,arsaysón@iskolarngbayan.pup.edu.ph,M,2002-02-02,(0936) 3143971,BSBAFM
+2021-5601-MN-0,Janay,Díaz ,Soria ,jsdíaz@iskolarngbayan.pup.edu.ph,M,2004-09-22,(0973) 9521149,BTLEd-ICT
+2021-0799-MN-0,Tajuan,David ,Saavedra ,tsdavid@iskolarngbayan.pup.edu.ph,M,2002-12-09,(0965) 9685875,BSEd-FIL
+2021-3665-MN-0,Shailyn,Ariola ,Billones ,sbariola@iskolarngbayan.pup.edu.ph,M,2003-02-03,(0977) 6292588,BSAPMATH
+2021-8333-MN-0,Carlen,Apostol ,López ,clapostol@iskolarngbayan.pup.edu.ph,F,2004-08-15,(0979) 1000193,AB-PHILO
+2021-9088-MN-0,Brianne,Trinidad ,Aragón ,batrinidad@iskolarngbayan.pup.edu.ph,F,2002-09-13,(0964) 2317701,PBDE
+2021-2527-MN-0,Halena,Mangubat ,Mejía ,hmmangubat@iskolarngbayan.pup.edu.ph,M,2002-09-09,(0954) 8474278,BSCpE
+2021-5625-MN-0,Malka,Lázaro ,Castor ,mclázaro@iskolarngbayan.pup.edu.ph,M,2003-01-18,(0926) 2809398,BSSTAT
+2021-5997-MN-0,Betsy,Pineda ,Santos ,bspineda@iskolarngbayan.pup.edu.ph,M,2004-09-16,(0927) 3118659,BSBIO
+2021-0839-MN-0,Alexsander,Guzmán ,Delfín ,adguzmán@iskolarngbayan.pup.edu.ph,M,2003-07-01,(0936) 6945798,DECET
+2021-1449-MN-0,Hanifah,Acuña ,Marcelino ,hmacuña@iskolarngbayan.pup.edu.ph,M,2004-01-21,(0915) 4606016,BSC
+2021-2786-MN-0,Lamel,Estrada ,Guevarra ,lgestrada@iskolarngbayan.pup.edu.ph,F,2004-08-05,(0906) 2829565,BSTM
+2021-0689-MN-0,Stephonie,Sy ,Nolasco ,snsy@iskolarngbayan.pup.edu.ph,M,2003-09-03,(0927) 8428292,BSBAFM
+2021-0955-MN-0,Curits,Vega ,de Jesús ,cdvega@iskolarngbayan.pup.edu.ph,F,2002-08-03,(0936) 9256222,BAIS
+2021-7726-MN-0,Tashelle,Mahusay ,Policarpio ,tpmahusay@iskolarngbayan.pup.edu.ph,F,2002-01-04,(0915) 8099280,BSEd-ENG
+2021-7880-MN-0,Tyne,Guinto ,Morales ,tmguinto@iskolarngbayan.pup.edu.ph,M,2004-07-20,(0975) 3745689,BSESS
+2021-4084-MN-0,Christene,Labrador ,Manuel ,cmlabrador@iskolarngbayan.pup.edu.ph,F,2003-03-08,(0926) 4636580,ABF
+2021-4889-MN-0,Latarsha,Luna ,Castor ,lcluna@iskolarngbayan.pup.edu.ph,F,2002-05-14,(0917) 2091314,BSTRM
+2021-2734-MN-0,Arsenio,Carreón ,Ledesma ,alcarreón@iskolarngbayan.pup.edu.ph,F,2002-07-18,(0979) 7615106,BSMATH
+2021-7311-MN-0,Laretha,Pineda ,Trinidad ,ltpineda@iskolarngbayan.pup.edu.ph,M,2002-11-14,(0935) 3821569,MBE
+2021-6250-MN-0,Jaycob,Cariaga ,Romano ,jrcariaga@iskolarngbayan.pup.edu.ph,F,2002-07-01,(0937) 6395674,BSCHEM
+2021-5855-MN-0,Carolee,Bravo ,Benito ,cbbravo@iskolarngbayan.pup.edu.ph,F,2003-12-27,(0937) 5797056,MAELT
+2021-0551-MN-0,Taesha,Mójica ,Tobias ,ttmójica@iskolarngbayan.pup.edu.ph,F,2003-01-22,(0998) 9279103,DMET
+2021-9033-MN-0,Lavarr,Delima ,Mójica ,lmdelima@iskolarngbayan.pup.edu.ph,F,2004-08-16,(0965) 2239585,BAPE
+2021-4523-MN-0,Laportia,del Mundo ,Osorio ,lodel mundo@iskolarngbayan.pup.edu.ph,F,2002-11-19,(0973) 1293370,BSND
+2021-9005-MN-0,Juline,Raymundo ,Plaza ,jpraymundo@iskolarngbayan.pup.edu.ph,M,2002-11-16,(0916) 6245379,DCET
+2021-6228-MN-0,Keyra,Legaspi ,Valenzuela ,kvlegaspi@iskolarngbayan.pup.edu.ph,M,2002-08-14,(0974) 3954706,BSOA
+2021-5100-MN-0,Jefferey,Angeles ,Cabrera ,jcangeles@iskolarngbayan.pup.edu.ph,F,2002-06-24,(0964) 5709497,BPA
+2021-2715-MN-0,Kalib,Pineda ,Apostol ,kapineda@iskolarngbayan.pup.edu.ph,M,2004-01-23,(0954) 5578288,BSCHEM
+2021-2748-MN-0,Eliu,Maranan ,Martín ,emmaranan@iskolarngbayan.pup.edu.ph,M,2004-04-06,(0974) 4485649,BSEd-SS
+2021-4632-MN-0,Britnee,Silva ,dela Peña ,bdsilva@iskolarngbayan.pup.edu.ph,M,2002-07-07,(0979) 8857899,DECET
+2021-1315-MN-0,Estephanie,Manlangit ,Punzalán ,epmanlangit@iskolarngbayan.pup.edu.ph,M,2002-06-30,(0915) 8695378,BAJ
+2021-1095-MN-0,Lesly,Buenaventura ,Mejía ,lmbuenaventura@iskolarngbayan.pup.edu.ph,F,2004-10-22,(0953) 4743497,AB-PHILO
+2021-0170-MN-0,Irish,Barrios ,Magno ,imbarrios@iskolarngbayan.pup.edu.ph,M,2004-08-08,(0935) 2786411,BLIS
+2021-4324-MN-0,Meaghann,Ramos ,Andaya ,maramos@iskolarngbayan.pup.edu.ph,F,2003-04-27,(0978) 4625513,MPES
+2021-4094-MN-0,Mehmet,Lázaro ,Esteban ,melázaro@iskolarngbayan.pup.edu.ph,F,2002-08-23,(0998) 3242842,BSPHY
+2021-0561-MN-0,Vaness,Montero ,Arevalo ,vamontero@iskolarngbayan.pup.edu.ph,M,2002-08-16,(0998) 7181814,BSBAFM
+2021-5007-MN-0,Tacy,Neri ,Gabriel ,tgneri@iskolarngbayan.pup.edu.ph,F,2003-11-21,(0936) 9361814,BSRE
+2021-2078-MN-0,Annaalicia,Domingo ,Rosal ,ardomingo@iskolarngbayan.pup.edu.ph,F,2003-11-26,(0937) 6667830,MBA
+2021-4004-MN-0,Jeorge,Feliciano ,Castillo ,jcfeliciano@iskolarngbayan.pup.edu.ph,M,2004-08-06,(0905) 1396737,DEM
+2021-9475-MN-0,Claudy,Bernardo ,Gallego ,cgbernardo@iskolarngbayan.pup.edu.ph,F,2004-07-21,(0978) 6320970,BSCpE
+2021-9339-MN-0,Alaena,Agustín ,Bacus ,abagustín@iskolarngbayan.pup.edu.ph,M,2002-10-24,(0999) 5387780,BTLEd-ICT
+2021-7230-MN-0,Falan,Recto ,Magsino ,fmrecto@iskolarngbayan.pup.edu.ph,M,2003-03-22,(0977) 3232513,BADPR
+2021-0109-MN-0,Kylah,Malabanan ,Miguel ,kmmalabanan@iskolarngbayan.pup.edu.ph,M,2003-12-13,(0936) 8966488,BSCpE
+2021-2324-MN-0,Lauraann,Ramos ,Magbanua ,lmramos@iskolarngbayan.pup.edu.ph,M,2002-07-30,(0937) 3419378,DMET
+2021-8432-MN-0,Vasiliki,Durán ,Blanco ,vbdurán@iskolarngbayan.pup.edu.ph,M,2003-03-03,(0945) 4913688,BPE
+2021-0549-MN-0,Dove,Aguinaldo ,de León ,ddaguinaldo@iskolarngbayan.pup.edu.ph,M,2004-03-19,(0945) 2628969,PBDE
+2021-5715-MN-0,Terasha,Blanco ,Pineda ,tpblanco@iskolarngbayan.pup.edu.ph,M,2004-01-02,(0937) 6152029,BSC
+2021-1259-MN-0,Mariaisabel,Espíritu ,Canoy ,mcespíritu@iskolarngbayan.pup.edu.ph,M,2004-04-12,(0998) 4237845,DEM
+2021-6491-MN-0,Samory,Arellano ,Aquino,saarellano@iskolarngbayan.pup.edu.ph,F,2004-01-27,(0953) 4439725,BSCpE
+2021-6917-MN-0,Danny,Mahinay ,Andrés ,damahinay@iskolarngbayan.pup.edu.ph,F,2003-10-01,(0916) 8296098,BSOA
+2021-4228-MN-0,Islam,Robles ,Florendo ,ifrobles@iskolarngbayan.pup.edu.ph,F,2002-01-20,(0953) 1068627,BAIS
+2021-5390-MN-0,Cyrene,Morales ,Ledesma ,clmorales@iskolarngbayan.pup.edu.ph,F,2004-02-08,(0964) 8080023,MAELT
+2021-9560-MN-0,Loribeth,Cunanan ,Camacho ,lccunanan@iskolarngbayan.pup.edu.ph,F,2002-12-23,(0915) 7631112,BEEd
+2021-3546-MN-0,Hina,Murillo ,Pancho ,hpmurillo@iskolarngbayan.pup.edu.ph,M,2003-11-27,(0997) 7602822,DICT
+2021-1971-MN-0,Dagmar,Montero ,Geronimo ,dgmontero@iskolarngbayan.pup.edu.ph,F,2004-01-18,(0997) 1935174,BAIS
+2021-2688-MN-0,Silvestre,Bartolomé ,Ballesteros ,sbbartolomé@iskolarngbayan.pup.edu.ph,F,2003-11-20,(0998) 6904265,BSA
+2021-9718-MN-0,Rafe,Teves ,Guillermo ,rgteves@iskolarngbayan.pup.edu.ph,F,2002-07-23,(0997) 4668054,DICT
+2021-9315-MN-0,Antonieta,Torres ,Ortiz ,aotorres@iskolarngbayan.pup.edu.ph,F,2004-12-14,(0953) 5360033,BEEd
+2021-9229-MN-0,Cristal,Ali ,Rodrigo ,crali@iskolarngbayan.pup.edu.ph,F,2002-11-09,(0935) 1457649,BAIS
+2021-1083-MN-0,Janise,Velasco ,Matiás ,jmvelasco@iskolarngbayan.pup.edu.ph,F,2004-04-20,(0999) 2032333,AB-PHILO
+2021-7159-MN-0,Ambur,Alfonso ,Asunción ,aaalfonso@iskolarngbayan.pup.edu.ph,M,2003-09-21,(0975) 1284725,DOMT
+2021-5933-MN-0,Noella,Delima ,de Jesús ,nddelima@iskolarngbayan.pup.edu.ph,F,2004-04-13,(0917) 5777379,DBA
+2021-9406-MN-0,Tabbitha,Cristóbal ,Bonifacio ,tbcristóbal@iskolarngbayan.pup.edu.ph,F,2002-04-04,(0935) 1324030,BSEP
+2021-5436-MN-0,Jordie,Porras ,Suárez ,jsporras@iskolarngbayan.pup.edu.ph,F,2004-09-30,(0955) 2488325,BAPS
+2021-5231-MN-0,Jenilyn,Alegre ,Sevilla ,jsalegre@iskolarngbayan.pup.edu.ph,F,2003-10-18,(0997) 3812189,BSCE
+2021-8260-MN-0,Sherod,Adriano ,David ,sdadriano@iskolarngbayan.pup.edu.ph,F,2003-06-12,(0917) 6422380,BSECE
+2021-5677-MN-0,Mareo,Prado ,Narciso ,mnprado@iskolarngbayan.pup.edu.ph,M,2003-07-13,(0974) 7384580,MBA
+2021-9950-MN-0,Kitt,Mina ,Hilario ,khmina@iskolarngbayan.pup.edu.ph,M,2003-12-07,(0997) 2042325,DPA
+2021-8908-MN-0,Jerson,Romano ,Castro,jcromano@iskolarngbayan.pup.edu.ph,F,2003-12-17,(0964) 2559191,MEM-EL
+2021-0120-MN-0,Traven,Mendiola ,Pancho ,tpmendiola@iskolarngbayan.pup.edu.ph,M,2002-02-10,(0976) 7384505,BSBA-MM
+2021-5883-MN-0,Duke,Paredes ,Ignacio ,diparedes@iskolarngbayan.pup.edu.ph,M,2003-06-30,(0916) 4303535,BSPSY
+2021-2142-MN-0,Sherika,Catalán ,Bermúdez ,sbcatalán@iskolarngbayan.pup.edu.ph,F,2003-11-02,(0915) 7317046,ABF
+2021-0408-MN-0,Emigdio,Lachica ,Regalado ,erlachica@iskolarngbayan.pup.edu.ph,F,2002-10-25,(0945) 2705367,BSRE
+2021-9625-MN-0,Quinetta,Ramírez ,Ábalos ,qáramírez@iskolarngbayan.pup.edu.ph,M,2004-03-12,(0926) 5422449,PBDE
+2021-0890-MN-0,Ziad,Solomón ,Soria ,zssolomón@iskolarngbayan.pup.edu.ph,F,2002-08-02,(0998) 4997708,BSRE
+2021-7761-MN-0,Deondria,Marquez ,Malinao ,dmmarquez@iskolarngbayan.pup.edu.ph,F,2004-04-01,(0975) 7440867,MLIS
+2021-0776-MN-0,Damen,Guevarra ,Cañete ,dcguevarra@iskolarngbayan.pup.edu.ph,M,2004-01-17,(0926) 5734068,DMET
+2021-7376-MN-0,Ramonia,Bravo ,Dimaano ,rdbravo@iskolarngbayan.pup.edu.ph,F,2002-02-18,(0965) 8522696,BEEd
+2021-2053-MN-0,Meigan,Estrella ,Catalán ,mcestrella@iskolarngbayan.pup.edu.ph,M,2004-01-11,(0997) 6809853,DEET
+2021-3240-MN-0,Jonthan,de Villa ,Baguio ,jbde villa@iskolarngbayan.pup.edu.ph,M,2002-02-03,(0915) 4036674,BSE
+2021-7386-MN-0,Chandler,Quiñones ,Basilio ,cbquiñones@iskolarngbayan.pup.edu.ph,F,2003-06-25,(0978) 6115201,BTLEd-ICT
+2021-9592-MN-0,Brody,David ,Bermúdez ,bbdavid@iskolarngbayan.pup.edu.ph,F,2004-11-29,(0997) 4785586,MPA
+2021-3469-MN-0,Abigal,Alvarado ,Castro,acalvarado@iskolarngbayan.pup.edu.ph,M,2004-05-16,(0998) 2184173,DECET
+2021-8093-MN-0,Tania,Mahinay ,Labrador ,tlmahinay@iskolarngbayan.pup.edu.ph,M,2002-01-24,(0976) 5543893,BSMA
+2021-0348-MN-0,Alxis,Zabala ,Paglinawan ,apzabala@iskolarngbayan.pup.edu.ph,F,2003-03-03,(0997) 2627254,BSCpE
+2021-5006-MN-0,Reannon,Punzalán ,Pangilinan ,rppunzalán@iskolarngbayan.pup.edu.ph,M,2003-08-11,(0945) 3626344,MAEd-ME
+2021-9497-MN-0,Patrick,García ,Rivas ,prgarcía@iskolarngbayan.pup.edu.ph,F,2002-03-03,(0975) 5825972,BSPSY
+2021-6318-MN-0,Chrishanna,Alvarado ,Ortega ,coalvarado@iskolarngbayan.pup.edu.ph,F,2004-06-06,(0964) 3064522,BSENTREP
+2021-0123-MN-0,Vartan,Tamayo ,Montes ,vmtamayo@iskolarngbayan.pup.edu.ph,F,2002-05-09,(0937) 9615169,BAJ
+2021-6995-MN-0,Melina,Gregorio ,Sali ,msgregorio@iskolarngbayan.pup.edu.ph,F,2002-05-16,(0945) 5536882,BSEE
+2021-2402-MN-0,Atisha,Velasco ,Pineda ,apvelasco@iskolarngbayan.pup.edu.ph,M,2002-11-24,(0917) 6075496,BTLEd-ICT
+2021-8163-MN-0,Laure,dela Rosa ,de Torres ,lddela rosa@iskolarngbayan.pup.edu.ph,M,2003-07-04,(0974) 9773882,BAIS
+2021-7945-MN-0,Vick,Ballesteros ,Magno ,vmballesteros@iskolarngbayan.pup.edu.ph,M,2003-04-09,(0998) 5776681,BSPHY
+2021-2442-MN-0,Sheetal,Padilla ,Mateo ,smpadilla@iskolarngbayan.pup.edu.ph,F,2003-05-22,(0965) 8129429,BAH
+2021-4794-MN-0,Johnika,Casas ,Toledo ,jtcasas@iskolarngbayan.pup.edu.ph,M,2004-11-04,(0937) 6948074,BSME
+2021-2742-MN-0,Jamell,Saavedra ,Magsino ,jmsaavedra@iskolarngbayan.pup.edu.ph,M,2004-04-21,(0964) 4615113,BSBIO
+2021-6202-MN-0,Annita,de Castro ,Uy ,aude castro@iskolarngbayan.pup.edu.ph,F,2003-08-12,(0978) 5277218,BSIE
+2021-8658-MN-0,Mackenzi,Alarcón ,Ong ,moalarcón@iskolarngbayan.pup.edu.ph,F,2004-10-25,(0997) 5717968,AB-PHILO
+2021-0096-MN-0,Ristin,Abas ,Vásquez ,rvabas@iskolarngbayan.pup.edu.ph,M,2003-08-22,(0978) 9766635,ABLCS
+2021-9460-MN-0,Enrico,San Juan ,Aguilar ,easan juan@iskolarngbayan.pup.edu.ph,M,2002-10-10,(0973) 1039976,MBE
+2021-6593-MN-0,Astra,Arceo ,Ilagan ,aiarceo@iskolarngbayan.pup.edu.ph,M,2002-10-21,(0936) 4967711,BSEd-ENG
+2021-7144-MN-0,Giselle,Fernández ,Uy ,gufernández@iskolarngbayan.pup.edu.ph,M,2004-05-17,(0975) 2552884,MPA
+2021-9252-MN-0,Liela,Galang ,Ocampo ,logalang@iskolarngbayan.pup.edu.ph,F,2003-10-05,(0998) 2137946,BSCS
+2021-2753-MN-0,Latrese,Alejandro ,Arevalo ,laalejandro@iskolarngbayan.pup.edu.ph,F,2002-10-07,(0937) 5997938,BSESS
+2021-9535-MN-0,Damorris,Múñoz ,Asunción ,damúñoz@iskolarngbayan.pup.edu.ph,M,2003-11-25,(0936) 1224282,BSCpE
+2021-6766-MN-0,Cydnee,Cristóbal ,de Guzmán ,cdcristóbal@iskolarngbayan.pup.edu.ph,M,2002-02-24,(0937) 4483594,BSBA-MM
+2021-3516-MN-0,Coulter,Centeno ,Rosario ,crcenteno@iskolarngbayan.pup.edu.ph,F,2004-01-25,(0964) 2678321,DEET
+2021-1489-MN-0,Michaelene,Cordero ,Paz ,mpcordero@iskolarngbayan.pup.edu.ph,F,2002-04-25,(0935) 7902058,BSESS
+2021-7388-MN-0,Layla,Carpio ,Ancheta ,lacarpio@iskolarngbayan.pup.edu.ph,F,2003-06-09,(0945) 4006459,JD
+2021-0906-MN-0,Treyvon,Arcilla ,dela Vega ,tdarcilla@iskolarngbayan.pup.edu.ph,M,2004-02-08,(0917) 6135126,BSPSY
+2021-6806-MN-0,Krissa,Marquez ,de Guzmán ,kdmarquez@iskolarngbayan.pup.edu.ph,F,2004-09-18,(0905) 9418769,BSRE

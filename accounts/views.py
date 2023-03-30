@@ -6,6 +6,7 @@ from rest_framework.permissions import AllowAny
 from accounts.serializers import LoginSerializer
 from django.contrib.auth.hashers import check_password
 from django.contrib.auth import update_session_auth_hash
+from django.http import HttpResponse
 from accounts.serializers import UserNameSerializer
 from accounts.models import Student
 from school.models import StudentProfile
@@ -83,12 +84,30 @@ class InsertUsers(APIView):
         file = request.FILES['file']
         data = self.process_file(file)
 
-        self.to_mail = []
-        
-        self.insert_data(data)
+        to_mail = self.insert_data(data)
+        response = self.generate_csv_response(to_mail)        
+        print(response)
+        print(to_mail[0])
 
-        return Response({"succes":"users are added"})
-    
+        return response
+
+    def generate_csv_response(self, to_mail):
+        response = HttpResponse(content_type='text/csv')
+        response['Content-Disposition'] = 'attachment; filename="export.csv"'
+
+        # Define the CSV writer with the same keys as the dictionaries
+        fieldnames = to_mail[0].keys()
+        writer = csv.DictWriter(response, fieldnames=fieldnames)
+        
+        # Write the header row to the CSV file
+        writer.writeheader()
+        
+        # Write each dictionary as a row to the CSV file
+        for row in to_mail:
+            writer.writerow(row)
+
+        return response
+
     def process_file(self, file):
         reader = csv.DictReader(file.read().decode('latin-1').splitlines())
 
@@ -97,16 +116,24 @@ class InsertUsers(APIView):
         return data
     
     def insert_data(self, data):
-        example_student = data[0]
-        department = example_student.pop('department')
-        password = self.generate_password()
-        student = Student.objects.create_user(**example_student, password=password)
-        student_profile = StudentProfile(user=student, student_id=student.username, department_id=department)
-        student_profile.save()
+        to_mail = []
 
-        print(student)
-        print(department)
-        print(password)
+        for row in data:
+            profile = {}
+            department = row.pop('department')
+            password = self.generate_password()
+            student = Student.objects.create_user(**row, password=password)
+            student_profile = StudentProfile(user=student, student_id=student.username, department_id=department)
+            student_profile.save()
+
+            profile["student_id"] = row["username"]
+            profile["password"] = password
+            profile["department"] = department
+            profile["email"] = row["email"]
+
+            to_mail.append(profile)
+
+        return to_mail
 
     def generate_password(self):
         alphabet = string.ascii_letters + string.digits + string.punctuation

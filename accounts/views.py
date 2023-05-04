@@ -7,13 +7,23 @@ from accounts.serializers import LoginSerializer
 from django.contrib.auth.hashers import check_password
 from django.contrib.auth import update_session_auth_hash
 from django.http import HttpResponse
+from django.utils.datastructures import MultiValueDictKeyError
+from django.db.utils import IntegrityError
 from accounts.serializers import UserNameSerializer
-from accounts.models import Student
+from accounts.models import Student, UploadTask
 from school.models import StudentProfile
+from asgiref.sync import async_to_sync
 
+from accounts.taskHandler import Status, TaskHandler
+
+import uuid
 import csv
 import string
 import random
+from datetime import datetime
+import time
+from deficiency_portal_backend.settings import BASE_DIR
+import os
 
 # Create your views here.
 class CheckAuthenticatedView(APIView):
@@ -81,23 +91,37 @@ class UserName(APIView):
     
 class InsertUsers(APIView):
     def post(self, request, format=None):
-        file = request.FILES['file']
+        try:
+            file = request.FILES['file']
+        except MultiValueDictKeyError:
+            return Response({"error": "Please upload a file"})
+            
         data = self.process_file(file)
+        task_id = TaskHandler().start_task( self.insert_data, [ data ] )
 
-        to_mail = self.insert_data(data)
-        response = self.generate_csv_response(to_mail)        
-        print(response)
-        print(to_mail[0])
+        uploadTask = UploadTask(file_name=file.name, job_id=task_id)
+        uploadTask.save()
+
+        print(uploadTask)
+
+        # to_mail = self.insert_data(data)
+        # response = self.generate_csv_response(to_mail)        
+        # print(response)
+        # print(to_mail[0])
+
+        response = Response({"success": "Your file is being uploaded"})
 
         return response
 
-    def generate_csv_response(self, to_mail):
-        response = HttpResponse(content_type='text/csv')
-        response['Content-Disposition'] = 'attachment; filename="export.csv"'
+    def generate_csv(self, to_mail, job_id):
+        file_path = os.path.join(BASE_DIR, f"email_list\{job_id}.csv")
+
+        # response = HttpResponse(content_type='text/csv')
+        # response['Content-Disposition'] = 'attachment; filename="export.csv"'
 
         # Define the CSV writer with the same keys as the dictionaries
         fieldnames = to_mail[0].keys()
-        writer = csv.DictWriter(response, fieldnames=fieldnames)
+        writer = csv.DictWriter(open(file_path, 'w'), fieldnames=fieldnames)
         
         # Write the header row to the CSV file
         writer.writeheader()
@@ -105,8 +129,8 @@ class InsertUsers(APIView):
         # Write each dictionary as a row to the CSV file
         for row in to_mail:
             writer.writerow(row)
-
-        return response
+        
+        return f"email_list\{job_id}.csv"
 
     def process_file(self, file):
         reader = csv.DictReader(file.read().decode('latin-1').splitlines())
@@ -115,25 +139,51 @@ class InsertUsers(APIView):
 
         return data
     
-    def insert_data(self, data):
+
+    def insert_data(self, data, task_progress ):
         to_mail = []
 
+        task_progress.set( Status.STARTED, progress_message="The process has been started" )
+
         for row in data:
-            profile = {}
-            department = row.pop('department')
-            password = self.generate_password()
-            student = Student.objects.create_user(**row, password=password)
-            student_profile = StudentProfile(user=student, student_id=student.username, department_id=department)
-            student_profile.save()
+            try:
+                profile = {}
+                department = row.pop('department')
+                password = self.generate_password()
+                student = Student.objects.create_user(**row, password=password)
+                student_profile = StudentProfile(user=student, student_id=student.username, department_id=department)
+                student_profile.save()
 
-            profile["student_id"] = row["username"]
-            profile["password"] = password
-            profile["department"] = department
-            profile["email"] = row["email"]
+                profile["student_id"] = row["username"]
+                profile["password"] = password
+                profile["department"] = department
+                profile["email"] = row["email"]
 
-            to_mail.append(profile)
+                to_mail.append(profile)
+            except IntegrityError:
+                print(f"User with index {row['username']} already exists")
 
-        return to_mail
+        task_progress.set( Status.SUCCESS, output=to_mail )
+        task_id = task_progress.task_id
+        uploadTask = UploadTask.objects.get(job_id=task_id)
+        
+
+        try:
+            csv = self.generate_csv(to_mail, task_id)
+            
+            print(f"{task_id} is done. {csv} is created")
+            uploadTask.done_uploading = True
+            uploadTask.csv_generated = True
+            uploadTask.csv_filename = f"{task_id}.csv"
+            
+        except Exception as e:
+            print(e)
+            uploadTask.failed = True
+
+        finally:
+            uploadTask.save()
+            print(uploadTask)
+
 
     def generate_password(self):
         alphabet = string.ascii_letters + string.digits + string.punctuation

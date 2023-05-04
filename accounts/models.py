@@ -45,3 +45,17 @@ class Employee(User):
 
     class Meta:
         proxy = True
+
+class UploadTask(models.Model):
+    file_name = models.CharField(max_length=100)
+    done_uploading = models.BooleanField(default=False)
+    job_id = models.CharField(max_length=100, default=None, null=True, blank=True)
+    csv_generated = models.BooleanField(default=False)
+    csv_filename = models.CharField(max_length=100, default=None, null=True, blank=True)
+    failed = models.BooleanField(default=False)
+
+    def __str__(self):
+        status_message = f"is being uploaded with a job id {self.job_id}" if not self.done_uploading else "is done uploading. Download the email list"
+        if self.failed:
+            status_message = "has failed uploading"
+        return f"The file {self.file_name}  {status_message}"

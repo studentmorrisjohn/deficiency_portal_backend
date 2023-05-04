@@ -7,5 +7,7 @@ urlpatterns = [
     path('login', views.LoginView.as_view()),
     path('logout', views.LogoutView.as_view()),
     path('change-pass', views.ChangePasword.as_view()),
-    path('insert-users', views.InsertUsers.as_view())
+    path('insert-users', views.InsertUsers.as_view()),
+    path('uploads', views.UploadTaskList.as_view()),
+    path('download-list/<str:file_name>', views.EmailListCSV.as_view())
 ]

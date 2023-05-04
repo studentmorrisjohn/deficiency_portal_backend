@@ -39,7 +39,7 @@ with open('departments.txt', 'r', encoding='utf-8') as file:
     # Remove any trailing newline characters from each line
     departments = [line.rstrip('\n').lstrip() for line in lines]
 
-for i in range(10):
+for i in range(50):
     profile = {}
     random_num = f"{random.randint(1,9999):04}"
     username = f"2021-{random_num}-MN-0"

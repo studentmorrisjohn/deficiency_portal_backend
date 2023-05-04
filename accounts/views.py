@@ -6,10 +6,10 @@ from rest_framework.permissions import AllowAny
 from accounts.serializers import LoginSerializer
 from django.contrib.auth.hashers import check_password
 from django.contrib.auth import update_session_auth_hash
-from django.http import HttpResponse
+from django.http import FileResponse
 from django.utils.datastructures import MultiValueDictKeyError
 from django.db.utils import IntegrityError
-from accounts.serializers import UserNameSerializer
+from accounts.serializers import UserNameSerializer, UploadTaskSerializer
 from accounts.models import Student, UploadTask
 from school.models import StudentProfile
 from asgiref.sync import async_to_sync
@@ -95,7 +95,7 @@ class InsertUsers(APIView):
             file = request.FILES['file']
         except MultiValueDictKeyError:
             return Response({"error": "Please upload a file"})
-            
+        
         data = self.process_file(file)
         task_id = TaskHandler().start_task( self.insert_data, [ data ] )
 
@@ -121,7 +121,7 @@ class InsertUsers(APIView):
 
         # Define the CSV writer with the same keys as the dictionaries
         fieldnames = to_mail[0].keys()
-        writer = csv.DictWriter(open(file_path, 'w'), fieldnames=fieldnames)
+        writer = csv.DictWriter(open(file_path, 'w', newline=''), fieldnames=fieldnames)
         
         # Write the header row to the CSV file
         writer.writeheader()
@@ -189,3 +189,30 @@ class InsertUsers(APIView):
         alphabet = string.ascii_letters + string.digits + string.punctuation
         password = ''.join(random.choice(alphabet) for i in range(8))
         return password
+    
+class UploadTaskList(APIView):
+    def get(self, request, format=None):
+        try:
+            tasks = UploadTask.objects.all().order_by('-id')
+
+            serializer = UploadTaskSerializer(tasks, many=True)
+
+            return Response(serializer.data)
+        except Exception as e:
+            print(e)
+            return Response({"error": e})
+    
+class EmailListCSV(APIView):
+    def get(self, request, file_name, format=None):
+
+        file_path = os.path.join(BASE_DIR, f"email_list\{file_name}")
+        # Open the file and create a FileResponse object
+        file_handle = open(file_path, 'rb')
+        response = FileResponse(file_handle)
+
+        # Set the content type and filename
+        response['Content-Type'] = 'text/csv'
+        response['Content-Disposition'] = 'attachment; filename="data.csv"'
+
+        # Return the response
+        return response

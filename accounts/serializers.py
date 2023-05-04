@@ -1,6 +1,6 @@
 from rest_framework import serializers
 from django.contrib.auth import authenticate
-from accounts.models import User
+from accounts.models import User, UploadTask
 
 class LoginSerializer(serializers.Serializer):
     """
@@ -46,3 +46,8 @@ class UserNameSerializer(serializers.ModelSerializer):
     class Meta:
         model = User
         fields = ['first_name', 'middle_name', 'last_name', 'username']
+
+class UploadTaskSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = UploadTask
+        fields = '__all__'
